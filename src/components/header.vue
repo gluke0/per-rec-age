@@ -18,6 +18,9 @@ export default{
          <div class="logo">
             <img src="/src/assets/logo-nobg.png" alt="Logo">
          </div>
+         <div class="menu">
+            
+         </div>
       </header>
    </section>
     
