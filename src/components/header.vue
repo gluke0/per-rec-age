@@ -22,10 +22,10 @@ export default{
             <div class="starter">
 
             </div>
-            <div class="main">
+            <div class="first">
                
             </div>
-            <div class="second">
+            <div class="main">
                
             </div>
             <div class="dessert">
