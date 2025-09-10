@@ -19,7 +19,18 @@ export default{
             <img src="/src/assets/logo-nobg.png" alt="Logo">
          </div>
          <div class="menu">
-            
+            <div class="starter">
+
+            </div>
+            <div class="main">
+               
+            </div>
+            <div class="second">
+               
+            </div>
+            <div class="dessert">
+
+            </div>
          </div>
       </header>
    </section>
