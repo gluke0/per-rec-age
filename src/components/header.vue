@@ -20,16 +20,16 @@ export default{
          </div>
          <div class="menu">
             <div class="starter">
-
+               Antipasti
             </div>
             <div class="first">
-               
+               Primi
             </div>
             <div class="main">
-               
+               Secondi
             </div>
             <div class="dessert">
-
+               Dolci
             </div>
          </div>
       </header>
