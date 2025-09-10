@@ -22,4 +22,9 @@ section{
 .menu{
     display: flex;
     justify-content: space-around;
+    font-size: x-large;
+}
+
+.menu div:hover{
+    cursor: pointer;
 }
