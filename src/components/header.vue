@@ -15,7 +15,9 @@ export default{
 
    <section>
       <header>
-         
+         <div class="logo">
+            <img src="/src/assets/logo-nobg.png" alt="">
+         </div>
       </header>
    </section>
     
