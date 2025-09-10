@@ -18,6 +18,9 @@ export default{
          <div class="logo">
             <img src="/src/assets/logo-nobg.png" alt="Logo">
          </div>
+         <div class="fader">
+            <!-- this will be used to have a fade between the div -->
+         </div>
          <div class="menu">
             <div class="starter">
                Antipasti
