@@ -34,6 +34,7 @@ export default{
             <div class="dessert">
                Dolci
             </div>
+            <input type="text" placeholder="Cerca">
          </div>
       </header>
    </section>
