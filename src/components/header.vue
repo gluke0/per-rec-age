@@ -16,7 +16,7 @@ export default{
    <section>
       <header>
          <div class="logo">
-            <img src="/src/assets/logo-nobg.png" alt="Logo">
+            <h1>Cheffy</h1>
          </div>
          <div class="fader">
             <!-- this will be used to have a fade between the div -->
