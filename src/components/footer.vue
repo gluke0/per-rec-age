@@ -12,7 +12,7 @@ export default{
 </script>
 
 <template>
-    
+    <div>gluke</div>
 </template>
 
 <style lang="scss">
