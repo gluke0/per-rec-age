@@ -12,7 +12,9 @@ export default{
 </script>
 
 <template>
-    <div>gluke</div>
+   <footer>
+      <div class="credits">gluke</div>
+   </footer>
 </template>
 
 <style lang="scss">
