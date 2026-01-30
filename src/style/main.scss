@@ -1,4 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+// colors
+:root{
+    --main-background: #7a7878;
+    --hover-text: #ffffff;
+
+
+}
+
+
 *{
     border: 0;
     padding: 0;
@@ -9,7 +19,7 @@
 body{
     height: 100vh;
     width: 100%;
-    background-color: rgb(122, 120, 120);
+    background-color: var(--main-background)
 }
 
 section{
@@ -30,7 +40,7 @@ section{
 
 .menu div:hover{
     cursor: pointer;
-    color: rgb(255, 255, 255);
+    color: var(--hover-text)
 }
 
 // footer
