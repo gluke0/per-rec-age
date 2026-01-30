@@ -3,9 +3,8 @@
 // colors
 :root{
     --main-background: #7a7878;
+    --darker-backgroud: #696868;
     --hover-text: #ffffff;
-
-
 }
 
 
@@ -32,10 +31,11 @@ section{
 }
 
 .menu{
+    background-color: var(--darker-backgroud);
     display: flex;
     justify-content: space-around;
     font-size: x-large;
-    margin-top: 1rem;
+    padding: 2rem 1rem;
 }
 
 .menu div:hover{
