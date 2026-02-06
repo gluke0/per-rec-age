@@ -1,6 +1,7 @@
 <script >
   import Header from './components/header.vue';
   import Footer from './components/footer.vue';
+  import Main from './components/main.vue';
 
   export default{
     name: "App",
@@ -10,6 +11,7 @@
     },
   components:{
     Header,
+    Main,
     Footer,
   },
 };
@@ -17,6 +19,7 @@
 
 <template>
   <Header></Header> 
+  <Main></Main>
   <Footer></Footer> 
 </template>
 
