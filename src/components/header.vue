@@ -18,9 +18,6 @@ export default{
          <div class="logo">
             <h1>Cheffy</h1>
          </div>
-         <div class="fader">
-            <!-- this will be used to have a fade between the div -->
-         </div>
          <div class="menu">
             <div class="starter">
                Antipasti
