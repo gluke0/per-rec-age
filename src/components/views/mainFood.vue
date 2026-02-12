@@ -1,7 +1,7 @@
 <script >
 
   export default{
-    name: "Main",
+    name: "MainFood",
     data(){
       return{
       }
