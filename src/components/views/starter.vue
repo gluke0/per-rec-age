@@ -14,7 +14,12 @@
 <template>
   <section>
     <div class="part-container">
+      <div class="part-container-header">
+        <h2>Antipasti</h2>
+      </div>
+      <div>
 
+      </div>
     </div>
   </section>
 </template>
