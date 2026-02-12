@@ -13,7 +13,7 @@ export default{
 
 <template>
    <footer>
-      <div class="credits">gluke 2026</div>
+      <div class="credits">Cheffy 2026</div>
    </footer>
 </template>
 
