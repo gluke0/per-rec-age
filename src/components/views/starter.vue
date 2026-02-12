@@ -12,7 +12,9 @@
 </script>
 
 <template>
-  
+  <div class="part-container">
+    
+  </div>
 </template>
 
 <style lang="scss">
