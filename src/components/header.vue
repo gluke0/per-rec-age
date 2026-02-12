@@ -31,6 +31,9 @@ export default{
             <div class="main">
                Secondi
             </div>
+            <div class="side">
+               Contorni
+            </div>
             <div class="dessert">
                Dolci
             </div>

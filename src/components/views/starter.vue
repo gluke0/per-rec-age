@@ -1,7 +1,7 @@
 <script >
 
   export default{
-    name: "Entry",
+    name: "Starter",
     data(){
       return{
       }
