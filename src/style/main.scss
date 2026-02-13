@@ -4,7 +4,7 @@
 :root{
     --main-background: #7a7878;
     --darker-backgroud: #696868;
-    --hover-text: #ffffff;
+    --non-white: #dedada;
 }
 
 
@@ -42,7 +42,7 @@ section{
 
 .menu div:hover{
     cursor: pointer;
-    color: var(--hover-text)
+    color: var(--non-white);
 }
 
 // main
