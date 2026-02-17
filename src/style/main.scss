@@ -34,7 +34,7 @@ section{
 }
 
 // header
-.logo{
+#logo{
     text-align: center;
     font-size: large;
 }
@@ -92,13 +92,13 @@ section{
     right: 0;
 }
 
-.backtotop .ri-arrow-up-box-fill{
+.backtotop a .ri-arrow-up-box-fill{
     background-color: var(--darker-backgroud);
     font-size: 2.5rem;
     color: var(--slightly-gray);
 }
 
-.backtotop .ri-arrow-up-box-fill:hover{
+.backtotop a .ri-arrow-up-box-fill:hover{
     cursor: pointer;
     color: var(--non-white);
 }

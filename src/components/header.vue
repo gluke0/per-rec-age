@@ -15,7 +15,7 @@ export default{
 
    <section>
       <header>
-         <div class="logo">
+         <div id="logo">
             <h1>Cheffy</h1>
          </div>
          <div class="menu">
