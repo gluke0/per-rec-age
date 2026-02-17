@@ -46,7 +46,7 @@ section{
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.menu div:hover{
+.menu div a:hover{
     cursor: pointer;
     color: var(--non-white);
 }
