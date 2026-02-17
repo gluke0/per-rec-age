@@ -29,7 +29,7 @@ export default{
                <a href="#mainfood">Secondi</a>
             </div>
             <div class="side">
-               Contorni
+               <a href="side">Contorni</a>
             </div>
             <div class="dessert">
                Dolci

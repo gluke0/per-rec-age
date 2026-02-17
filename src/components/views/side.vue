@@ -12,7 +12,7 @@
 </script>
 
 <template>
-  <section>
+  <section id="side">
     <div class="part-container">
       <div class="part-container-header">
         <h2>Contorni</h2>
