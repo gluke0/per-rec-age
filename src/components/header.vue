@@ -32,7 +32,7 @@ export default{
                <a href="side">Contorni</a>
             </div>
             <div class="dessert">
-               Dolci
+               <a href="dessert">Dolci</a>
             </div>
             <input type="text" placeholder="Cerca">
          </div>

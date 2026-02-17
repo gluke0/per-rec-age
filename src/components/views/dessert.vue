@@ -12,7 +12,7 @@
 </script>
 
 <template>
-  <section>
+  <section id="dessert">
     <div class="part-container">
       <div class="part-container-header">
         <h2>Dolci</h2>
