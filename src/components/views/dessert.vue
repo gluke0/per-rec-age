@@ -20,8 +20,8 @@
       <div>
 
       </div>
-      <button>
-        top
+      <button class="backtotop">
+        <i class="ri-arrow-up-box-fill"></i>
       </button>
     </div>
   </section>
