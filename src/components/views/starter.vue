@@ -12,7 +12,7 @@
 </script>
 
 <template>
-  <section>
+  <section id="starter">
     <div class="part-container">
       <div class="part-container-header">
         <h2>Antipasti</h2>

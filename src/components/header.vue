@@ -20,7 +20,7 @@ export default{
          </div>
          <div class="menu">
             <div class="starter">
-               Antipasti
+               <a href="#starter">Antipasti</a>
             </div>
             <div class="first">
                Primi
