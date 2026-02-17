@@ -23,16 +23,16 @@ export default{
                <a href="#starter">Antipasti</a>
             </div>
             <div class="first">
-               <a href="first">Primi</a>
+               <a href="#first">Primi</a>
             </div>
             <div class="main">
                <a href="#mainfood">Secondi</a>
             </div>
             <div class="side">
-               <a href="side">Contorni</a>
+               <a href="#side">Contorni</a>
             </div>
             <div class="dessert">
-               <a href="dessert">Dolci</a>
+               <a href="#dessert">Dolci</a>
             </div>
             <input type="text" placeholder="Cerca">
          </div>
