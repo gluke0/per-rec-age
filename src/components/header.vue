@@ -23,7 +23,7 @@ export default{
                <a href="#starter">Antipasti</a>
             </div>
             <div class="first">
-               Primi
+               <a href="first">Primi</a>
             </div>
             <div class="main">
                <a href="#mainfood">Secondi</a>

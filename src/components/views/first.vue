@@ -12,7 +12,7 @@
 </script>
 
 <template>
-  <section>
+  <section id="first">
     <div class="part-container">
       <div class="part-container-header">
         <h2>Primi</h2>
