@@ -34,7 +34,10 @@ export default{
             <div class="dessert">
                <a href="#dessert">Dolci</a>
             </div>
-            <input type="text" placeholder="Cerca">
+            <div class="inputsearch">
+               <i class="ri-search-line"></i>
+               <input type="text" placeholder="Cerca">
+            </div>
          </div>
       </header>
    </section>

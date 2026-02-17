@@ -53,8 +53,15 @@ section{
     color: var(--non-white);
 }
 
+.menu .inputsearch{
+    display: flex;
+    align-items: center;
+}
+
 .menu input{
     background-color: var(--slightly-gray);
+    height: 100%;
+    margin-left: 3px;
 }
 
 // main
