@@ -12,7 +12,7 @@
 </script>
 
 <template>
-  <section>
+  <section id="mainfood">
     <div class="part-container">
       <div class="part-container-header">
         <h2>Secondi</h2>

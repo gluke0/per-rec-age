@@ -26,7 +26,7 @@ export default{
                Primi
             </div>
             <div class="main">
-               Secondi
+               <a href="#mainfood">Secondi</a>
             </div>
             <div class="side">
                Contorni
