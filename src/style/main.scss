@@ -6,6 +6,7 @@
     --main-background: #7a7878;
     --darker-backgroud: #696868;
     --non-white: #dedada;
+    --slightly-gray: #918e8e;
 }
 
 
@@ -82,6 +83,17 @@ section{
     position: absolute;
     bottom: 0;
     right: 0;
+}
+
+.backtotop .ri-arrow-up-box-fill{
+    background-color: var(--darker-backgroud);
+    font-size: 2.5rem;
+    color: var(--slightly-gray);
+}
+
+.backtotop .ri-arrow-up-box-fill:hover{
+    cursor: pointer;
+    color: var(--non-white);
 }
 
 // footer
