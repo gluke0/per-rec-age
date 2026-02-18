@@ -103,6 +103,17 @@ section{
     color: var(--non-white);
 }
 
+.recipe-card-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.recipe-card{
+    width: calc(100% / 3);
+    height: 20rem;
+}
+
 // footer
 footer{
     display: flex;
