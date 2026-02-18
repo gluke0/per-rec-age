@@ -19,7 +19,15 @@
       </div>
       <div class="recipe-card-wrapper">
         <div class="recipe-card">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptas aspernatur reiciendis consequatur soluta laudantium praesentium odit! Provident neque sapiente, quidem possimus incidunt ipsam vel sequi, perferendis accusantium quae pariatur.
+          <div>
+            <h3>Ricetta</h3>
+          </div>
+          <div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptas aspernatur reiciendis consequatur soluta laudantium praesentium odit! Provident neque sapiente, quidem possimus incidunt ipsam vel sequi, perferendis accusantium quae pariatur.
+          </div>
+          <div>
+            Continua 
+          </div>
         </div>
         <div class="recipe-card">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni asperiores possimus in, culpa voluptates, sed earum labore quam deserunt sunt non? Ipsam amet, rem labore minima pariatur ducimus vitae mollitia.
