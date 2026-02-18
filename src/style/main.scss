@@ -112,7 +112,8 @@ section{
 .recipe-card{
     width: calc((100% - 30px) / 3);
     height: 20rem;
-    margin: 3px;
+    margin: 6px 3px;
+    padding: 0.3rem 0.5rem;
 
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
