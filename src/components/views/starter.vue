@@ -19,14 +19,17 @@
       </div>
       <div class="recipe-card-wrapper">
         <div class="recipe-card">
-          <div>
+          <div class="recipe-title">
             <h3>Ricetta</h3>
           </div>
-          <div>
+          <div class="recipe-preview">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptas aspernatur reiciendis consequatur soluta laudantium praesentium odit! Provident neque sapiente, quidem possimus incidunt ipsam vel sequi, perferendis accusantium quae pariatur.
           </div>
-          <div>
-            Continua 
+          <div class="recipe-img">
+
+          </div>
+          <div class="open-recipe">
+
           </div>
         </div>
         <div class="recipe-card">
