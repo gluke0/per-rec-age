@@ -98,7 +98,7 @@ section{
     color: var(--slightly-gray);
 }
 
-.backtotop a .ri-arrow-up-box-fill:hover, .open-recipe:hover{
+.backtotop a .ri-arrow-up-box-fill:hover{
     cursor: pointer;
     color: var(--non-white);
 }
@@ -131,7 +131,11 @@ section{
     margin-top: 2rem;
 }
 
-
+.open-recipe:hover{
+    cursor: pointer;
+    color: var(--non-white);
+    transform: scale(1.4);
+}
 
 // footer
 footer{
