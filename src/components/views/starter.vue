@@ -29,7 +29,8 @@
 
           </div>
           <div class="open-recipe">
-        
+            Leggi
+            <i class="ri-expand-diagonal-line"></i>
           </div>
         </div>
         <div class="recipe-card">
