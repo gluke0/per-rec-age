@@ -114,6 +114,7 @@ section{
     height: 20rem;
     margin: 6px 3px;
     padding: 0.3rem 0.5rem;
+    position: relative;
 
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -125,10 +126,9 @@ section{
 }
 
 .open-recipe{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 2rem;
+    position: absolute;
+    bottom: 2%;
+    left: 50%;
 }
 
 .open-recipe:hover{
