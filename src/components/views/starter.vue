@@ -29,7 +29,7 @@
 
           </div>
           <div class="open-recipe">
-
+        
           </div>
         </div>
         <div class="recipe-card">
