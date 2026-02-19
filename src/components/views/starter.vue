@@ -17,7 +17,9 @@
       <div class="part-container-header">
         <h2>Antipasti</h2>
       </div>
+
       <div class="recipe-card-wrapper">
+
         <div class="recipe-card">
           <div class="recipe-title">
             <h3>Ricetta</h3>
@@ -32,6 +34,7 @@
             <i class="ri-expand-diagonal-line"></i>
           </div>
         </div>
+        
         <div class="recipe-card">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni asperiores possimus in, culpa voluptates, sed earum labore quam deserunt sunt non? Ipsam amet, rem labore minima pariatur ducimus vitae mollitia.
         </div>
@@ -48,6 +51,7 @@
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam suscipit explicabo ea voluptas enim quia magni quidem quos, ratione repellendus? Modi ipsam porro iure incidunt. Sunt, quis. Ea, veniam illo?
         </div>
       </div>
+
       <button class="backtotop">
         <a href="#logo"><i class="ri-arrow-up-box-fill"></i></a>
       </button>
