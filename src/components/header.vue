@@ -39,7 +39,7 @@ export default{
                <input type="text" placeholder="Cerca">
             </div>
             <div class="info-nav">
-               
+               <i class="ri-information-2-line"></i>
             </div>
          </div>
       </header>
