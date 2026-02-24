@@ -42,6 +42,9 @@ export default{
                <i class="ri-information-2-line"></i>
             </div>
          </div>
+         <div class="info-div">
+
+         </div>
       </header>
    </section>
     
