@@ -38,6 +38,9 @@ export default{
                <i class="ri-search-line"></i>
                <input type="text" placeholder="Cerca">
             </div>
+            <div class="info-nav">
+               
+            </div>
          </div>
       </header>
    </section>
