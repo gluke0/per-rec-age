@@ -43,7 +43,7 @@ export default{
             </div>
          </div>
          <div class="info-div">
-
+            <h3>Legenda</h3>
          </div>
       </header>
    </section>

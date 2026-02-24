@@ -64,6 +64,13 @@ section{
     margin-left: 3px;
 }
 
+.info-div{
+    width: 75%;
+    margin: 2rem auto;
+    background-color: var(--darker-backgroud);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
 // main
 .part-container{
     background-color: var(--darker-backgroud);
