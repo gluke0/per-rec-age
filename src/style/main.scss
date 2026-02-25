@@ -7,6 +7,12 @@
     --darker-backgroud: #696868;
     --non-white: #dedada;
     --slightly-gray: #918e8e;
+
+    // legenda colors
+    --meat: #7c400f;
+    --fish: #0e2e96;
+    --vegan: #cdcd2f;
+    --vegetarian: #0a6d29;
 }
 
 
@@ -69,6 +75,10 @@ section{
     margin: 2rem auto;
     background-color: var(--darker-backgroud);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.info-div .leg-c{
+    color: ;
 }
 
 // main
