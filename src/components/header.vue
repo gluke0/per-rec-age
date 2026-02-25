@@ -44,10 +44,10 @@ export default{
          </div>
          <div class="info-div">
             <h3>Legenda</h3>
-            <span>Carne</span>
-            <span>Pesce</span>
-            <span>Vegano</span>
-            <span>Vegetariano</span>
+            <span>Carne:</span>
+            <span>Pesce:</span>
+            <span>Vegano:</span>
+            <span>Vegetariano:</span>
          </div>
       </header>
    </section>
