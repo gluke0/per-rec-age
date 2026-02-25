@@ -43,7 +43,7 @@ export default{
             </div>
          </div>
          <div class="info-div">
-            <h3>Legenda</h3>
+            <h3>Info:</h3>
             <span>Carne:</span> <span class="leg-c">C</span>
             <span>Pesce:</span>  <span class="leg-p">P</span>
             <span>Vegano:</span> <span class="leg-veg">VEG</span>
