@@ -44,10 +44,20 @@ export default{
          </div>
          <div class="info-div">
             <h3>Info:</h3>
-            <span>Carne:</span> <span class="leg-c">C</span>
-            <span>Pesce:</span>  <span class="leg-p">P</span>
-            <span>Vegano:</span> <span class="leg-veg">VEG</span>
-            <span>Vegetariano:</span> <span class="leg-v">V</span>
+            <div class="info-elements">
+               <div>
+                  <span>Carne:</span> <span class="leg-c">C</span>
+               </div>
+               <div>
+                  <span>Pesce:</span>  <span class="leg-p">P</span>
+               </div>
+               <div>
+                  <span>Vegano:</span> <span class="leg-veg">VEG</span>
+               </div>
+               <div>
+                  <span>Vegetariano:</span> <span class="leg-v">V</span>
+               </div>
+            </div>
          </div>
       </header>
    </section>

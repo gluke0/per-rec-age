@@ -71,9 +71,22 @@ section{
 
 .info-div{
     width: 75%;
+    padding: 0.5rem 1rem;
     margin: 2rem auto;
     background-color: var(--darker-backgroud);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.info-div .info-elements{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-elements div{
+    display: flex;
+    align-items: center;
 }
 
 .info-div .leg-c{
