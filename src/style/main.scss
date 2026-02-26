@@ -96,6 +96,12 @@ section{
     right: 0;
 }
 
+.info-div button .ri-close-line, .backtotop a .ri-arrow-up-box-fill{
+    background-color: var(--darker-backgroud);
+    font-size: 2.5rem;
+    color: var(--slightly-gray);
+}
+
 .info-elements div{
     display: flex;
     align-items: center;
@@ -149,12 +155,6 @@ section{
     position: absolute;
     bottom: 0;
     right: 0;
-}
-
-.backtotop a .ri-arrow-up-box-fill{
-    background-color: var(--darker-backgroud);
-    font-size: 2.5rem;
-    color: var(--slightly-gray);
 }
 
 .backtotop a .ri-arrow-up-box-fill:hover{
