@@ -4,3 +4,9 @@ import App from './App.vue'
 createApp(App).mount('#app')
 
 // clicking on the i icon to show legenda div
+let infoNavDiv = document.querySelector('.info-nav');
+let infoDiv = document.querySelector('.info-div');
+
+infoNavDiv.addEventListener('click', function(){
+    infoDiv.classList.toggle('hidden');
+});
