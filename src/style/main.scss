@@ -102,6 +102,11 @@ section{
     color: var(--slightly-gray);
 }
 
+.info-div button .ri-close-line:hover, .backtotop a .ri-arrow-up-box-fill:hover{
+    cursor: pointer;
+    color: var(--non-white);
+}
+
 .info-elements div{
     display: flex;
     align-items: center;
@@ -155,11 +160,6 @@ section{
     position: absolute;
     bottom: 0;
     right: 0;
-}
-
-.backtotop a .ri-arrow-up-box-fill:hover{
-    cursor: pointer;
-    color: var(--non-white);
 }
 
 .recipe-card-wrapper{
