@@ -80,6 +80,7 @@ section{
     margin: 2rem auto;
     background-color: var(--darker-backgroud);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
 }
 
 .info-div .info-elements{
@@ -87,6 +88,12 @@ section{
     margin: auto;
     display: flex;
     justify-content: space-between;
+}
+
+.info-div button{
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 .info-elements div{

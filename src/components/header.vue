@@ -44,6 +44,9 @@ export default{
          </div>
          <div class="info-div hidden">
             <h3>Info:</h3>
+            <button>
+               <i class="ri-close-line"></i>
+            </button>
             <div class="info-elements">
                <div>
                   <span>Carne:</span> <span class="leg-c">C</span>
