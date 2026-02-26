@@ -87,6 +87,8 @@ section{
 .info-elements div{
     display: flex;
     align-items: center;
+    background-color: var(--slightly-gray);
+    padding: 0.2rem 0.6rem;
 }
 
 .info-div .leg-c{
