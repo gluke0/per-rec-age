@@ -5,6 +5,7 @@
 :root{
     --main-background: #7a7878;
     --darker-backgroud: #696868;
+    --almost-darker: #767575;
     --non-white: #dedada;
     --slightly-gray: #918e8e;
 
@@ -87,26 +88,23 @@ section{
 .info-elements div{
     display: flex;
     align-items: center;
-    background-color: var(--slightly-gray);
+    background-color: var(--almost-darker);
     padding: 0.2rem 0.6rem;
 }
 
 .info-div .leg-c{
     color: var(--meat);
     font-size: xx-large;
-    margin-right: 1.5rem;
 }
 
 .info-div .leg-p{
     color: var(--fish);
     font-size: xx-large;
-    margin-right: 1.5rem;
 }
 
 .info-div .leg-veg{
     color: var(--vegan);
     font-size: xx-large;
-    margin-right: 1.5rem;
 }
 
 .info-div .leg-v{
