@@ -42,7 +42,7 @@ export default{
                <i class="ri-information-2-line"></i>
             </div>
          </div>
-         <div class="info-div">
+         <div class="info-div hidden">
             <h3>Info:</h3>
             <div class="info-elements">
                <div>
