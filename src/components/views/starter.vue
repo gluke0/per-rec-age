@@ -22,7 +22,7 @@
 
         <div class="recipe-card">
           <div class="recipe-title">
-            <h3>Ricetta</h3>
+            <h3>Pomodorini Confit</h3>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
