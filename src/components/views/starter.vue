@@ -29,7 +29,8 @@
               <img src="../../assets/food/starter.jpg" alt="Starter Photo">
             </div>
             <div class="recipe-info-details">
-
+              <span class="leg-veg">VEG</span>
+              <span class="leg-v">V</span>
             </div>
             <div class="recipe-ingredients">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptas aspernatur reiciendis consequatur soluta laudantium praesentium odit! Provident neque sapiente, quidem possimus incidunt ipsam vel sequi, perferendis accusantium quae pariatur.
