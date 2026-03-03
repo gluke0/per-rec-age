@@ -34,12 +34,12 @@
             </div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
-              <ul>
-                <li>Pomodorini ciliegina</li>
-                <li>Sale</li>
-                <li>Olio Oliva</li>
-                <li>Origano</li>
-                <li>Zucchero di canna</li>
+              <ul class="ingredients-list">
+                <li>- Pomodorini ciliegina</li>
+                <li>- Sale</li>
+                <li>- Olio Oliva</li>
+                <li>- Origano</li>
+                <li>- Zucchero di canna</li>
               </ul>
             </div>
           </div>
