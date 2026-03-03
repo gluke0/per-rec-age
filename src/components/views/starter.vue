@@ -33,7 +33,14 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptas aspernatur reiciendis consequatur soluta laudantium praesentium odit! Provident neque sapiente, quidem possimus incidunt ipsam vel sequi, perferendis accusantium quae pariatur.
+              <h4>Ingredienti:</h4>
+              <ul>
+                <li>Pomodorini ciliegina</li>
+                <li>Sale</li>
+                <li>Olio Oliva</li>
+                <li>Origano</li>
+                <li>Zucchero di canna</li>
+              </ul>
             </div>
           </div>
           <div class="open-recipe">
