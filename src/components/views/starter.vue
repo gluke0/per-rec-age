@@ -42,6 +42,9 @@
                 <li>- Zucchero di canna</li>
               </ul>
             </div>
+            <div class="recipe-process">
+
+            </div>
           </div>
           <div class="open-recipe">
             <i class="ri-expand-diagonal-line"></i>
