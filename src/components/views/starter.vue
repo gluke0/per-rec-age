@@ -28,7 +28,12 @@
             <div class="recipe-img">
               <img src="../../assets/food/starter.jpg" alt="Starter Photo">
             </div>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptas aspernatur reiciendis consequatur soluta laudantium praesentium odit! Provident neque sapiente, quidem possimus incidunt ipsam vel sequi, perferendis accusantium quae pariatur.
+            <div class="recipe-info-details">
+
+            </div>
+            <div class="recipe-ingredients">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptas aspernatur reiciendis consequatur soluta laudantium praesentium odit! Provident neque sapiente, quidem possimus incidunt ipsam vel sequi, perferendis accusantium quae pariatur.
+            </div>
           </div>
           <div class="open-recipe">
             <i class="ri-expand-diagonal-line"></i>
