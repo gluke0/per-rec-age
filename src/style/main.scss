@@ -212,6 +212,13 @@ section{
     transform: scale(1.4);
 }
 
+.inf-r-mar{
+    margin-right: 0.5rem;
+    font-size: large;
+    background-color: var(--almost-darker);
+    padding: 0.1rem 0.5rem;
+}
+
 // footer
 footer{
     display: flex;
