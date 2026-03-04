@@ -21,11 +21,9 @@
       <div class="recipe-card-wrapper">
 
         <div class="recipe-card recipe-1">
-          <div class="share-recipe">
-            <i class="ri-share-2-line"></i>
-          </div>
           <div class="recipe-title">
             <h3>Pomodorini Confit</h3>
+            <i class="ri-share-2-line"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
