@@ -60,7 +60,7 @@
         
         <div class="recipe-card recipe-2">
           <div class="recipe-title">
-            <h3>Pomodorini Confit</h3>
+            <h3>Radicchio al forno</h3>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
@@ -73,22 +73,19 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Pomodorini ciliegino</li>
+                <li>- Radicchio</li>
                 <li>- Olio EVO</li>
                 <li>- Sale</li>
-                <li>- Origano</li>
-                <li>- Zucchero di canna</li>
               </ul>
             </div>
             <div class="recipe-process">
               <ul>
-                <li>> Lavare i pomodorini, tagliarli a metà e metterli in una ciotola con olio EVO, un pizzico di sale e origano.</li>
-                <li>> Una volta mescolato delicatamente, adagiare i pomodirini, uno ad uno, sulla teglia della friggitrice ad aria con la polpa rivolta verso l'alto.</li>
-                <li>> Aggiungere qualche granello di zucchero di canna per aiutare la caramelizzazione e cuocere.</li>
+                <li>> Lavare il radicchio, tagliarlo in quarti per il lungo e metterlo in una teglia con carta da forno.</li>
+                <li>> Cospargere con olio EVO, salare e infornare.</li>
               </ul>
             </div>
             <div class="cook-details">
-              <i class="ri-fire-line"></i> Cuocere per 25/30 min a 160ºC
+              <i class="ri-fire-line"></i> Cuocere per 15/20 min a 180ºC girandolo più volte. Possibilità di aggiungere olio EVO in uscita. 
             </div>
           </div>
           <div class="open-recipe">
