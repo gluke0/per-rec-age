@@ -102,7 +102,7 @@ section{
     color: var(--slightly-gray);
 }
 
-.info-div button .ri-close-line:hover, .backtotop a .ri-arrow-up-box-fill:hover{
+.info-div button .ri-close-line:hover, .backtotop a .ri-arrow-up-box-fill:hover, .ri-share-2-line:hover{
     cursor: pointer;
     color: var(--non-white);
 }
@@ -186,6 +186,8 @@ section{
 
 .ri-share-2-line{
     margin-right: 1rem;
+    color: var(--slightly-gray);
+    font-size: 1.5rem;
 }
 
 .recipe-card:hover{
