@@ -38,3 +38,5 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
         arrowExpand.classList.toggle('ri-arrow-up-wide-line');
     });
 });
+
+// share recipe card
