@@ -85,7 +85,12 @@
               </ul>
             </div>
             <div class="cook-details">
-              <i class="ri-fire-line"></i> Cuocere per 15/20 min a 180ºC girandolo più volte. Possibilità di aggiungere olio EVO in uscita. 
+              <div>
+                <i class="ri-fire-line"></i> Cuocere per 15/20 min a 180ºC girandolo più volte. Possibilità di aggiungere olio EVO in uscita.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i>
+              </div> 
             </div>
           </div>
           <div class="open-recipe">
