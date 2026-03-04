@@ -36,13 +36,18 @@
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
                 <li>- Pomodorini ciliegino</li>
-                <li>- Olio Oliva</li>
+                <li>- Olio EVO</li>
                 <li>- Sale</li>
                 <li>- Origano</li>
                 <li>- Zucchero di canna</li>
               </ul>
             </div>
             <div class="recipe-process">
+              Lavare i pomodorini, tagliarli a metà e metterli in una ciotola con olio EVO, un pizzico di sale e origano.
+              Una volta mescolato delicatamente, adagiare i pomodirini, uno ad uno, sulla teglia della friggitrice ad aria con la polpa ripolta verso l'alto.
+              Aggiungere qualche granello di zucchero di canna per aiutare la caramelizzazione e cuocere.
+            </div>
+            <div class="cook-details">
 
             </div>
           </div>
