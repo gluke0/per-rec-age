@@ -20,7 +20,7 @@
 
       <div class="recipe-card-wrapper">
 
-        <div class="recipe-card">
+        <div class="recipe-card recipe-1">
           <div class="recipe-title">
             <h3>Pomodorini Confit</h3>
           </div>

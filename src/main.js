@@ -28,3 +28,5 @@ closeX.addEventListener('click', function(){
         infoDiv.classList.add('hidden');
     }
 });
+
+// open and close a recipe
