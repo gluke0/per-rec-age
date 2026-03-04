@@ -48,7 +48,7 @@
               Aggiungere qualche granello di zucchero di canna per aiutare la caramelizzazione e cuocere.
             </div>
             <div class="cook-details">
-
+              Cuocere per 25/30 min a 160ºC
             </div>
           </div>
           <div class="open-recipe">
