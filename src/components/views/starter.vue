@@ -50,7 +50,7 @@
               </ul>
             </div>
             <div class="cook-details">
-              <i class="ri-fire-line"></i> Cuocere per 25/30 min a 160ºC
+              <i class="ri-fire-line"></i> Cuocere per 25/30 min a 160ºC.
             </div>
           </div>
           <div class="open-recipe">
@@ -86,10 +86,10 @@
             </div>
             <div class="cook-details">
               <div>
-                <i class="ri-fire-line"></i> Cuocere per 15/20 min a 180ºC girandolo più volte. Possibilità di aggiungere olio EVO in uscita.
+                <i class="ri-fire-line"></i> Cuocere per 15/20 min a 180ºC girandolo più volte.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i>
+                <i class="ri-lightbulb-ai-line"></i> Aggiungere un filo di olio EVO in uscita.
               </div> 
             </div>
           </div>
