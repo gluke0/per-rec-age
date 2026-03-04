@@ -184,6 +184,12 @@ section{
     height: fit-content;
 }
 
+.ri-share-2-line{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
 .recipe-card:hover{
     transform: translateY(-3px);
     box-shadow: 0 10px 20px var(--slightly-gray);
