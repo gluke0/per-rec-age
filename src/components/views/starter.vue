@@ -54,7 +54,7 @@
             </div>
           </div>
           <div class="open-recipe">
-            <i class="ri-expand-diagonal-line"></i>
+            <i class="ri-arrow-down-wide-line"></i>
           </div>
         </div>
         
