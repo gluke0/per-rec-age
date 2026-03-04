@@ -58,18 +58,41 @@
           </div>
         </div>
         
-        <div class="recipe-card">
+        <div class="recipe-card recipe-2">
           <div class="recipe-title">
-            <h3>Ricetta</h3>
+            <h3>Pomodorini Confit</h3>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
               <img src="../../assets/food/starter.jpg" alt="Starter Photo">
             </div>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptas aspernatur reiciendis consequatur soluta laudantium praesentium odit! Provident neque sapiente, quidem possimus incidunt ipsam vel sequi, perferendis accusantium quae pariatur.
+            <div class="recipe-info-details">
+              <span class="leg-veg inf-r-mar">VEG</span>
+              <span class="leg-v inf-r-mar">V</span>
+            </div>
+            <div class="recipe-ingredients">
+              <h4>Ingredienti:</h4>
+              <ul class="ingredients-list">
+                <li>- Pomodorini ciliegino</li>
+                <li>- Olio EVO</li>
+                <li>- Sale</li>
+                <li>- Origano</li>
+                <li>- Zucchero di canna</li>
+              </ul>
+            </div>
+            <div class="recipe-process">
+              <ul>
+                <li>> Lavare i pomodorini, tagliarli a metà e metterli in una ciotola con olio EVO, un pizzico di sale e origano.</li>
+                <li>> Una volta mescolato delicatamente, adagiare i pomodirini, uno ad uno, sulla teglia della friggitrice ad aria con la polpa rivolta verso l'alto.</li>
+                <li>> Aggiungere qualche granello di zucchero di canna per aiutare la caramelizzazione e cuocere.</li>
+              </ul>
+            </div>
+            <div class="cook-details">
+              <i class="ri-fire-line"></i> Cuocere per 25/30 min a 160ºC
+            </div>
           </div>
           <div class="open-recipe">
-            <i class="ri-expand-diagonal-line"></i>
+            <i class="ri-arrow-down-wide-line"></i>
           </div>
         </div>
 

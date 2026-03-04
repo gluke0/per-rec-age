@@ -30,3 +30,11 @@ closeX.addEventListener('click', function(){
 });
 
 // open and close a recipe
+document.querySelectorAll('.recipe-card').forEach(card =>{
+    card.querySelector('.open-recipe').addEventListener('click', () =>{
+        card.classList.toggle('expand');
+        let arrowExpand = card.querySelector('.open-recipe i');
+        arrowExpand.classList.toggle('ri-arrow-down-wide-line');
+        arrowExpand.classList.toggle('ri-arrow-up-wide-line');
+    });
+});
