@@ -170,7 +170,7 @@ section{
 
 .recipe-card{
     width: calc((100% - 30px) / 3);
-    height: 25rem;
+    height: fit-content;
     margin: 6px 3px;
     padding: 0.3rem 0.5rem;
     position: relative;

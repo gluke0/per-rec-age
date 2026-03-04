@@ -43,12 +43,14 @@
               </ul>
             </div>
             <div class="recipe-process">
-              Lavare i pomodorini, tagliarli a metà e metterli in una ciotola con olio EVO, un pizzico di sale e origano.
-              Una volta mescolato delicatamente, adagiare i pomodirini, uno ad uno, sulla teglia della friggitrice ad aria con la polpa ripolta verso l'alto.
-              Aggiungere qualche granello di zucchero di canna per aiutare la caramelizzazione e cuocere.
+              <ul>
+                <li>> Lavare i pomodorini, tagliarli a metà e metterli in una ciotola con olio EVO, un pizzico di sale e origano.</li>
+                <li>> Una volta mescolato delicatamente, adagiare i pomodirini, uno ad uno, sulla teglia della friggitrice ad aria con la polpa rivolta verso l'alto.</li>
+                <li>> Aggiungere qualche granello di zucchero di canna per aiutare la caramelizzazione e cuocere.</li>
+              </ul>
             </div>
             <div class="cook-details">
-              Cuocere per 25/30 min a 160ºC
+              <i class="ri-fire-line"></i> Cuocere per 25/30 min a 160ºC
             </div>
           </div>
           <div class="open-recipe">
