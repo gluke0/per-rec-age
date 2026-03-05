@@ -210,10 +210,12 @@ section{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-top: 1.5rem;
 }
 
 .recipe-title h3{
     font-size: 1.5rem;
+    line-height: 0;
 }
 
 .open-recipe{
