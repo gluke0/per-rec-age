@@ -21,7 +21,7 @@
       <div class="recipe-card-wrapper">
 
         <!-- starter 1 -->
-        <div class="recipe-card recipe-1">
+        <div class="recipe-card">
           <div class="recipe-title">
             <h3>Pomodorini Confit</h3>
             <i class="ri-share-2-line"></i>
@@ -62,7 +62,7 @@
         </div>
         
         <!-- starter 2 -->
-        <div class="recipe-card recipe-2">
+        <div class="recipe-card">
           <div class="recipe-title">
             <h3>Radicchio Al Forno</h3>
             <i class="ri-share-2-line"></i>
@@ -104,7 +104,7 @@
         </div>
 
         <!-- starter 3 -->
-        <div class="recipe-card recipe-2">
+        <div class="recipe-card">
           <div class="recipe-title">
             <h3>Uovo Fondente</h3>
             <i class="ri-share-2-line"></i>
@@ -147,7 +147,7 @@
         </div>
 
         <!-- starter 4 -->
-        <div class="recipe-card recipe-2">
+        <div class="recipe-card">
           <div class="recipe-title">
             <h3>Patè Di Vitello</h3>
             <i class="ri-share-2-line"></i>
