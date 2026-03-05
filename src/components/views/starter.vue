@@ -62,6 +62,7 @@
         <div class="recipe-card recipe-2">
           <div class="recipe-title">
             <h3>Radicchio al forno</h3>
+            <i class="ri-share-2-line"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
