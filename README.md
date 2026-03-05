@@ -1,7 +1,4 @@
-# Vue 3 + Vite
+<!-- template for the img generation -->
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Un rendering 3D di alta qualità in stile "soft claymation" (pasta modellabile) di pomodorini confit nella loro teglia, caratterizzato da texture opache levigate e proporzioni arrotondate e massicce. Estetica minimalista simile a un giocattolo con un'illuminazione globale morbida e diffusa. Sfondo nero solido e pulito per far risaltare i colori. Tavolozza di colori vivaci ma naturali con sfumature sottili. Alta risoluzione, 8k, stile rendering Octane o Blender. Proporzioni 9:9. Nessun logo di Gemini o filigrane nell'immagine. Sfondo completamente nero e immagine centrata
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
