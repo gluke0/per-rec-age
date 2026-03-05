@@ -196,15 +196,14 @@ section{
 }
 
 .recipe-card .recipe-img{
-    width: 100%;
+    width: 10rem;
     height: 10rem;
-    margin-bottom: 1rem;
 }
 
 .recipe-card .recipe-img img{
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+    width: 110%;
+    height: 110%;
+    object-fit: cover;
 }
 
 .recipe-title{
