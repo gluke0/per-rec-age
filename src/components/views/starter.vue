@@ -118,9 +118,10 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Radicchio</li>
+                <li>- Uova</li>
                 <li>- Olio EVO</li>
                 <li>- Sale</li>
+                <li>- Pepe</li>
               </ul>
             </div>
             <div class="recipe-process hidden">
