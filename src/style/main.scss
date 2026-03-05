@@ -14,6 +14,7 @@
     --fish: #0e2e96;
     --vegan: #cdcd2f;
     --vegetarian: #0a6d29;
+    --airfryer: #950d0d;
 }
 
 *{
@@ -131,6 +132,11 @@ section{
 
 .leg-v{
     color: var(--vegetarian);
+    font-size: xx-large;
+}
+
+.leg-af{
+    color: var(--airfryer);
     font-size: xx-large;
 }
 
