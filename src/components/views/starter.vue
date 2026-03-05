@@ -103,6 +103,45 @@
         </div>
 
         <!-- starter 3 -->
+         <div class="recipe-card recipe-2">
+          <div class="recipe-title">
+            <h3>Tortino d'uovo</h3>
+            <i class="ri-share-2-line"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/starter/radicchio-forno.png" alt="Radicchio Forno">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-v inf-r-mar">V</span>
+            </div>
+            <div class="recipe-ingredients">
+              <h4>Ingredienti:</h4>
+              <ul class="ingredients-list">
+                <li>- Radicchio</li>
+                <li>- Olio EVO</li>
+                <li>- Sale</li>
+              </ul>
+            </div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> Lavare il radicchio, tagliarlo in quarti per il lungo e metterlo in una teglia con carta da forno.</li>
+                <li>> Cospargere con olio EVO, salare e infornare.</li>
+              </ul>
+            </div>
+            <div class="cook-details hidden">
+              <div>
+                <i class="ri-fire-line"></i> Cuocere per 15/20 min a 180ºC girandolo più volte.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Aggiungere un filo di olio EVO in uscita.
+              </div> 
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
 
       </div>
 
