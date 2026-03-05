@@ -44,14 +44,14 @@
                 <li>- Zucchero di canna</li>
               </ul>
             </div>
-            <div class="recipe-process">
+            <div class="recipe-process hidden">
               <ul>
                 <li>> Lavare i pomodorini, tagliarli a metà e metterli in una ciotola con olio EVO, un pizzico di sale e origano.</li>
                 <li>> Una volta mescolato delicatamente, adagiare i pomodirini, uno ad uno, sulla teglia della friggitrice ad aria con la polpa rivolta verso l'alto.</li>
                 <li>> Aggiungere qualche granello di zucchero di canna per aiutare la caramelizzazione e cuocere.</li>
               </ul>
             </div>
-            <div class="cook-details">
+            <div class="cook-details hidden">
               <i class="ri-fire-line"></i> Cuocere per 25/30 min a 160ºC.
             </div>
           </div>
@@ -82,13 +82,13 @@
                 <li>- Sale</li>
               </ul>
             </div>
-            <div class="recipe-process">
+            <div class="recipe-process hidden">
               <ul>
                 <li>> Lavare il radicchio, tagliarlo in quarti per il lungo e metterlo in una teglia con carta da forno.</li>
                 <li>> Cospargere con olio EVO, salare e infornare.</li>
               </ul>
             </div>
-            <div class="cook-details">
+            <div class="cook-details hidden">
               <div>
                 <i class="ri-fire-line"></i> Cuocere per 15/20 min a 180ºC girandolo più volte.
               </div>

@@ -33,9 +33,14 @@ closeX.addEventListener('click', function(){
 document.querySelectorAll('.recipe-card').forEach(card =>{
     card.querySelector('.open-recipe').addEventListener('click', () =>{
         card.classList.toggle('expand');
+        
         let arrowExpand = card.querySelector('.open-recipe i');
         arrowExpand.classList.toggle('ri-arrow-down-wide-line');
         arrowExpand.classList.toggle('ri-arrow-up-wide-line');
+        
+        card.querySelectorAll('.recipe-process, .cook-details').forEach(element =>{
+            element.classList.toggle('hidden');
+        });
     });
 });
 
