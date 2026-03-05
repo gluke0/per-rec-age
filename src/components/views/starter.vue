@@ -63,7 +63,7 @@
         <!-- starter 2 -->
         <div class="recipe-card recipe-2">
           <div class="recipe-title">
-            <h3>Radicchio al forno</h3>
+            <h3>Radicchio Al Forno</h3>
             <i class="ri-share-2-line"></i>
           </div>
           <div class="recipe-preview">
@@ -105,12 +105,12 @@
         <!-- starter 3 -->
          <div class="recipe-card recipe-2">
           <div class="recipe-title">
-            <h3>Tortino d'uovo</h3>
+            <h3>Uovo Fondente</h3>
             <i class="ri-share-2-line"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/starter/radicchio-forno.png" alt="Radicchio Forno">
+              <img src="../../assets/food/starter/uovo-fondente.png" alt="Uovo Fondente">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
