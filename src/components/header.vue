@@ -60,6 +60,9 @@ export default{
                <div>
                   <span>Vegetariano:</span> <span class="leg-v">V</span>
                </div>
+               <div>
+                  <span>Friggitrice ad Aria:</span> <span class="leg-af">AF</span>
+               </div>
             </div>
          </div>
       </header>
