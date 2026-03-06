@@ -39,7 +39,7 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
         arrowExpand.classList.toggle('ri-arrow-down-wide-line');
         arrowExpand.classList.toggle('ri-arrow-up-wide-line');
         
-        card.querySelectorAll('.recipe-process, .cook-details').forEach(element =>{
+        card.querySelectorAll('.recipe-process, .cook-details, .ri-share-2-line').forEach(element =>{
             element.classList.toggle('hidden');
         });
     });
