@@ -166,11 +166,10 @@
                 <li>- 200g fegato di vitello</li>
                 <li>- 200g prosciutto crudo</li>
                 <li>- latte</li>
-                <li>- 4 foglie di erba salvia
+                <li>- 4 foglie di erba salvia</li>
                 <li>- 1/2 bicchiere di marsala secco</li>
                 <li>- 100g burro</li>
                 <li>- gelatina</li>
-                </li>
               </ul>
             </div>
             <div class="recipe-process hidden">
