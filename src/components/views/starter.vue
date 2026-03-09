@@ -65,7 +65,7 @@
         <div class="recipe-card">
           <div class="recipe-title">
             <h3>Radicchio Al Forno</h3>
-            <i class="ri-share-2-line"></i>
+            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
@@ -107,7 +107,7 @@
         <div class="recipe-card">
           <div class="recipe-title">
             <h3>Uovo Fondente</h3>
-            <i class="ri-share-2-line"></i>
+            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
@@ -150,7 +150,7 @@
         <div class="recipe-card">
           <div class="recipe-title">
             <h3>Patè Di Vitello</h3>
-            <i class="ri-share-2-line"></i>
+            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
