@@ -19,7 +19,7 @@
       </div>
       <div class="recipe-card-wrapper">
 
-        
+        Abbiate pazienza! Stiamo cucinando per voi!
 
       </div>
       <button class="backtotop">
