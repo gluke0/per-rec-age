@@ -1,2 +1,3 @@
 -> TEMPLATE USED FOR THE CREATION OF THE RECIPE IMAGE
+
 Un rendering 3D di alta qualità in stile "soft claymation" (pasta modellabile) di pomodorini confit nella loro teglia, caratterizzato da texture opache levigate e proporzioni arrotondate e massicce. Estetica minimalista simile a un giocattolo con un'illuminazione globale morbida e diffusa. Sfondo nero solido e pulito per far risaltare i colori. Tavolozza di colori vivaci ma naturali con sfumature sottili. Alta risoluzione, 8k, stile rendering Octane o Blender. Proporzioni 9:9. Nessun logo di Gemini o filigrane nell'immagine. Sfondo completamente nero e immagine centrata.
