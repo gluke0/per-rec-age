@@ -53,7 +53,9 @@
               </ul>
             </div>
             <div class="cook-details hidden">
-              <i class="ri-fire-line"></i> Cuocere per 25/30 min a 160ºC.
+              <div>
+                <i class="ri-fire-line"></i> Cuocere per 25/30 min a 160ºC.
+              </div>
             </div>
           </div>
           <div class="open-recipe">
