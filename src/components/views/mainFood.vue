@@ -36,11 +36,10 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Pomodorini ciliegino</li>
+                <li>- Feta</li>
+                <li>- Pasta fillo</li>
                 <li>- Olio EVO</li>
-                <li>- Sale</li>
-                <li>- Origano</li>
-                <li>- Zucchero di canna</li>
+                <li>- Miele</li>
               </ul>
             </div>
             <div class="recipe-process hidden">
