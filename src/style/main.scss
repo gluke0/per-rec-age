@@ -4,6 +4,7 @@
 // colors
 :root{
     --main-background: #7a7878;
+    --almost-main-background: #555454;
     --darker-backgroud: #696868;
     --almost-darker: #767575;
     --non-white: #dedada;
@@ -51,7 +52,7 @@ section{
 }
 
 .menu{
-    background-color: var(--darker-backgroud);
+    background-color: var(--almost-main-background);
     display: flex;
     justify-content: space-around;
     font-size: x-large;
@@ -142,7 +143,7 @@ section{
 
 // main
 .part-container{
-    background-color: var(--darker-backgroud);
+    background-color: var(--almost-main-background);
     width: 100%;
     min-height: fit-content;
     margin: 2rem 0;
@@ -181,6 +182,7 @@ section{
     padding: 0.3rem 0.5rem;
     position: relative;
     overflow: hidden;
+    background-color: var(--darker-backgroud);
 
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
