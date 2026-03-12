@@ -22,7 +22,7 @@
         <!-- main food 1 -->
         <div class="recipe-card">
           <div class="recipe-title">
-            <h3>Pomodorini Confit</h3>
+            <h3>Wrap Di Pasta Fillo E Feta </h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
