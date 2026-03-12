@@ -30,7 +30,6 @@
               <img src="../../assets/food/mainfood/feta-pastafillo.png" alt="Feta Con Pasta Fillo">
             </div>
             <div class="recipe-info-details">
-              <span class="leg-veg inf-r-mar">VEG</span>
               <span class="leg-v inf-r-mar">V</span>
               <span class="leg-af inf-r-mar">AF</span>
             </div>
