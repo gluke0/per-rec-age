@@ -80,7 +80,7 @@ section{
     width: 75%;
     padding: 0.5rem 1rem;
     margin: 2rem auto;
-    background-color: var(--darker-backgroud);
+    background-color: var(--almost-main-background);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: relative;
 }
@@ -99,7 +99,7 @@ section{
 }
 
 .info-div button .ri-close-line, .backtotop a .ri-arrow-up-box-fill{
-    background-color: var(--darker-backgroud);
+    background-color: var(--almost-main-background);
     font-size: 2.5rem;
     color: var(--slightly-gray);
 }
