@@ -27,7 +27,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/" alt="Pomodorini Confit">
+              <img src="../../assets/food/mainfood/feta-pastafillo.png" alt="Feta Con Pasta Fillo">
             </div>
             <div class="recipe-info-details">
               <span class="leg-veg inf-r-mar">VEG</span>
