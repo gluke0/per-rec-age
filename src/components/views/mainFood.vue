@@ -45,10 +45,10 @@
             </div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Prendere 3 fogli di pasta fillo e spennellarli con l'olio sovrapponendoli l'uno all'altro.</li>
-                <li>> Tagliare la feta per il verso longitudinale e disporne una metà al centro della pasta fillo.</li>
-                <li>> Avvolgere la feta con la pasta fillo, se abbondante è possibile accorciare le estremità.</li>
-                <li>> Porre nella friggitrice ad aria, spennellare la superficie e cospargere di semi di sesamo.</li>
+                <li>> Spennellare con l'olio 3 fogli di pasta fillo e sovrapporre l'uno all'altro.</li>
+                <li>> Tagliare la feta trasversalmente e disporne metà al centro della pasta fillo.</li>
+                <li>> Avvolgere la feta con la pasta fillo e, se necessario, tagliare la pasta in eccesso.</li>
+                <li>> Mettere in friggitrice ad aria, spennellare la superficie con olio e aggiungere i semi di sesamo.</li>
               </ul>
             </div>
             <div class="cook-details hidden">
