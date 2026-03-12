@@ -52,7 +52,12 @@
               </ul>
             </div>
             <div class="cook-details hidden">
-              <i class="ri-fire-line"></i> Cuocere per 15/17 min a 180ºC.
+              <div> 
+                <i class="ri-fire-line"></i> Cuocere per 15/17 min a 180ºC.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> A piacere aggiungere miele in superficie a cottura ultimata.
+              </div>
             </div>
           </div>
           <div class="open-recipe">
