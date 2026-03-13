@@ -71,7 +71,7 @@ section{
 }
 
 .menu input{
-    background-color: var(--slightly-gray);
+    background-color: var(--main-background);
     height: 100%;
     margin-left: 3px;
 }
@@ -101,7 +101,7 @@ section{
 .info-div button .ri-close-line, .backtotop a .ri-arrow-up-box-fill{
     background-color: var(--almost-main-background);
     font-size: 2.5rem;
-    color: var(--slightly-gray);
+    color: var(--main-background);
 }
 
 .info-div button .ri-close-line:hover, .backtotop a .ri-arrow-up-box-fill:hover, .ri-share-2-line:hover{
