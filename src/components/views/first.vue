@@ -24,6 +24,8 @@
           
         </div>
 
+        <!-- first 2 -->
+
       </div>
       <button class="backtotop">
         <a href="#logo"><i class="ri-arrow-up-box-fill"></i></a>
