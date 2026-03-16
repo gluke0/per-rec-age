@@ -20,9 +20,6 @@
       <div class="recipe-card-wrapper">
 
         <!-- first 1 -->
-        <div class="recipe-card">
-          
-        </div>
 
         <!-- first 2 -->
 
