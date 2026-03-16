@@ -44,5 +44,3 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
         });
     });
 });
-
-// share recipe card
