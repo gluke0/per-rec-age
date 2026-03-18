@@ -19,7 +19,7 @@
       </div>
       <div class="recipe-card-wrapper">
 
-        <!-- main food 1 -->
+        <!-- feta in pasta fillo -->
         <div class="recipe-card">
           <div class="recipe-title">
             <h3>Feta In Pasta Fillo</h3>

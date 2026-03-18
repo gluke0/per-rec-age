@@ -19,12 +19,6 @@
       </div>
       <div class="recipe-card-wrapper">
 
-        <!-- first 1 -->
-
-        <!-- first 2 -->
-
-        <!-- first 3 -->
-
       </div>
       <button class="backtotop">
         <a href="#logo"><i class="ri-arrow-up-box-fill"></i></a>
