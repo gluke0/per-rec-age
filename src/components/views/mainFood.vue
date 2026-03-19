@@ -88,9 +88,9 @@
             <div class="recipe-process hidden">
               <ul>
                 <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
-                <li>> Speziare e lasciare cuocere a fuoco medio per qualche minuto.</li>
-                <li>> Girare il salmone e speziare ancora e lasciare cuocere fino ad avere una crosticina saporita.</li>
-                <li>> Scottare poi ogni lato del trancio di salmone e poi cuocere fino a piacimento utilizzando la pelle come protezione.</li>
+                <li>> Speziare e lasciare cuocere a fuoco medio qualche minuto.</li>
+                <li>> Girare il salmone, speziare e lasciare cuocere fino ad ottenere una leggera crosticina.</li>
+                <li>> Scottare poi ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
               </ul>
             </div>
             <div class="cook-details hidden">
@@ -99,6 +99,7 @@
               </div>
               <div>
                 <i class="ri-lightbulb-ai-line"></i> Come mix di spezie consiglio Ariosto per pesce.
+                <i class="ri-lightbulb-ai-line"></i> Per terminare la cottura è possibile abbassare la fiamma.
               </div>
             </div>
           </div>
