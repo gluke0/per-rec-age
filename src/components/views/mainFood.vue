@@ -81,11 +81,8 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Feta</li>
-                <li>- Pasta fillo</li>
-                <li>- Olio EVO</li>
-                <li>- Semi di sesamo</li>
-                <li>- Miele</li>
+                <li>- Trancio di salmone</li>
+                <li>- Spezie</li>
               </ul>
             </div>
             <div class="recipe-process hidden">
@@ -98,10 +95,10 @@
             </div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Cuocere per 15/17 min a 180ºC.
+                <i class="ri-fire-line"></i> Cuocere fino al livello di cottura desiderato.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> A piacere aggiungere miele in superficie a cottura ultimata.
+                <i class="ri-lightbulb-ai-line"></i> Come mix di spezie consiglio Ariosto per pesce.
               </div>
             </div>
           </div>
