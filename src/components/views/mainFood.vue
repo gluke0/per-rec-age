@@ -99,6 +99,8 @@
               </div>
               <div>
                 <i class="ri-lightbulb-ai-line"></i> Come mix di spezie consiglio Ariosto per pesce.
+              </div>
+              <div>
                 <i class="ri-lightbulb-ai-line"></i> Per terminare la cottura è possibile abbassare la fiamma.
               </div>
             </div>
