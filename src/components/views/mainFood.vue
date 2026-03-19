@@ -87,10 +87,10 @@
             </div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Spennellare con l'olio 3 fogli di pasta fillo e sovrapporre l'uno all'altro.</li>
-                <li>> Tagliare la feta trasversalmente e disporne metà al centro della pasta fillo.</li>
-                <li>> Avvolgere la feta con la pasta fillo e, se necessario, tagliare la pasta in eccesso.</li>
-                <li>> Mettere in friggitrice ad aria, spennellare la superficie con olio e aggiungere i semi di sesamo.</li>
+                <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
+                <li>> Speziare e lasciare cuocere a fuoco medio per qualche minuto.</li>
+                <li>> Girare il salmone e speziare ancora e lasciare cuocere fino ad avere una crosticina saporita.</li>
+                <li>> Scottare poi ogni lato del trancio di salmone e poi cuocere fino a piacimento utilizzando la pelle come protezione.</li>
               </ul>
             </div>
             <div class="cook-details hidden">
