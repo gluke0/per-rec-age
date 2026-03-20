@@ -90,7 +90,7 @@
                 <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
                 <li>> Speziare e lasciare cuocere a fuoco medio qualche minuto.</li>
                 <li>> Girare il salmone, speziare e lasciare cuocere fino ad ottenere una leggera crosticina.</li>
-                <li>> Scottare poi ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
+                <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
               </ul>
             </div>
             <div class="cook-details hidden">
