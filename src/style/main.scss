@@ -9,6 +9,7 @@
     --almost-darker: #767575;
     --non-white: #dedada;
     --slightly-gray: #918e8e;
+    --main-text: #000000;
 
     // legenda colors
     --meat: #7c400f;
@@ -32,7 +33,7 @@
 
 a{
     text-decoration: none;
-    color: black;
+    color: var(--main-text);
 }
 
 body{
