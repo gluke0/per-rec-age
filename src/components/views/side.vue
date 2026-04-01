@@ -27,10 +27,11 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/starter/pate-vitello.png" alt="Patè Di Vitello">
+              <img src="../../assets/food/side/polenta-croccante.png" alt="Polenta Croccante">
             </div>
             <div class="recipe-info-details">
-              <span class="leg-c inf-r-mar">C</span>
+              <span class="leg-v inf-r-mar">V</span>
+              <span class="leg-af inf-r-mar">AF</span>
             </div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
