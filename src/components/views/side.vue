@@ -46,14 +46,10 @@
             </div>
             <div class="cook-details hidden">
               <div>
-                <i class="ri-fridge-line"></i> Conservare in frigorifero.
+                <i class="ri-fire-line"></i> Cuocere per 25/30 min a 200ºC girando a metà cottura.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> Per facilitare la frullatura è possibile aggiungere un passaggio con il passaverdure.
-                <br>
-                <i class="ri-lightbulb-ai-line"></i> A piacere coprire con gelatina una volta versato il patè.
-                <br>
-                <i class="ri-lightbulb-ai-line"></i> Togliere dal frigorifero 30 minuti prima del consumo per facilitare l'estrazione dallo stampo.
+                
               </div> 
             </div>
           </div>
