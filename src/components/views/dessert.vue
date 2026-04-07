@@ -30,7 +30,7 @@
               <img src="../../assets/food/dessert/crostata.png" alt="Crostata">
             </div>
             <div class="recipe-info-details">
-              <span class="leg-p inf-r-mar">P</span>
+              <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
