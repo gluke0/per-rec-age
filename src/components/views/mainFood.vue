@@ -73,7 +73,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/mainfood/feta-pastafillo.png" alt="Feta Con Pasta Fillo">
+              <img src="../../assets/food/mainfood/salame-tonno.png" alt="Salame Di Tonno">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
