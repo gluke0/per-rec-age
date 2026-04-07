@@ -27,7 +27,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/mainfood/salmone-saporito.png" alt="Salmone Saporito In Padella">
+              <img src="../../assets/food/dessert/crostata.png" alt="Crostata">
             </div>
             <div class="recipe-info-details">
               <span class="leg-p inf-r-mar">P</span>
