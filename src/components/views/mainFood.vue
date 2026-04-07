@@ -112,7 +112,7 @@
         </div>
 
         <!-- salmone saporito in padella -->
-         <div class="recipe-card">
+        <div class="recipe-card">
           <div class="recipe-title">
             <h3>Salmone Saporito In Padella</h3>
             <i class="ri-share-2-line hidden"></i>
