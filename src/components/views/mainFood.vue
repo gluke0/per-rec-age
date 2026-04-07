@@ -76,7 +76,7 @@
               <img src="../../assets/food/mainfood/salame-tonno.png" alt="Salame Di Tonno">
             </div>
             <div class="recipe-info-details">
-              <span class="leg-p inf-r-mar">P</span>
+              <span class="leg-f inf-r-mar">P</span>
             </div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
@@ -121,7 +121,7 @@
               <img src="../../assets/food/mainfood/salmone-saporito.png" alt="Salmone Saporito In Padella">
             </div>
             <div class="recipe-info-details">
-              <span class="leg-p inf-r-mar">P</span>
+              <span class="leg-f inf-r-mar">P</span>
             </div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>

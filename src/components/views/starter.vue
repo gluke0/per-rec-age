@@ -31,7 +31,7 @@
               <img src="../../assets/food/starter/pate-vitello.png" alt="Patè Di Vitello">
             </div>
             <div class="recipe-info-details">
-              <span class="leg-c inf-r-mar">C</span>
+              <span class="leg-m inf-r-mar">C</span>
             </div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>

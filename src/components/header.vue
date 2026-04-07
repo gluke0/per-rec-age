@@ -49,10 +49,10 @@ export default{
             </button>
             <div class="info-elements">
                <div>
-                  <span>Carne:</span> <span class="leg-c">C</span>
+                  <span>Carne:</span> <span class="leg-m">C</span>
                </div>
                <div>
-                  <span>Pesce:</span>  <span class="leg-p">P</span>
+                  <span>Pesce:</span>  <span class="leg-f">P</span>
                </div>
                <div>
                   <span>Vegano:</span> <span class="leg-veg">VEG</span>
