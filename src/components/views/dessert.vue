@@ -19,8 +19,6 @@
       </div>
       <div class="recipe-card-wrapper">
 
-        Abbiate pazienza! Stiamo cucinando per voi!
-
         <!-- crostata -->
         <div class="recipe-card">
           <div class="recipe-title">
