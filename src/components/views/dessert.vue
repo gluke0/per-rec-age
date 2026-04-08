@@ -35,8 +35,13 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Trancio di salmone</li>
-                <li>- Spezie</li>
+                <li>- 400g farina</li>
+                <li>- 200g zucchero</li>
+                <li>- 200g burro</li>
+                <li>- 5 tuorli</li>
+                <li>- Pizzico di sale</li>
+                <li>- 2 bustine di vanilina</li>
+                <li>- 1 lievito Bertolini</li>
               </ul>
             </div>
             <div class="recipe-process hidden">
