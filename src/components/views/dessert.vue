@@ -64,7 +64,7 @@
           </div>
         </div>
 
-        <!-- crostata -->
+        <!-- crostata fausta -->
         <div class="recipe-card">
           <div class="recipe-title">
             <h3>Crostata</h3>
