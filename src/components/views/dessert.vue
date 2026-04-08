@@ -178,7 +178,7 @@
                 <li>- 1/2 cucchiaino di bicarbonato</li>
                 <li>- 50g lievito</li>
                 <li>- 1/2 bicchiere latte</li>
-
+                <hr>
                 <li>- 200g burro</li>
                 <li>- 200g zucchero</li>
                 <li>- uvetta</li>
