@@ -155,6 +155,53 @@
         </div>
 
         <!-- torta di rose -->
+        <div class="recipe-card">
+          <div class="recipe-title">
+            <h3>Torta Di Rose</h3>
+            <i class="ri-share-2-line hidden"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/dessert/torta-sbrisolona.png" alt="Torta Sbrisolona">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-v inf-r-mar">V</span>
+            </div>
+            <div class="recipe-ingredients">
+              <h4>Ingredienti:</h4>
+              <ul class="ingredients-list">
+                <li>- 500g farina</li>
+                <li>- 5 tuorli</li>
+                <li>- 3 cucchiai di zucchero</li>
+                <li>- 4 cucchiai di olio d'oliva</li>
+                <li>- 1 pizzico di sale</li>
+                <li>- 1/2 cucchiaino di bicarbonato</li>
+                <li>- 50g lievito</li>
+                <li>- 1/2 bicchiere latte</li>
+
+                <li>- 200g burro</li>
+                <li>- 200g zucchero</li>
+                <li>- uvetta</li>
+              </ul>
+            </div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
+                <li>> Speziare e lasciare cuocere a fuoco medio qualche minuto.</li>
+                <li>> Girare il salmone, speziare e lasciare cuocere fino ad ottenere una leggera crosticina.</li>
+                <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
+              </ul>
+            </div>
+            <div class="cook-details hidden">
+              <div> 
+                <i class="ri-fire-line"></i> Cuocere per 50 minuti a 170°.
+              </div>
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
 
         <!-- torta al cocco -->
         <div class="recipe-card">
