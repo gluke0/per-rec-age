@@ -54,13 +54,7 @@
             </div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Cuocere fino al livello di cottura desiderato.
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Come mix di spezie consiglio Ariosto per pesce.
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Per terminare la cottura è possibile abbassare la fiamma.
+                <i class="ri-fire-line"></i> Cuocere per 45 minuti a 180°.
               </div>
             </div>
           </div>
