@@ -172,12 +172,12 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 200g cioccolato fondente</li>
-                <li>- 100g burro</li>
-                <li>- 3 cucchiai di farina</li>
-                <li>- 6 cucchiai di zucchero</li>
-                <li>- 3 uova</li>
-                <li>- 1 bustina di vanilina</li>
+                <li>- 200g farina di cocco</li>
+                <li>- 100g biscotti secchi</li>
+                <li>- 100g zucchero</li>
+                <li>- 100g cioccolato fondente</li>
+                <li>- 80g burro</li>
+                <li>- 2 uova</li>
               </ul>
             </div>
             <div class="recipe-process hidden">
@@ -190,7 +190,7 @@
             </div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Cuocere per 30 minuti a 180°.
+                <i class="ri-fridge-line"></i> Lasciare in frigorifero per almeno 3 ore.
               </div>
             </div>
           </div>
