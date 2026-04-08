@@ -127,8 +127,12 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Trancio di salmone</li>
-                <li>- Spezie</li>
+                <li>- 200g cioccolato fondente</li>
+                <li>- 100g burro</li>
+                <li>- 3 cucchiai di farina</li>
+                <li>- 6 cucchiai di zucchero</li>
+                <li>- 3 uova</li>
+                <li>- 1 bustina di vanilina</li>
               </ul>
             </div>
             <div class="recipe-process hidden">
@@ -141,13 +145,7 @@
             </div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Cuocere fino al livello di cottura desiderato.
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Come mix di spezie consiglio Ariosto per pesce.
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Per terminare la cottura è possibile abbassare la fiamma.
+                <i class="ri-fire-line"></i> Cuocere per 30 minuti a 180°.
               </div>
             </div>
           </div>
