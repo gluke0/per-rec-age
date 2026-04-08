@@ -79,8 +79,14 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Trancio di salmone</li>
-                <li>- Spezie</li>
+                <li>- 300g farina</li>
+                <li>- 100g zucchero</li>
+                <li>- 150g burro</li>
+                <li>- 2 tuorli</li>
+                <li>- Pizzico di sale</li>
+                <li>- 1 cucchiaio di marsala</li>
+                <li>- 1/2 bustina di lievito Bertolini</li>
+                <li>- Scorza di limone</li>
               </ul>
             </div>
             <div class="recipe-process hidden">
@@ -93,13 +99,10 @@
             </div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Cuocere fino al livello di cottura desiderato.
+                <i class="ri-fire-line"></i> Cuocere per 25 minuti a 190°.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> Come mix di spezie consiglio Ariosto per pesce.
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Per terminare la cottura è possibile abbassare la fiamma.
+                <i class="ri-lightbulb-ai-line"></i> Controllare più volte durante la cottura.
               </div>
             </div>
           </div>
