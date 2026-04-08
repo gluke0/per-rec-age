@@ -164,7 +164,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/dessert/torta-cioccolato.png" alt="Torta Al Cioccolato">
+              <img src="../../assets/food/dessert/torta-cocco.png" alt="Torta Al Cocco">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
