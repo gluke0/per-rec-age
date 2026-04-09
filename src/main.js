@@ -31,20 +31,36 @@ closeX.addEventListener('click', function(){
 });
 
 // open and close a recipe
+
+
 document.querySelectorAll('.recipe-card').forEach(card =>{
-    card.addEventListener('click', (e) =>{        
-        let clickArrow = e.target.closest('.open-recipe');
+    card.addEventListener('click', (e) => {
+        if (!e.target.closest('.open-recipe')) {
+            card.classList.add('expand');
+            const arrowExpand = card.querySelector('.open-recipe i');
+            if (arrowExpand) {
+                arrowExpand.classList.remove('ri-arrow-down-wide-line');
+                arrowExpand.classList.add('ri-arrow-up-wide-line');
+            }
+            card.querySelectorAll('.recipe-process, .cook-details, .ri-share-2-line').forEach(element =>{
+                element.classList.remove('hidden');
+            });
+        }
+    });
 
+    // closing with arrows - prevent to close if i want to copy the text
+    card.querySelector('.open-recipe').addEventListener('click', () =>{
         card.classList.toggle('expand');
-
-        let arrowExpand = card.querySelector('.open-recipe i');
+        const arrowExpand = card.querySelector('.open-recipe i');
         if (arrowExpand) {
             arrowExpand.classList.toggle('ri-arrow-down-wide-line');
             arrowExpand.classList.toggle('ri-arrow-up-wide-line');
         }
-
         card.querySelectorAll('.recipe-process, .cook-details, .ri-share-2-line').forEach(element =>{
             element.classList.toggle('hidden');
         });
     });
 });
+
+
+
