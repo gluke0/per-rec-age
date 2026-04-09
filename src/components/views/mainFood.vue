@@ -34,7 +34,9 @@
               <span class="leg-af inf-r-mar">AF</span>
             </div>
             <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Feta</li>
                 <li>- Pasta fillo</li>
@@ -79,7 +81,9 @@
               <span class="leg-f inf-r-mar">P</span>
             </div>
             <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Feta</li>
                 <li>- Pasta fillo</li>
@@ -124,7 +128,9 @@
               <span class="leg-f inf-r-mar">P</span>
             </div>
             <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Trancio di salmone</li>
                 <li>- Spezie</li>

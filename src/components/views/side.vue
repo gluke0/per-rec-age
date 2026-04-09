@@ -34,7 +34,9 @@
               <span class="leg-af inf-r-mar">AF</span>
             </div>
             <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Polenta</li>
               </ul>
