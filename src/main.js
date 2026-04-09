@@ -84,3 +84,4 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // need to hide share and arrow when exporting
+// new torta rose
