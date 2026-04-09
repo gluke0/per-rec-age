@@ -45,6 +45,7 @@
                 <li>- Miele</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Spennellare con l'olio 3 fogli di pasta fillo e sovrapporre l'uno all'altro.</li>
@@ -53,6 +54,7 @@
                 <li>> Mettere in friggitrice ad aria, spennellare la superficie con olio e aggiungere i semi di sesamo.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere per 15/17 min a 180ºC.
@@ -92,6 +94,7 @@
                 <li>- Miele</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Spennellare con l'olio 3 fogli di pasta fillo e sovrapporre l'uno all'altro.</li>
@@ -100,6 +103,7 @@
                 <li>> Mettere in friggitrice ad aria, spennellare la superficie con olio e aggiungere i semi di sesamo.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere per 15/17 min a 180ºC.
@@ -136,6 +140,7 @@
                 <li>- Spezie</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
@@ -144,6 +149,7 @@
                 <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere fino al livello di cottura desiderato.

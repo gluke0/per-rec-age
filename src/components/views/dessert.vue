@@ -46,6 +46,7 @@
                 <li>- 1 lievito Bertolini</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
@@ -54,6 +55,7 @@
                 <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere per 45 minuti a 180°.
@@ -93,6 +95,7 @@
                 <li>- Scorza di limone</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
@@ -101,6 +104,7 @@
                 <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere per 25 minuti a 190°.
@@ -141,6 +145,7 @@
                 <li>- 1 bustina di vanilina</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
@@ -149,6 +154,7 @@
                 <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere per 30 minuti a 180°.
@@ -192,6 +198,7 @@
                 <li>- uvetta</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
@@ -200,6 +207,7 @@
                 <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere per 50 minuti a 170°.
@@ -237,6 +245,7 @@
                 <li>- 2 uova</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
@@ -245,6 +254,7 @@
                 <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fridge-line"></i> Lasciare in frigorifero per almeno 3 ore.
@@ -283,6 +293,7 @@
                 <li>- 1 pizzico di sale</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
@@ -291,6 +302,7 @@
                 <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere per 30 minuti a 180°.

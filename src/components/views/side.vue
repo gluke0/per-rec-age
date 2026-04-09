@@ -41,12 +41,14 @@
                 <li>- Polenta</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Tagliare la polenta fredda, o un panetto già pronto, a fette di circa mezzo centimetro.</li>
                 <li>> Disporre le fette nella teglia della friggitrice ad aria.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div>
                 <i class="ri-fire-line"></i> Cuocere per 25/30 min a 200ºC girando a metà cottura.
