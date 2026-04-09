@@ -31,8 +31,6 @@ closeX.addEventListener('click', function(){
 });
 
 // open and close a recipe
-
-
 document.querySelectorAll('.recipe-card').forEach(card =>{
     card.addEventListener('click', (e) => {
         if (!e.target.closest('.open-recipe')) {
@@ -62,5 +60,25 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
     });
 });
 
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".ri-share-2-line").forEach(button => {
+    button.addEventListener("click", e => {
+      const recipeCard = e.target.closest(".recipe-card");
+      if (!recipeCard) return;
 
-
+      document.fonts.ready.then(() => {
+        html2canvas(recipeCard, {
+          scale: 5,
+          useCORS: true
+        }).then(canvas => {
+          const link = document.createElement("a");
+          link.href = canvas.toDataURL("image/png");
+          link.download = "recipe.png";
+          link.click();
+        }).catch(error => {
+          console.error("Error generating image:", error);
+        });
+      });
+    });
+  });
+});

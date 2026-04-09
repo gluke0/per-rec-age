@@ -34,7 +34,9 @@
               <span class="leg-m inf-r-mar">C</span>
             </div>
             <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 200g carne di vitello</li>
                 <li>- 200g fegato di vitello</li>
@@ -46,6 +48,7 @@
                 <li>- Gelatina</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
                 <li>> Tagliare il vitello, il fegato e il prosciutto a pezzetti e coprire il tutto per 2 ore con del latte.</li>
@@ -55,6 +58,7 @@
                 <li>> Mettere la gelatina sul fondo di uno stampo e, una volta solidificata, versare il patè.</li>
               </ul>
             </div>
+            <div class="separator"></div>
             <div class="cook-details hidden">
               <div>
                 <i class="ri-fridge-line"></i> Conservare in frigorifero.

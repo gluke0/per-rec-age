@@ -47,6 +47,18 @@ section{
     margin: auto;
 }
 
+.separator-ingredients{
+    height: 0.1rem;
+    background-color: var(--darker-backgroud);
+    margin: 0.3rem 0;
+}
+
+.separator{
+    height: 0.1rem;
+    background-color: var(--darker-backgroud);
+    margin: 1rem 0;
+}
+
 // header
 #logo{
     text-align: center;
@@ -260,6 +272,10 @@ section{
 .recipe-ingredients{
     margin-top: 0.5rem;
     margin-right: 0.5rem;
+}
+
+.recipe-ingredients h4{
+    margin: 0;
 }
 
 .cook-details{
