@@ -60,11 +60,15 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
     });
 });
 
+// save the recipe
 document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll(".ri-share-2-line").forEach(button => {
     button.addEventListener("click", e => {
       const recipeCard = e.target.closest(".recipe-card");
       if (!recipeCard) return;
+
+        let elementsToHide = recipeCard.querySelectorAll(".ri-share-2-line, .ri-arrow-up-wide-line");
+        elementsToHide.forEach(el => el.style.display = "none");
 
       document.fonts.ready.then(() => {
         html2canvas(recipeCard, {
@@ -83,5 +87,5 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-// need to hide share and arrow when exporting
+
 // new torta rose
