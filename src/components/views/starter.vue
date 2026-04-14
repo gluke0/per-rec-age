@@ -198,18 +198,15 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Lavare il radicchio, tagliarlo in quarti per il lungo e metterlo in una teglia con carta da forno.</li>
-                <li>> Cospargere con olio EVO, salare e infornare.</li>
+                <li>> Prendere un pirottino di alluminio, spennellare fondo e pareti con olio di oliva e spolverare con sale e pepe.</li>
+                <li>> Rompere l'uovo all'interno, aggiungere pizzico di sale e pepe ed infornare.</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div>
-                <i class="ri-fire-line"></i> Cuocere per 15/20 min a 180ºC girandolo più volte.
+                <i class="ri-fire-line"></i> Cuocere per 6/7 min a 160ºC.
               </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Aggiungere un filo di olio EVO in uscita.
-              </div> 
             </div>
           </div>
           <div class="open-recipe">
