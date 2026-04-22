@@ -148,16 +148,19 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
-                <li>> Speziare e lasciare cuocere a fuoco medio qualche minuto.</li>
-                <li>> Girare il salmone, speziare e lasciare cuocere fino ad ottenere una leggera crosticina.</li>
-                <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
+                <li>> Tritare finemente il cioccolato e metterlo in una terrina con zucchero, burro, farina e vanillina.</li>
+                <li>> Sciogliere a bagnomaria e una volta tiepido, aggiungere 3 tuorli.</li>
+                <li>> Montare gli albumi a neve ed incorporarli successivamente nel composto di cioccolato.</li>
+                <li>> Versare l'impasto in una teglia precedentemente imburrata e infornare.</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere per 30 minuti a 180°.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Una volta fredda spolverare con zucchero a velo. 
               </div>
             </div>
           </div>
