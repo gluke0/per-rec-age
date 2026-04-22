@@ -314,7 +314,10 @@
                 <i class="ri-fire-line"></i> Cuocere per 30 minuti a 180°.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> Aggiungere qualche mandorla intera in superficie come decorazione.
+                <i class="ri-lightbulb-ai-line"></i> Aggiungere mandorle in superficie come decorazione prima della cottura.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Spolverare con zucchero a velo prima di mangiarla. 
               </div>
             </div>
           </div>
