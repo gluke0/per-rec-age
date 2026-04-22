@@ -303,16 +303,18 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
-                <li>> Speziare e lasciare cuocere a fuoco medio qualche minuto.</li>
-                <li>> Girare il salmone, speziare e lasciare cuocere fino ad ottenere una leggera crosticina.</li>
-                <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
+                <li>> Tritare grossolanamente le mandorle con la pelle.</li>
+                <li>> Unire in una ciotola farina, zucchero, burro a temperatura ambiente, mandorle, sale e amalgamare il tutto.</li>
+                <li>> Ottenuto un composto omogeneo stenderlo in una teglia imburrata ed infornare.</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere per 30 minuti a 180°.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Aggiungere qualche mandorla intera in superficie come decorazione.
               </div>
             </div>
           </div>
