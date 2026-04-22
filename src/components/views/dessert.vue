@@ -251,16 +251,20 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Scaldare una padella antiaderente a fuoco medio e porre il salmone dalla parte della pelle.</li>
-                <li>> Speziare e lasciare cuocere a fuoco medio qualche minuto.</li>
-                <li>> Girare il salmone, speziare e lasciare cuocere fino ad ottenere una leggera crosticina.</li>
-                <li>> Scottare ogni lato del trancio e terminare di cuocere fino a piacimento utilizzando la pelle come protezione.</li>
+                <li>> Sbattere le uova con zuccherro ed aggiungere il burro sciolto e lasciato raffreddare.</li>
+                <li>> Aggiungere successivamente la farina di cocco, i biscotti precedentemente tritati al mixer e amalgamare il tutto.</li>
+                <li>> Stendere il composto in un piatto e mettere in frigorifero per 30 minuti.</li>
+                <li>> Sciogliere il cioccolato e spalparlo sulla base.</li>
+                <li>> Riporre in frigorifero per almeno 3 ore prima del consumo.</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fridge-line"></i> Lasciare in frigorifero per almeno 3 ore.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Spolverare con della farina di cocco.
               </div>
             </div>
           </div>
