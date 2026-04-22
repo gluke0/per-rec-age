@@ -251,7 +251,7 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Sbattere le uova con zuccherro ed aggiungere il burro sciolto e lasciato raffreddare.</li>
+                <li>> Sbattere le uova con zucchero ed aggiungere il burro sciolto e lasciato raffreddare.</li>
                 <li>> Aggiungere successivamente la farina di cocco, i biscotti precedentemente tritati al mixer e amalgamare il tutto.</li>
                 <li>> Stendere il composto in un piatto e mettere in frigorifero per 30 minuti.</li>
                 <li>> Sciogliere il cioccolato e spalparlo sulla base.</li>
