@@ -149,7 +149,7 @@
             <div class="recipe-process hidden">
               <ul>
                 <li>> Tritare finemente il cioccolato e metterlo in una terrina con zucchero, burro, farina e vanillina.</li>
-                <li>> Sciogliere a bagnomaria e una volta tiepido, aggiungere 3 tuorli.</li>
+                <li>> Sciogliere a bagnomaria e una volta freddo, aggiungere 3 tuorli.</li>
                 <li>> Montare gli albumi a neve ed incorporarli successivamente nel composto di cioccolato.</li>
                 <li>> Versare l'impasto in una teglia precedentemente imburrata e infornare.</li>
               </ul>
