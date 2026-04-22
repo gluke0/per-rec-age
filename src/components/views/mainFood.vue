@@ -87,29 +87,26 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- Feta</li>
-                <li>- Pasta fillo</li>
-                <li>- Olio EVO</li>
-                <li>- Semi di sesamo</li>
-                <li>- Miele</li>
+                <li>- </li>
+                <li>- </li>
+                <li>- </li>
+                <li>- </li>
+                <li>- </li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Spennellare con l'olio 3 fogli di pasta fillo e sovrapporre l'uno all'altro.</li>
-                <li>> Tagliare la feta trasversalmente e disporne metà al centro della pasta fillo.</li>
-                <li>> Avvolgere la feta con la pasta fillo e, se necessario, tagliare la pasta in eccesso.</li>
-                <li>> Mettere in friggitrice ad aria, spennellare la superficie con olio e aggiungere i semi di sesamo.</li>
+                <li>> </li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Cuocere per 15/17 min a 180ºC.
+                <i class="ri-fire-line"></i> 
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> A piacere aggiungere miele in superficie a cottura ultimata.
+                <i class="ri-lightbulb-ai-line"></i>
               </div>
             </div>
           </div>
