@@ -294,7 +294,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fridge-line"></i> Cuocere per 30 minuti a 180°.
+                <i class="ri-fridge-line"></i> 
               </div>
             </div>
           </div>
