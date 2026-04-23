@@ -24,7 +24,6 @@ export default{
 <template>
    <div class="main-wrapper">
       <div class="inputsearch">
-         <i class="ri-search-line"></i>
          <input type="text" placeholder="Cerca..." v-model="searchQuery">
       </div>
       <Starter></Starter>
