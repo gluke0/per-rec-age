@@ -157,6 +157,15 @@ section{
 }
 
 // main
+.inputsearch{
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.inputsearch input{
+    height: 1.5rem;
+}
+
 .part-container{
     background-color: var(--almost-main-background);
     width: 100%;
