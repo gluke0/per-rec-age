@@ -162,8 +162,13 @@ section{
     padding-top: 2rem;
 }
 
+.inputsearch i{
+    font-size: 1.5rem;
+}
+
 .inputsearch input{
     height: 1.5rem;
+    background-color: var(--slightly-gray);
 }
 
 .part-container{
