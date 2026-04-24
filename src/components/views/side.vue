@@ -80,6 +80,12 @@
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 500g farina</li>
+                <li>- 150ml acqua</li>
+                <li>- 150ml latte</li>
+                <li>- 1 cucchiaino di zucchero</li>
+                <li>- 1 cucchiaino di sale</li>
+                <li>- 2 cucchiai olio EVO</li>
+                <li>- 2g lievito di birra disidratato</li>
               </ul>
             </div>
             <div class="separator"></div>
