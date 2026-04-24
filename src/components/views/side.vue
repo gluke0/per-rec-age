@@ -97,7 +97,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div>
-                <i class="ri-fire-line"></i> Cuocere per 25/30 min a 200ºC girando a metà cottura.
+                <i class="ri-fire-line"></i> Cuocere 3 minuti per lato in una padella appena oliata.
               </div> 
             </div>
           </div>
