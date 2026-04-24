@@ -38,26 +38,32 @@
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 500g farina</li>
-                <li>- 150ml acqua</li>
+                <li>- 300ml acqua</li>
                 <li>- 150ml latte</li>
                 <li>- 1 cucchiaino di zucchero</li>
-                <li>- 1 cucchiaino di sale</li>
-                <li>- 2 cucchiai olio EVO</li>
-                <li>- 2g lievito di birra disidratato</li>
+                <li>- 10g sale</li>
+                <li>- 1 cucchiaio olio EVO</li>
+                <li>- 12g lievito di birra fresco</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> </li>
-                <li>> </li>
+                <li>> Sciogliere il lievito in acqua tiepida e poi unire a farina, olio e zucchero.</li>
+                <li>> Cominciare ad impastare aggiungendo l'acqua rimanente poco alla volta.</li>
+                <li>> Aggiungere il sale e continuare a lavorare per qualche minuto una volta completato l'impasto.</li>
+                <li>> Porre impasto in una ciotola e lasciare lievitare fino a raddoppio, circa 2 ore.</li>
+                <li>> Dividere l'impasto in 8 porzioni, stenderlo in sfoglie di circa 20cm di diametro e procedere con la cottura.</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div>
                 <i class="ri-fire-line"></i> Cuocere 3 minuti per lato in una padella appena oliata.
-              </div> 
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Coprire con un canovaccio una volta cotte.
+              </div>  
             </div>
           </div>
           <div class="open-recipe">
