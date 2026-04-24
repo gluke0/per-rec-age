@@ -59,7 +59,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div>
-                <i class="ri-fire-line"></i> Cuocere 3 minuti per lato in una padella appena oliata.
+                <i class="ri-fire-line"></i> Cuocere 3 minuti per lato, o fino a gonfiore, in una padella appena oliata.
               </div>
               <div>
                 <i class="ri-lightbulb-ai-line"></i> Coprire con un canovaccio una volta cotte.
