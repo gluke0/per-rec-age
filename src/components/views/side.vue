@@ -21,7 +21,7 @@
 
         <!-- pane pita libanese -->
         <div class="recipe-card">
-          <div class="recipe-title">
+          <div class="recipe-title" data-recipe="pane pita libanese">
             <h3>Pane Pita Libanese</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
@@ -72,7 +72,7 @@
         </div>
 
         <!-- polenta croccante -->
-        <div class="recipe-card">
+        <div class="recipe-card" data-recipe="polenta croccante">
           <div class="recipe-title">
             <h3>Polenta Croccante</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -113,7 +113,7 @@
         </div>
 
         <!-- pomodorini confit -->
-        <div class="recipe-card">
+        <div class="recipe-card" data-recipe="pomodorini confit">
           <div class="recipe-title">
             <h3>Pomodorini Confit</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -160,7 +160,7 @@
         </div>
         
         <!-- radicchio al forno -->
-        <div class="recipe-card">
+        <div class="recipe-card" data-recipe="radicchio al forno">
           <div class="recipe-title">
             <h3>Radicchio Al Forno</h3>
             <i class="ri-share-2-line hidden"></i>
