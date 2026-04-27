@@ -1,22 +1,43 @@
 <script>
-   import Dessert from './views/dessert.vue';
-   import First from './views/first.vue';
-   import MainFood from './views/mainFood.vue';
-   import Side from './views/side.vue';
-   import Starter from './views/starter.vue';
- 
-export default{
+import Dessert from './views/dessert.vue';
+import First from './views/first.vue';
+import MainFood from './views/mainFood.vue';
+import Side from './views/side.vue';
+import Starter from './views/starter.vue';
+
+export default {
    name: "Main",
-   data(){
-      return{
-      }
+   data() {
+      return {}
    },
-   components:{
+   components: {
       Starter,
-      First, 
+      First,
       MainFood,
       Side,
       Dessert,
+   },
+   
+   methods: {
+      searchRecipes(){
+         let searchInput = document.getElementById('searchInput');
+         let searchQuery = searchInput.value.toLowerCase().trim();
+         
+         // console.log("Cercando:", searchQuery);
+
+         let recipeCards = document.querySelectorAll('.recipe-card');
+         // console.log("Card trovate:", recipeCards.length);
+
+         recipeCards.forEach(card => {
+            let recipeData = (card.getAttribute('data-recipe') || "").toLowerCase();
+            
+            if (recipeData.includes(searchQuery)){
+               card.classList.remove('hidden');
+            }else{
+               card.classList.add('hidden');
+            }
+         });
+      }
    }
 };
 </script>
@@ -24,7 +45,7 @@ export default{
 <template>
    <div class="main-wrapper">
       <div class="inputsearch">
-         <input type="text" placeholder="Cerca..." v-model="searchQuery">
+         <input type="text" id="searchInput" placeholder="Cerca ricette..." @input="searchRecipes">
       </div>
       <Starter></Starter>
       <First></First>
