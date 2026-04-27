@@ -20,7 +20,7 @@
       <div class="recipe-card-wrapper">
 
         <!-- crostata -->
-        <div class="recipe-card">
+        <div class="recipe-card" data-recipe="crostata frolla marmellata">
           <div class="recipe-title">
             <h3>Crostata</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -65,7 +65,7 @@
         </div>
 
         <!-- crostata fausta -->
-        <div class="recipe-card">
+        <div class="recipe-card" data-recipe="crostata frolla marmellata">
           <div class="recipe-title">
             <h3>Crostata</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -114,7 +114,7 @@
         </div>
 
         <!-- torta di cioccolato -->
-        <div class="recipe-card">
+        <div class="recipe-card" data-recipe="torta cioccolato fondente">
           <div class="recipe-title">
             <h3>Torta Al Cioccolato</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -164,7 +164,7 @@
         </div>
 
         <!-- torta di rose -->
-        <div class="recipe-card">
+        <div class="recipe-card" data-recipe="torta di rose">
           <div class="recipe-title">
             <h3>Torta Di Rose</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -214,7 +214,7 @@
         </div>
 
         <!-- torta al cocco -->
-        <div class="recipe-card">
+        <div class="recipe-card" data-recipe="torta al cocco">
           <div class="recipe-title">
             <h3>Torta Al Cocco</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -265,7 +265,7 @@
         </div>
          
         <!-- torta mars -->
-        <div class="recipe-card">
+        <div class="recipe-card" data-recipe="torta mars">
           <div class="recipe-title">
             <h3>Torta Mars</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -304,7 +304,7 @@
         </div>
 
         <!-- torta sbrisolona -->
-        <div class="recipe-card">
+        <div class="recipe-card" data-recipe="torta sbrisolona mandorle">
           <div class="recipe-title">
             <h3>Torta Sbrisolona</h3>
             <i class="ri-share-2-line hidden"></i>
