@@ -20,8 +20,8 @@
       <div class="recipe-card-wrapper">
 
         <!-- pane pita libanese -->
-        <div class="recipe-card">
-          <div class="recipe-title" data-recipe="pane pita libanese">
+        <div class="recipe-card" data-recipe="pane pita libanese">
+          <div class="recipe-title">
             <h3>Pane Pita Libanese</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
