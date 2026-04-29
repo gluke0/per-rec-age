@@ -80,7 +80,7 @@
               <img src="../../assets/food/mainfood/pollo-saporito.png" alt="Pollo Saporito PAZ">
             </div>
             <div class="recipe-info-details">
-              <span class="leg-f inf-r-mar">P</span>
+              <span class="leg-m inf-r-mar">C</span>
             </div>
             <div class="recipe-ingredients">
               <div class="separator-ingredients"></div>
@@ -100,7 +100,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Cuocere fino al livello di cottura desiderato.
+                <i class="ri-fire-line"></i> .
               </div>
             </div>
           </div>
