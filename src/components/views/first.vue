@@ -30,7 +30,7 @@
               <img src="../../assets/food/first/pasta-gbp.png" alt="Pasta GBP">
             </div>
             <div class="recipe-info-details">
-              <span class="leg-f inf-r-mar">P</span>
+              <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
               <div class="separator-ingredients"></div>
