@@ -98,13 +98,13 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> </li>
+                <li>> Preparare il petto di pollo in pezzi della grandezza desiderata e porre in padella.</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Scaldare la padella, porre il pollo, oliare, speziare e ripetere l'operazione su entrambi i lati. Cuocere fino a ottenere una leggera crosticina e terminare la cottura a piacimento.
+                <i class="ri-fire-line"></i> Scaldare la padella, porre il pollo, oliare, speziare e ripetere l'operazione su entrambi i lati lasciando cuocere a fuoco vivo fino a cottura desiderata.
               </div>
                <div> 
                 <i class="ri-lightbulb-ai-line"></i> Il mix di erbe e sale può essere sostituito da Ariosto per carne.
