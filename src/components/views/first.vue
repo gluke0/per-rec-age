@@ -27,7 +27,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/mainfood/salame-tonno.png" alt="Salame Di Tonno">
+              <img src="../../assets/food/first/pasta-gbp.png" alt="Pasta GBP">
             </div>
             <div class="recipe-info-details">
               <span class="leg-f inf-r-mar">P</span>
