@@ -77,7 +77,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/mainfood/pollo-saporito.png" alt="Pollo Saporito PAZ">
+              <img src="../../assets/food/mainfood/pollo-paz.png" alt="Pollo Saporito PAZ">
             </div>
             <div class="recipe-info-details">
               <span class="leg-m inf-r-mar">C</span>
