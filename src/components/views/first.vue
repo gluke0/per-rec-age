@@ -37,11 +37,10 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- </li>
-                <li>- </li>
-                <li>- </li>
-                <li>- </li>
-                <li>- </li>
+                <li>- Pasta</li>
+                <li>- Formaggio grattuggiato</li>
+                <li>- Pepe</li>
+                <li>- Burro</li>
               </ul>
             </div>
             <div class="separator"></div>
