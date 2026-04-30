@@ -46,7 +46,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> </li>
+                <li>> Mettere burro a temperatura ambiente, formaggio grattuggiato e pepe in un contenitore.</li>
+                <li>> Mischiare e versare la pasta, non scolata completamente, una volta cotta.</li>
+                <li>> Mescolare la pasta.</li>
               </ul>
             </div>
             <div class="separator"></div>
