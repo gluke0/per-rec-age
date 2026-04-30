@@ -106,6 +106,9 @@
               <div> 
                 <i class="ri-fire-line"></i> .
               </div>
+               <div> 
+                <i class="ri-lightbulb-ai-line"></i> Il mix di erbe e sale può essere sostituito da Ariosto.
+              </div>
             </div>
           </div>
           <div class="open-recipe">
