@@ -87,8 +87,12 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- </li>
-                <li>- </li>
+                <li>- Petto di pollo</li>
+                <li>- Olio EVO</li>
+                <li>- Mix di erbe</li>
+                <li>- Sale</li>
+                <li>- Paprika</li>
+                <li>- Zenzero in polvere</li>
               </ul>
             </div>
             <div class="separator"></div>
