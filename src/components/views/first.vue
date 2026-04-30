@@ -39,7 +39,7 @@
               <ul class="ingredients-list">
                 <li>- Pasta</li>
                 <li>- Formaggio grattuggiato</li>
-                <li>- Pepe</li>
+                <li>- Pepe nero</li>
                 <li>- Burro</li>
               </ul>
             </div>
@@ -52,10 +52,10 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> 
+                <i class="ri-fire-line"></i> Cuocere la pasta secondo le indicazioni del produttore o a piacimento.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i>
+                <i class="ri-lightbulb-ai-line"></i> Terminare con una macinata di pepe nero e una spolverata di formaggio grattuggiato a piacimento.
               </div>
             </div>
           </div>
