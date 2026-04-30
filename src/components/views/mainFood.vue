@@ -107,7 +107,7 @@
                 <i class="ri-fire-line"></i> .
               </div>
                <div> 
-                <i class="ri-lightbulb-ai-line"></i> Il mix di erbe e sale può essere sostituito da Ariosto.
+                <i class="ri-lightbulb-ai-line"></i> Il mix di erbe e sale può essere sostituito da Ariosto per carne.
               </div>
             </div>
           </div>
