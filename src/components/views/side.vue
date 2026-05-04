@@ -167,7 +167,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/starter/radicchio-forno.png" alt="Radicchio Forno">
+              <img src="../../assets/food/side/radicchio-forno.png" alt="Radicchio Forno">
             </div>
             <div class="recipe-info-details">
               <span class="leg-veg inf-r-mar">VEG</span>
