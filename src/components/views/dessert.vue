@@ -121,7 +121,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/dessert/torta-sbrisolona.png" alt="Torta Sbrisolona">
+              <img src="../../assets/food/dessert/tiramisu.png" alt="Tiramisu">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
@@ -131,31 +131,19 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- 200g farina</li>
-                <li>- 100g zucchero</li>
-                <li>- 100g burro</li>
-                <li>- 100g mandorle</li>
-                <li>- 1 pizzico di sale</li>
+                <li>- </li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Tritare grossolanamente le mandorle con la pelle.</li>
-                <li>> Unire in una ciotola farina, zucchero, burro a temperatura ambiente, mandorle, sale e amalgamare il tutto.</li>
-                <li>> Ottenuto un composto omogeneo stenderlo in una teglia imburrata ed infornare.</li>
+                <li>> .</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Cuocere per 30 minuti a 180°.
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Aggiungere mandorle in superficie come decorazione prima della cottura.
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Spolverare con zucchero a velo prima di mangiarla. 
+                <i class="ri-fridge-line"></i>.
               </div>
             </div>
           </div>
