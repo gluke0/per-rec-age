@@ -229,7 +229,8 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- </li>
+                <li>- Filetto di tonno a fette</li>
+                <li>- Salsa teriyaki</li>
               </ul>
             </div>
             <div class="separator"></div>
