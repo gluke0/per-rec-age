@@ -244,7 +244,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> .
+                <i class="ri-fire-line"></i> I tempi di cottura viariano in base al grado di cottura desiderato.
               </div>
               <div>
                 <i class="ri-lightbulb-ai-line"></i> .
