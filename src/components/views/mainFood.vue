@@ -236,7 +236,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> .</li>
+                <li>> Scaldare la padella e mettere le fette di tonno.</li>
+                <li>> Aggiungere la salsa teriyaki e cuocere per 30 secondi.</li>
+                <li>> Girare le fette, aggiungere la salsa, cuocere per altri 30 secondi e servire.</li>
               </ul>
             </div>
             <div class="separator"></div>
