@@ -114,14 +114,14 @@
         </div>
 
         <!-- mela frutta secca -->
-        <div class="recipe-card" data-recipe="crostata frolla marmellata">
+        <div class="recipe-card" data-recipe="mela ripiena frutta secca">
           <div class="recipe-title">
-            <h3>Crostata</h3>
+            <h3>Mela Ripiena Di Frutta Secca</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/dessert/crostata-2.png" alt="Crostata-2">
+              <img src="../../assets/food/dessert/mela-frutta-secca.png" alt="Mela Ripiena Di Frutta Secca">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
