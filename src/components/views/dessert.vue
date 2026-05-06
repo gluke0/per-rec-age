@@ -133,7 +133,7 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- Mele Renette</li>
+                <li>- Mele Renetta</li>
                 <li>- Frutta secca</li>
                 <li>- Miele</li>
                 <li>- Zucchero di canna</li>
