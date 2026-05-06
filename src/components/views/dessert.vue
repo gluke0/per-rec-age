@@ -113,6 +113,55 @@
           </div>
         </div>
 
+        <!-- mela frutta secca -->
+        <div class="recipe-card" data-recipe="crostata frolla marmellata">
+          <div class="recipe-title">
+            <h3>Crostata</h3>
+            <i class="ri-share-2-line hidden"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/dessert/crostata-2.png" alt="Crostata-2">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-v inf-r-mar">V</span>
+            </div>
+            <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
+              <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
+              <ul class="ingredients-list">
+                <li>- 300g farina</li>
+                <li>- 100g zucchero</li>
+                <li>- 150g burro</li>
+                <li>- 2 tuorli</li>
+                <li>- Pizzico di sale</li>
+                <li>- 1 cucchiaio di marsala</li>
+                <li>- 1/2 bustina di lievito Bertolini</li>
+                <li>- Scorza di limone</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> </li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="cook-details hidden">
+              <div> 
+                <i class="ri-fire-line"></i> Cuocere per 25 minuti a 190°.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Controllare più volte durante la cottura.
+              </div>
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
+
         <!-- tiramisu -->
         <div class="recipe-card" data-recipe="tiramisu">
           <div class="recipe-title">
