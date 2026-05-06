@@ -143,7 +143,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> </li>
+                <li>> Lavare le mele, tagliarle a metà, togliere il torsolo e un po' della polpa centrale.</li>
+                <li>> Tritare la frutta secca e metterla in una ciotola con un po' di miele, cannella, zucchero di canna e mischiare il tutto.</li>
+                <li>> Riempire le mele e porre le cestello della friggitrice senza carta.</li>
               </ul>
             </div>
             <div class="separator"></div>
