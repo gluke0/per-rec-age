@@ -133,7 +133,11 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- </li>
+                <li>- Mele Renette</li>
+                <li>- Frutta secca</li>
+                <li>- Miele</li>
+                <li>- Zucchero di canna</li>
+                <li>- Cannella</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -148,7 +152,7 @@
                 <i class="ri-fire-line"></i> Cuocere per circa 15 minuti a 150° in friggitrice ad aria.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> .
+                <i class="ri-lightbulb-ai-line"></i> Possibilità di aggiungere la frutta secca che si desidera, uvetta, biscotti o amaretti sbriciolati.
               </div>
             </div>
           </div>
