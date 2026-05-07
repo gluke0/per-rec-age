@@ -35,7 +35,7 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
     card.addEventListener('click', (e) => {
         if (!e.target.closest('.open-recipe')) {
             card.classList.add('expand');
-            const arrowExpand = card.querySelector('.open-recipe i');
+            let arrowExpand = card.querySelector('.open-recipe i');
             if (arrowExpand) {
                 arrowExpand.classList.remove('ri-arrow-down-wide-line');
                 arrowExpand.classList.add('ri-arrow-up-wide-line');
@@ -49,7 +49,7 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
     // closing with arrows - prevent to close if i want to copy the text
     card.querySelector('.open-recipe').addEventListener('click', () =>{
         card.classList.toggle('expand');
-        const arrowExpand = card.querySelector('.open-recipe i');
+        let arrowExpand = card.querySelector('.open-recipe i');
         if (arrowExpand) {
             arrowExpand.classList.toggle('ri-arrow-down-wide-line');
             arrowExpand.classList.toggle('ri-arrow-up-wide-line');
@@ -61,10 +61,10 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
 });
 
 // save the recipe
-document.addEventListener("DOMContentLoaded", () => {
-  document.querySelectorAll(".ri-share-2-line").forEach(button => {
+document.addEventListener("DOMContentLoaded", () =>{
+  document.querySelectorAll(".ri-share-2-line").forEach(button =>{
     button.addEventListener("click", e => {
-      const recipeCard = e.target.closest(".recipe-card");
+      let recipeCard = e.target.closest(".recipe-card");
       if (!recipeCard) return;
 
         let elementsToHide = recipeCard.querySelectorAll(".ri-share-2-line, .ri-arrow-up-wide-line");
@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", () => {
           scale: 5,
           useCORS: true
         }).then(canvas => {
-          const link = document.createElement("a");
+          let link = document.createElement("a");
           link.href = canvas.toDataURL("image/png");
           link.download = "recipe.png";
           link.click();
