@@ -20,7 +20,7 @@
       <div class="recipe-card-wrapper">
 
         <!-- crostata -->
-        <div class="recipe-card" data-recipe="crostata frolla marmellata dolce">
+        <div class="recipe-card" data-recipe="crostata frolla marmellata dolce torta">
           <div class="recipe-title">
             <h3>Crostata</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -65,7 +65,7 @@
         </div>
 
         <!-- crostata fausta -->
-        <div class="recipe-card" data-recipe="crostata frolla marmellata dolce">
+        <div class="recipe-card" data-recipe="crostata frolla marmellata dolce torta">
           <div class="recipe-title">
             <h3>Crostata</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -164,7 +164,7 @@
         </div>
 
         <!-- tiramisu -->
-        <div class="recipe-card" data-recipe="tiramisu dolce">
+        <div class="recipe-card" data-recipe="tiramisu dolce torta">
           <div class="recipe-title">
             <h3>Tiramisu</h3>
             <i class="ri-share-2-line hidden"></i>
