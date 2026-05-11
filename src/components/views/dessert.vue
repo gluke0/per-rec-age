@@ -421,8 +421,8 @@
             <div class="recipe-process hidden">
               <ul>
                 <li>> Tritare grossolanamente le mandorle con la pelle.</li>
-                <li>> Unire in una ciotola farina, zucchero, burro a temperatura ambiente, mandorle, sale e amalgamare il tutto.</li>
-                <li>> Ottenuto un composto omogeneo stenderlo in una teglia imburrata ed infornare.</li>
+                <li>> Unire in una ciotola farina, zucchero, burro sciolto e raffreddato, mandorle, sale e amalgamare il tutto.</li>
+                <li>> Ottenuto un composto omogeneo stenderlo in una teglia con carta da forno ed infornare.</li>
               </ul>
             </div>
             <div class="separator"></div>
