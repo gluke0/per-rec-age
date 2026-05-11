@@ -33,7 +33,7 @@ closeX.addEventListener('click', function(){
 // open and close a recipe
 document.querySelectorAll('.recipe-card').forEach(card =>{
     card.addEventListener('click', (e) => {
-        if (!e.target.closest('.open-recipe')) {
+        if (!e.target.closest('.open-recipe')){
             card.classList.add('expand');
             let arrowExpand = card.querySelector('.open-recipe i');
             if (arrowExpand) {
@@ -50,7 +50,7 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
     card.querySelector('.open-recipe').addEventListener('click', () =>{
         card.classList.toggle('expand');
         let arrowExpand = card.querySelector('.open-recipe i');
-        if (arrowExpand) {
+        if (arrowExpand){
             arrowExpand.classList.toggle('ri-arrow-down-wide-line');
             arrowExpand.classList.toggle('ri-arrow-up-wide-line');
         }
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () =>{
         let elementsToHide = recipeCard.querySelectorAll(".ri-share-2-line, .ri-arrow-up-wide-line");
         elementsToHide.forEach(el => el.style.display = "none");
 
-      document.fonts.ready.then(() => {
+      document.fonts.ready.then(() =>{
         html2canvas(recipeCard, {
           scale: 5,
           useCORS: true
