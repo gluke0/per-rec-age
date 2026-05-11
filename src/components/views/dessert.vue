@@ -20,7 +20,7 @@
       <div class="recipe-card-wrapper">
 
         <!-- crostata -->
-        <div class="recipe-card" data-recipe="crostata frolla marmellata">
+        <div class="recipe-card" data-recipe="crostata frolla marmellata dolce">
           <div class="recipe-title">
             <h3>Crostata</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -65,7 +65,7 @@
         </div>
 
         <!-- crostata fausta -->
-        <div class="recipe-card" data-recipe="crostata frolla marmellata">
+        <div class="recipe-card" data-recipe="crostata frolla marmellata dolce">
           <div class="recipe-title">
             <h3>Crostata</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -114,7 +114,7 @@
         </div>
 
         <!-- mela frutta secca -->
-        <div class="recipe-card" data-recipe="mela ripiena frutta secca">
+        <div class="recipe-card" data-recipe="mela ripiena frutta secca dolce salutare">
           <div class="recipe-title">
             <h3>Mela Ripiena Di Frutta Secca</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -164,7 +164,7 @@
         </div>
 
         <!-- tiramisu -->
-        <div class="recipe-card" data-recipe="tiramisu">
+        <div class="recipe-card" data-recipe="tiramisu dolce">
           <div class="recipe-title">
             <h3>Tiramisu</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -203,7 +203,7 @@
         </div>
 
         <!-- torta di cioccolato -->
-        <div class="recipe-card" data-recipe="torta cioccolato fondente">
+        <div class="recipe-card" data-recipe="torta cioccolato fondente dolce">
           <div class="recipe-title">
             <h3>Torta Al Cioccolato</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -253,7 +253,7 @@
         </div>
 
         <!-- torta di rose -->
-        <div class="recipe-card" data-recipe="torta di rose">
+        <div class="recipe-card" data-recipe="torta di rose dolce">
           <div class="recipe-title">
             <h3>Torta Di Rose</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -303,7 +303,7 @@
         </div>
 
         <!-- torta al cocco -->
-        <div class="recipe-card" data-recipe="torta al cocco">
+        <div class="recipe-card" data-recipe="torta al cocco dolce">
           <div class="recipe-title">
             <h3>Torta Al Cocco</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -354,7 +354,7 @@
         </div>
          
         <!-- torta mars -->
-        <div class="recipe-card" data-recipe="torta mars">
+        <div class="recipe-card" data-recipe="torta mars dolce">
           <div class="recipe-title">
             <h3>Torta Mars</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -393,7 +393,7 @@
         </div>
 
         <!-- torta sbrisolona -->
-        <div class="recipe-card" data-recipe="torta sbrisolona mandorle">
+        <div class="recipe-card" data-recipe="torta sbrisolona mandorle dolce">
           <div class="recipe-title">
             <h3>Torta Sbrisolona</h3>
             <i class="ri-share-2-line hidden"></i>
