@@ -20,7 +20,7 @@
       <div class="recipe-card-wrapper">
 
         <!-- feta in pasta fillo -->
-        <div class="recipe-card" data-recipe="feta pasta fillo miele sesamo">
+        <div class="recipe-card" data-recipe="feta pasta fillo miele sesamo formaggio vegetariana">
           <div class="recipe-title">
             <h3>Feta In Pasta Fillo</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -70,7 +70,7 @@
         </div>
         
         <!-- pollo saporito paz -->
-        <div class="recipe-card" data-recipe="pollo saporito paz">
+        <div class="recipe-card" data-recipe="pollo saporito paz carne">
           <div class="recipe-title">
             <h3>Pollo Saporito PAZ</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -117,7 +117,7 @@
         </div>
 
         <!-- salame di tonno -->
-        <div class="recipe-card" data-recipe="salame di tonno tonno capperi limone">
+        <div class="recipe-card" data-recipe="salame di tonno tonno capperi limone pesce">
           <div class="recipe-title">
             <h3>Salame Di Tonno</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -163,7 +163,7 @@
         </div>
 
         <!-- salmone saporito in padella -->
-        <div class="recipe-card" data-recipe="salmone saporito in padella spezie">
+        <div class="recipe-card" data-recipe="salmone saporito in padella spezie pesce">
           <div class="recipe-title">
             <h3>Salmone Saporito In Padella</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -212,7 +212,7 @@
         </div>
 
         <!-- tonno teriyaki -->
-        <div class="recipe-card" data-recipe="tonno teriyaki">
+        <div class="recipe-card" data-recipe="tonno teriyaki pesce">
           <div class="recipe-title">
             <h3>Tonno Teriyaki</h3>
             <i class="ri-share-2-line hidden"></i>
