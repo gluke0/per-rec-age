@@ -20,7 +20,7 @@
       <div class="recipe-card-wrapper">
 
         <!-- pane pita libanese -->
-        <div class="recipe-card" data-recipe="pane pita libanese">
+        <div class="recipe-card" data-recipe="pane pita libanese vegetariana">
           <div class="recipe-title">
             <h3>Pane Pita Libanese</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -72,7 +72,7 @@
         </div>
 
         <!-- polenta croccante -->
-        <div class="recipe-card" data-recipe="polenta croccante">
+        <div class="recipe-card" data-recipe="polenta croccante vegetariana">
           <div class="recipe-title">
             <h3>Polenta Croccante</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -113,7 +113,7 @@
         </div>
 
         <!-- pomodorini confit -->
-        <div class="recipe-card" data-recipe="pomodorini confit">
+        <div class="recipe-card" data-recipe="pomodorini confit vegetariana vegana">
           <div class="recipe-title">
             <h3>Pomodorini Confit</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -160,7 +160,7 @@
         </div>
         
         <!-- radicchio al forno -->
-        <div class="recipe-card" data-recipe="radicchio al forno">
+        <div class="recipe-card" data-recipe="radicchio al forno vegetariana vegana">
           <div class="recipe-title">
             <h3>Radicchio Al Forno</h3>
             <i class="ri-share-2-line hidden"></i>
