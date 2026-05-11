@@ -21,7 +21,7 @@
       <div class="recipe-card-wrapper">
 
         <!-- patè di vitello -->
-        <div class="recipe-card" data-recipe="patè di vitello">
+        <div class="recipe-card" data-recipe="patè di vitello carne">
           <div class="recipe-title">
             <h3>Patè Di Vitello</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -78,7 +78,7 @@
         </div>
 
         <!-- uovo fondente -->
-        <div class="recipe-card" data-recipe="uovo fondente uova">
+        <div class="recipe-card" data-recipe="uovo fondente uova vegetariana">
           <div class="recipe-title">
             <h3>Uovo Fondente</h3>
             <i class="ri-share-2-line hidden"></i>
