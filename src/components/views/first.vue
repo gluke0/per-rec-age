@@ -20,7 +20,7 @@
       <div class="recipe-card-wrapper">
 
         <!-- pasta gbp -->
-        <div class="recipe-card" data-recipe="pasta gbp grana formaggio pepe burro">
+        <div class="recipe-card" data-recipe="pasta gbp grana formaggio pepe burro vegetariana">
           <div class="recipe-title">
             <h3>Pasta GBP</h3>
             <i class="ri-share-2-line hidden"></i>
