@@ -44,7 +44,8 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> .</li>
+                <li>> Scolare, risciacquare la giardiniera e sminuzzare.</li>
+                <li>> In una ciotola mischiare tonno, giardiniera e concentrato di pomodoro a piacimento.</li>
               </ul>
             </div>
             <div class="separator"></div>
