@@ -74,13 +74,12 @@ document.addEventListener("DOMContentLoaded", () =>{
         html2canvas(recipeCard, {
           scale: 5,
           useCORS: true
-        }).then(canvas => {
+        }).then(canvas =>{
           let link = document.createElement("a");
           link.href = canvas.toDataURL("image/png");
           link.download = "recipe.png";
           link.click();
-        }).catch(error => {
-          console.error("Error generating image:", error);
+        }).catch(error =>{
         });
       });
     });
