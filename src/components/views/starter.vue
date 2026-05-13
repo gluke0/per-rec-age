@@ -28,7 +28,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/starter/uovo-fondente.png" alt="Uovo Fondente">
+              <img src="../../assets/food/starter/antipasto-rosso.png" alt="Antipasto Rosso">
             </div>
             <div class="recipe-info-details">
               <span class="leg-f inf-r-mar">P</span>
@@ -44,14 +44,13 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Prendere un pirottino di alluminio, spennellare fondo e pareti con olio di oliva e spolverare con sale e pepe.</li>
-                <li>> Rompere l'uovo all'interno, aggiungere pizzico di sale e pepe ed infornare.</li>
+                <li>> .</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div>
-                <i class="ri-fire-line"></i> Cuocere per 6/7 min a 160ºC.
+                <i class="ri-fridge-line"></i> Conservare in frigorifero.
               </div>
             </div>
           </div>
