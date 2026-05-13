@@ -19,11 +19,11 @@
       </div>
       
       <div class="recipe-card-wrapper">
-        
+
         <!-- antipasto rosso -->
-        <div class="recipe-card" data-recipe="uovo fondente uova vegetariana">
+        <div class="recipe-card" data-recipe="antipasto rosso tonno">
           <div class="recipe-title">
-            <h3>Uovo Fondente</h3>
+            <h3>Antipasto Rosso</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
