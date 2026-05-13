@@ -80,6 +80,7 @@ document.addEventListener("DOMContentLoaded", () =>{
           link.download = "recipe.png";
           link.click();
         }).catch(error =>{
+          console.error("Error generating image:", error);
         });
       });
     });
