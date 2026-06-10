@@ -82,8 +82,9 @@
               <ul class="ingredients-list">
                 <li>- Pasta sfoglia</li>
                 <li>- Cipolla di Tropea</li>
-                <li>- Sale</li>
-                <li>- Pepe</li>
+                <li>- Miele</li>
+                <li>- Olio EVO</li>
+                <li>- Aceto balsamico</li>
               </ul>
             </div>
             <div class="separator"></div>
