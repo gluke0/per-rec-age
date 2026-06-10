@@ -149,10 +149,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Cuocere per circa 15 minuti a 150° in friggitrice ad aria.
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Possibilità di aggiungere la frutta secca che si desidera, uvetta, biscotti o amaretti sbriciolati.
+                <i class="ri-fire-line"></i> Cuocere per circa 20 minuti a 180° in friggitrice ad aria.
               </div>
             </div>
           </div>
