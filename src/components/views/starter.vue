@@ -62,6 +62,50 @@
           </div>
         </div>
 
+        <!-- dischi sfoglia cipolla -->
+        <div class="recipe-card" data-recipe="dischi sfoglia cipolla">
+          <div class="recipe-title">
+            <h3>Dischi Di Sfoglia Con Cipolla</h3>
+            <i class="ri-share-2-line hidden"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/starter/uovo-fondente.png" alt="Uovo Fondente">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-v inf-r-mar">V</span>
+              <span class="leg-af inf-r-mar">AF</span>
+            </div>
+            <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
+              <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
+              <ul class="ingredients-list">
+                <li>- Uova</li>
+                <li>- Olio EVO</li>
+                <li>- Sale</li>
+                <li>- Pepe</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> Prendere un pirottino di alluminio, spennellare fondo e pareti con olio di oliva e spolverare con sale e pepe.</li>
+                <li>> Rompere l'uovo all'interno, aggiungere pizzico di sale e pepe ed infornare.</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="cook-details hidden">
+              <div>
+                <i class="ri-fire-line"></i> Cuocere per 6/7 min a 160ºC.
+              </div>
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
+
         <!-- patè di vitello -->
         <div class="recipe-card" data-recipe="patè di vitello carne">
           <div class="recipe-title">
