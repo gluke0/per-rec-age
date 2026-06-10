@@ -114,9 +114,9 @@
         </div>
 
         <!-- mela cc -->
-        <div class="recipe-card" data-recipe="mela ripiena frutta secca dolce salutare">
+        <div class="recipe-card" data-recipe="mela cc frutta secca dolce salutare cannella zucchero canna">
           <div class="recipe-title">
-            <h3>Mela Ripiena Di Frutta Secca</h3>
+            <h3>Mela CC</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
