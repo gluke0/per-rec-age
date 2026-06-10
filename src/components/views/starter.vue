@@ -63,14 +63,14 @@
         </div>
 
         <!-- dischi sfoglia cipolla -->
-        <div class="recipe-card" data-recipe="dischi sfoglia cipolla">
+        <div class="recipe-card" data-recipe="dischi tarte tatin sfoglia cipolla">
           <div class="recipe-title">
-            <h3>Dischi Di Sfoglia Con Cipolla</h3>
+            <h3>Tarte Tatin Cipolla</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/starter/uovo-fondente.png" alt="Uovo Fondente">
+              <img src="../../assets/food/starter/tartetatin-cipolla.png" alt="Tarte Tatin Cipolla">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
