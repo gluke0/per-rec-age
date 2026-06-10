@@ -74,15 +74,14 @@
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
-              <span class="leg-af inf-r-mar">AF</span>
             </div>
             <div class="recipe-ingredients">
               <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- Uova</li>
-                <li>- Olio EVO</li>
+                <li>- Pasta sfoglia</li>
+                <li>- Cipolla di Tropea</li>
                 <li>- Sale</li>
                 <li>- Pepe</li>
               </ul>
