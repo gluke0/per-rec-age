@@ -113,6 +113,56 @@
           </div>
         </div>
 
+        <!-- mela cc -->
+        <div class="recipe-card" data-recipe="mela ripiena frutta secca dolce salutare">
+          <div class="recipe-title">
+            <h3>Mela Ripiena Di Frutta Secca</h3>
+            <i class="ri-share-2-line hidden"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/dessert/mela-frutta-secca.png" alt="Mela Ripiena Di Frutta Secca">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-v inf-r-mar">V</span>
+              <span class="leg-veg inf-r-mar">VEG</span>
+              <span class="leg-af inf-r-mar">AF</span>
+            </div>
+            <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
+              <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
+              <ul class="ingredients-list">
+                <li>- Mele Renetta</li>
+                <li>- Frutta secca</li>
+                <li>- Miele</li>
+                <li>- Zucchero di canna</li>
+                <li>- Cannella</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> Lavare le mele, tagliarle a metà, togliere il torsolo e un po' della polpa centrale.</li>
+                <li>> Tritare la frutta secca e metterla in una ciotola con un po' di miele, cannella, zucchero di canna e mischiare il tutto.</li>
+                <li>> Riempire le mele e porre le cestello della friggitrice senza carta.</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="cook-details hidden">
+              <div> 
+                <i class="ri-fire-line"></i> Cuocere per circa 15 minuti a 150° in friggitrice ad aria.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Possibilità di aggiungere la frutta secca che si desidera, uvetta, biscotti o amaretti sbriciolati.
+              </div>
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
+
         <!-- mela frutta secca -->
         <div class="recipe-card" data-recipe="mela ripiena frutta secca dolce salutare">
           <div class="recipe-title">
