@@ -121,7 +121,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/dessert/mela-frutta-secca.png" alt="Mela Ripiena Di Frutta Secca">
+              <img src="../../assets/food/dessert/mela-cc.png" alt="Mela CC">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
@@ -134,8 +134,6 @@
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Mele Renetta</li>
-                <li>- Frutta secca</li>
-                <li>- Miele</li>
                 <li>- Zucchero di canna</li>
                 <li>- Cannella</li>
               </ul>
