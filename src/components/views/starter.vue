@@ -85,6 +85,7 @@
                 <li>- Miele</li>
                 <li>- Olio EVO</li>
                 <li>- Aceto balsamico</li>
+                <li>- Sale</li>
               </ul>
             </div>
             <div class="separator"></div>
