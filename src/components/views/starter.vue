@@ -101,7 +101,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div>
-                <i class="ri-fire-line"></i> .
+                <i class="ri-fire-line"></i> Circa 15 minuti a 180°C.
               </div>
               <div>
                 <i class="ri-lightbulb-ai-line"></i> .
