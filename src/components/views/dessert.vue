@@ -481,6 +481,9 @@
               <div>
                 <i class="ri-lightbulb-ai-line"></i> Spolverare con zucchero a velo prima di mangiarla. 
               </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Possibiltà di sostituire le mandorle con altra frutta secca a piacere. 
+              </div>
             </div>
           </div>
           <div class="open-recipe">
