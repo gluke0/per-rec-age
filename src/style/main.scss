@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 @import 'remixicon/fonts/remixicon.css';
 
-// colors
+// Colors & Variables
 :root{
     --main-text: #000000;
     --main-background: #7a7878;
@@ -11,7 +11,7 @@
     --non-white: #dedada;
     --slightly-gray: #9c9999;
 
-    // legenda colors
+    // Legend colors
     --meat: #7c400f;
     --fish: #0e2e96;
     --vegan: #cdcd2f;
@@ -19,16 +19,25 @@
     --airfryer: #950d0d;
 }
 
+// Global Reset
 *{
     border: 0;
     padding: 0;
+    margin: 0;
     box-sizing: border-box;
-    font-family: Share Tech Mono;
+    font-family: 'Share Tech Mono', monospace;
     line-height: 1.3;
 }
 
-.hidden{
-    display: none!important;
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: var(--main-background);
+}
+
+section{
+    width: 80%;
+    margin: 0 auto;
 }
 
 a{
@@ -36,30 +45,25 @@ a{
     color: var(--main-text);
 }
 
-body{
-    height: 100vh;
-    width: 100%;
-    background-color: var(--main-background)
+.hidden{
+    display: none !important;
 }
 
-section{
-    width: 80%;
-    margin: auto;
+// Separators
+.separator, .separator-ingredients{
+    height: 0.1rem;
+    background-color: var(--darker-backgroud);
 }
 
 .separator-ingredients{
-    height: 0.1rem;
-    background-color: var(--darker-backgroud);
     margin: 0.3rem 0;
 }
 
 .separator{
-    height: 0.1rem;
-    background-color: var(--darker-backgroud);
     margin: 1rem 0;
 }
 
-// header
+// Header & Navigation
 #logo{
     text-align: center;
     font-size: large;
@@ -74,7 +78,7 @@ section{
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.menu div a:hover, .menu .inputsearch:hover, .menu .info-nav:hover{
+.menu div a:hover, .menu .inputsearch:hover, .menu .info-nav:hover, .info-div button .ri-close-line:hover, .backtotop a .ri-arrow-up-box-fill:hover, .ri-share-2-line:hover, .open-recipe:hover{
     cursor: pointer;
     color: var(--non-white);
 }
@@ -90,6 +94,7 @@ section{
     margin-left: 3px;
 }
 
+// Info Dashboard / Legend
 .info-div{
     width: 75%;
     padding: 0.5rem 1rem;
@@ -110,18 +115,12 @@ section{
     position: absolute;
     top: 0;
     right: 0;
-    background-color: var(--almost-main-background);
+    background-color: transparent;
 }
 
 .info-div button .ri-close-line, .backtotop a .ri-arrow-up-box-fill{
-    background-color: var(--almost-main-background);
     font-size: 2.5rem;
     color: var(--main-background);
-}
-
-.info-div button .ri-close-line:hover, .backtotop a .ri-arrow-up-box-fill:hover, .ri-share-2-line:hover{
-    cursor: pointer;
-    color: var(--non-white);
 }
 
 .info-elements div{
@@ -131,32 +130,23 @@ section{
     padding: 0.2rem 2.3rem;
 }
 
+// Category Legend Modifiers
 .leg-m{
-    color: var(--meat);
-    font-size: xx-large;
+    color: var(--meat); font-size: xx-large;
 }
-
 .leg-f{
-    color: var(--fish);
-    font-size: xx-large;
+    color: var(--fish); font-size: xx-large;
 }
-
 .leg-veg{
-    color: var(--vegan);
-    font-size: xx-large;
-}
-
+    color: var(--vegan); font-size: xx-large;
+} 
 .leg-v{
-    color: var(--vegetarian);
-    font-size: xx-large;
+    color: var(--vegetarian); font-size: xx-large;
+}
+.leg-af{ color: var(--airfryer); font-size: xx-large;
 }
 
-.leg-af{
-    color: var(--airfryer);
-    font-size: xx-large;
-}
-
-// main
+// Main Search Input
 .inputsearch{
     text-align: center;
     padding-top: 2rem;
@@ -169,14 +159,11 @@ section{
 .inputsearch input{
     height: 2rem;
     width: 60%;
-    background-color: var(--slightly-gray);
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.65" y1="16.65" x2="21" y2="21"/></svg>');
-    background-repeat: no-repeat;
-    background-position: 12px center;
-    background-size: 20px;
+    background: var(--slightly-gray) url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.65" y1="16.65" x2="21" y2="21"/></svg>') no-repeat 12px center / 20px;
     padding-left: 40px;
 }
 
+// Layout Containers
 .part-container{
     background-color: var(--almost-main-background);
     width: 100%;
@@ -184,8 +171,8 @@ section{
     margin: 2rem 0;
     padding: 0.7rem 2.5rem;
     position: relative;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .part-container-header{
@@ -199,6 +186,7 @@ section{
     background-color: var(--almost-main-background);
 }
 
+// Recipe Grid & Cards
 .recipe-card-wrapper{
     display: flex;
     flex-wrap: wrap;
@@ -213,15 +201,19 @@ section{
     position: relative;
     overflow: hidden;
     background-color: var(--darker-backgroud);
-
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease, box-shadow 0.3s ease, height 0.3s ease;
+}
+
+.recipe-card:hover{
+    transform: translateY(-5px);
 }
 
 .expand{
     height: fit-content;
 }
 
+// Action Icons
 .ri-share-2-line{
     margin-right: 1rem;
     color: var(--slightly-gray);
@@ -234,15 +226,11 @@ section{
     font-size: 1.5rem;
 }
 
-.recipe-card:hover{
-    transform: translateY(-5px);
-}
-
+// Card Elements
 .recipe-card .recipe-img{
     width: 10rem;
     height: 10rem;
-    margin: auto;
-    margin-top: -1rem;
+    margin: -1rem auto 0;
 }
 
 .recipe-card .recipe-img img{
@@ -260,7 +248,7 @@ section{
 
 .recipe-title h3{
     font-size: 1.5rem;
-    line-height: 0;
+    line-height: 1;
 }
 
 .open-recipe{
@@ -268,14 +256,14 @@ section{
     text-align: center;
     bottom: 2%;
     width: 100%;
+    transition: transform 0.2s ease;
 }
 
 .open-recipe:hover{
-    cursor: pointer;
-    color: var(--non-white);
     transform: scale(1.4);
 }
 
+// Recipe Details
 .recipe-info-details span{
     background-color: var(--slightly-gray);
     padding: 0.4rem 0.8rem;
@@ -289,8 +277,7 @@ section{
 }
 
 .recipe-ingredients{
-    margin-top: 0.5rem;
-    margin-right: 0.5rem;
+    margin: 0.5rem 0.5rem 0 0;
 }
 
 .recipe-ingredients h4{
@@ -301,7 +288,7 @@ section{
     margin-bottom: 2rem;
 }
 
-// footer
+// Footer
 footer{
     display: flex;
     justify-content: center;
