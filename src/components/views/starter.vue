@@ -91,7 +91,8 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> </li>
+                <li>> Pulire e tagliare a fette sottili la cipolla.</li>
+                <li>> Stendere un foglio di carta da forno in una teglia e versare un goccio di olio, aceto balsamico, miele e un pizzico di sale.</li>
               </ul>
             </div>
             <div class="separator"></div>
