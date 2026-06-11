@@ -104,7 +104,7 @@
                 <i class="ri-fire-line"></i> Circa 15 minuti a 180°C.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> .
+                <i class="ri-lightbulb-ai-line"></i> Possibilità di aggiungere un cucchiaio di stracciatella in uscita dal forno.
               </div>
             </div>
           </div>
