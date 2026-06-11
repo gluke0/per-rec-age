@@ -92,7 +92,7 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Pulire e tagliare a fette sottili la cipolla.</li>
+                <li>> Tagliare a fette sottili la cipolla.</li>
                 <li>> Stendere un foglio di carta da forno in una teglia e creare delle macchie con un filo di olio, 4 gocce di aceto balsamico, un cucchiaino di miele e un pizzico di sale.</li>
                 <li>> Disporre le fette di cipolla in modo da coprire la macchia appena creata e, successivamente, disporre un cerchio di pasta sfoglia a coprire la cipolla.</li>
                 <li>> Bucare con una forchetta la pasta soglia, spennellare con uovo e infornare.</li>
