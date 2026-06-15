@@ -19,15 +19,15 @@
       </div>
       <div class="recipe-card-wrapper">
 
-        <!-- cannoncini di pasta fillo -->
-        <div class="recipe-card" data-recipe="cannoncini pasta fillo nutella dolce">
+        <!-- sigari di pasta fillo -->
+        <div class="recipe-card" data-recipe="sigari pasta fillo nutella dolce">
           <div class="recipe-title">
-            <h3>Cannoncini di Pasta Fillo</h3>
+            <h3>Sigari Di Pasta Fillo</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/dessert/" alt="">
+              <img src="../../assets/food/dessert/sigari-pasta-fillo.png" alt="Sigari di Pasta Fillo">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
