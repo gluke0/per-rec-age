@@ -27,7 +27,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/first/pasta-gbp.png" alt="Pasta GBP">
+              <img src="../../assets/food/first/lasagne-pesto.png" alt="Lasagne Al Pesto">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
