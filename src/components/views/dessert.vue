@@ -43,13 +43,19 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> </li>
+                <li>> Pasta fillo</li>
+                <li>> Nutella</li>
+                <li>> Burro</li>
+                <li>> Zucchero a velo</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> .
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> .
               </div>
             </div>
           </div>
