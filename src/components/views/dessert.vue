@@ -19,6 +19,51 @@
       </div>
       <div class="recipe-card-wrapper">
 
+        <!-- cannoncini di pasta fillo -->
+        <div class="recipe-card" data-recipe="crostata frolla marmellata dolce torta">
+          <div class="recipe-title">
+            <h3>Crostata</h3>
+            <i class="ri-share-2-line hidden"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/dessert/crostata.png" alt="Crostata">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-v inf-r-mar">V</span>
+            </div>
+            <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
+              <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
+              <ul class="ingredients-list">
+                <li>- 400g farina</li>
+                <li>- 200g zucchero</li>
+                <li>- 200g burro</li>
+                <li>- 5 tuorli</li>
+                <li>- Pizzico di sale</li>
+                <li>- 2 bustine di vanilina</li>
+                <li>- 1 lievito Bertolini</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> </li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="cook-details hidden">
+              <div> 
+                <i class="ri-fire-line"></i> Cuocere per 45 minuti a 180°.
+              </div>
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
+
         <!-- crostata -->
         <div class="recipe-card" data-recipe="crostata frolla marmellata dolce torta">
           <div class="recipe-title">
