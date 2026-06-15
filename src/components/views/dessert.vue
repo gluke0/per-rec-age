@@ -20,14 +20,14 @@
       <div class="recipe-card-wrapper">
 
         <!-- cannoncini di pasta fillo -->
-        <div class="recipe-card" data-recipe="crostata frolla marmellata dolce torta">
+        <div class="recipe-card" data-recipe="cannoncini pasta fillo nutella dolce">
           <div class="recipe-title">
-            <h3>Crostata</h3>
+            <h3>Cannoncini di Pasta Fillo</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/dessert/crostata.png" alt="Crostata">
+              <img src="../../assets/food/dessert/" alt="">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
@@ -37,13 +37,7 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- 400g farina</li>
-                <li>- 200g zucchero</li>
-                <li>- 200g burro</li>
-                <li>- 5 tuorli</li>
-                <li>- Pizzico di sale</li>
-                <li>- 2 bustine di vanilina</li>
-                <li>- 1 lievito Bertolini</li>
+                <li>- </li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -55,7 +49,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> Cuocere per 45 minuti a 180°.
+                <i class="ri-fire-line"></i> .
               </div>
             </div>
           </div>
