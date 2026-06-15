@@ -19,51 +19,6 @@
       </div>
       <div class="recipe-card-wrapper">
 
-        <!-- sigari di pasta fillo -->
-        <div class="recipe-card" data-recipe="sigari pasta fillo nutella dolce">
-          <div class="recipe-title">
-            <h3>Sigari Di Pasta Fillo</h3>
-            <i class="ri-share-2-line hidden"></i>
-          </div>
-          <div class="recipe-preview">
-            <div class="recipe-img">
-              <img src="../../assets/food/dessert/sigari-pasta-fillo.png" alt="Sigari di Pasta Fillo">
-            </div>
-            <div class="recipe-info-details">
-              <span class="leg-v inf-r-mar">V</span>
-            </div>
-            <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
-              <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
-              <ul class="ingredients-list">
-                <li>- </li>
-              </ul>
-            </div>
-            <div class="separator"></div>
-            <div class="recipe-process hidden">
-              <ul>
-                <li>> Pasta fillo</li>
-                <li>> Nutella</li>
-                <li>> Burro</li>
-                <li>> Zucchero a velo</li>
-              </ul>
-            </div>
-            <div class="separator"></div>
-            <div class="cook-details hidden">
-              <div> 
-                <i class="ri-fire-line"></i> .
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> .
-              </div>
-            </div>
-          </div>
-          <div class="open-recipe">
-            <i class="ri-arrow-down-wide-line"></i>
-          </div>
-        </div>
-
         <!-- crostata -->
         <div class="recipe-card" data-recipe="crostata frolla marmellata dolce torta">
           <div class="recipe-title">
@@ -245,6 +200,51 @@
               </div>
               <div>
                 <i class="ri-lightbulb-ai-line"></i> Possibilità di aggiungere la frutta secca che si desidera, uvetta, biscotti o amaretti sbriciolati.
+              </div>
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
+
+        <!-- sigari di pasta fillo -->
+        <div class="recipe-card" data-recipe="sigari pasta fillo nutella dolce">
+          <div class="recipe-title">
+            <h3>Sigari Di Pasta Fillo</h3>
+            <i class="ri-share-2-line hidden"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/dessert/sigari-pasta-fillo.png" alt="Sigari di Pasta Fillo">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-v inf-r-mar">V</span>
+            </div>
+            <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
+              <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
+              <ul class="ingredients-list">
+                <li>- </li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> Pasta fillo</li>
+                <li>> Nutella</li>
+                <li>> Burro</li>
+                <li>> Zucchero a velo</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="cook-details hidden">
+              <div> 
+                <i class="ri-fire-line"></i> .
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> .
               </div>
             </div>
           </div>
