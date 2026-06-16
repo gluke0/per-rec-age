@@ -244,7 +244,7 @@
                 <i class="ri-fire-line"></i> Circa 8 minuti a 200°C.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> La nutella può essere sostituita con una crema al pistacchio.
+                <i class="ri-lightbulb-ai-line"></i> La Nutella può essere sostituita con una crema al pistacchio.
               </div>
             </div>
           </div>
