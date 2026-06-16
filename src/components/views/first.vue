@@ -56,6 +56,9 @@
               <div>
                 <i class="ri-lightbulb-ai-line"></i> 3 parti di besciamella per 1 parte di pesto è la proporzione consigliata.
               </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Possibilità di spolverare ogni strato con formaggio grattuggiato.
+              </div>
             </div>
           </div>
           <div class="open-recipe">
