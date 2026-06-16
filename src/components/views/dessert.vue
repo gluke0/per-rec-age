@@ -235,7 +235,7 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>Tagliare il foglio di pasta fillo a metà per il lato più corto.</li>
+                <li>Tagliare il foglio di pasta fillo a metà per il lato lungo.</li>
                 <li>Spennellare il foglio con del burro fuso e porre una striscia di Nutella in una delle estremità.</li>
                 <li>Arrotolare la pasta fillo su se stessa fino ad ottenere un sigaro.</li>
                 <li>Spennellare con del burro fuso in superficie ed infornare.</li>
