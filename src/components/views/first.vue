@@ -54,7 +54,7 @@
                 <i class="ri-fire-line"></i> Cuocere a 180°C per circa 30 minuti. Il tempo di cottura può variare a seconda dello spessore della lasagna.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> 
+                <i class="ri-lightbulb-ai-line"></i> 3 parti di besciamella per 1 parte di pesto è la proporzione consigliata.
               </div>
             </div>
           </div>
