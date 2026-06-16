@@ -51,7 +51,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fire-line"></i> 
+                <i class="ri-fire-line"></i> Cuocere a 180°C per circa 30 minuti. Il tempo di cottura può variare a seconda dello spessore della lasagna.
               </div>
               <div>
                 <i class="ri-lightbulb-ai-line"></i> 
