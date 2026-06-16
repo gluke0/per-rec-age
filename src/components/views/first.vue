@@ -46,8 +46,8 @@
             <div class="recipe-process hidden">
               <ul>
                 <li>> Rivestire il fondo della teglia con besciamella. </li>
-                <li>Adagiare uno strato di pasta e coprire con besciamella e pesto.</li>
-                <li>Ripetere l'operazione fino a raggiungere il numero di strati desiderati.</li>
+                <li>> Adagiare uno strato di pasta e coprire con besciamella e pesto.</li>
+                <li>> Ripetere l'operazione fino a raggiungere il numero di strati desiderati.</li>
               </ul>
             </div>
             <div class="separator"></div>
