@@ -37,7 +37,9 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- </li>
+                <li>- Pasta per lasagne</li>
+                <li>- Pesto</li>
+                <li>- Besciamella</li>
               </ul>
             </div>
             <div class="separator"></div>
