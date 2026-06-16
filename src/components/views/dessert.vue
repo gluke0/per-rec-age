@@ -226,16 +226,16 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- </li>
+                <li>> Pasta fillo</li>
+                <li>> Nutella</li>
+                <li>> Burro</li>
+                <li>> Zucchero a velo</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Pasta fillo</li>
-                <li>> Nutella</li>
-                <li>> Burro</li>
-                <li>> Zucchero a velo</li>
+                <li></li>
               </ul>
             </div>
             <div class="separator"></div>
