@@ -4,14 +4,14 @@ Un rendering 3D di alta qualità in stile "soft claymation" (pasta modellabile) 
 
 -> TEMPLATE FOR THE RECIPE <-
 
-        <div class="recipe-card" data-recipe="uovo fondente uova vegetariana">
+        <div class="recipe-card" data-recipe="">
           <div class="recipe-title">
-            <h3>Uovo Fondente</h3>
+            <h3>Title</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/starter/uovo-fondente.png" alt="Uovo Fondente">
+              <img src="../../assets/food/" alt="">
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
