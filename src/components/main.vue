@@ -22,11 +22,8 @@ export default {
       searchRecipes(){
          let searchInput = document.getElementById('searchInput');
          let searchQuery = searchInput.value.toLowerCase().trim();
-         
-         // console.log("Cercando:", searchQuery);
 
          let recipeCards = document.querySelectorAll('.recipe-card');
-         // console.log("Card trovate:", recipeCards.length);
 
          recipeCards.forEach(card => {
             let recipeData = (card.getAttribute('data-recipe') || "").toLowerCase();
