@@ -25,7 +25,7 @@ export default {
 
          let recipeCards = document.querySelectorAll('.recipe-card');
 
-         recipeCards.forEach(card => {
+         recipeCards.forEach(card =>{
             let recipeData = (card.getAttribute('data-recipe') || "").toLowerCase();
             
             if (recipeData.includes(searchQuery)){
