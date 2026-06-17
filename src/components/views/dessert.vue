@@ -258,9 +258,9 @@
         </div>
 
         <!-- tiramisu -->
-        <div class="recipe-card" data-recipe="tiramisu dolce torta">
+        <div class="recipe-card" data-recipe="tiramisu tiramisù dolce torta">
           <div class="recipe-title">
-            <h3>Tiramisu</h3>
+            <h3>Tiramisù</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
