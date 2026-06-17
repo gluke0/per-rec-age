@@ -114,7 +114,7 @@
         </div>
 
         <!-- patè di vitello -->
-        <div class="recipe-card" data-recipe="patè di vitello carne">
+        <div class="recipe-card" data-recipe="patè pate di vitello carne">
           <div class="recipe-title">
             <h3>Patè Di Vitello</h3>
             <i class="ri-share-2-line hidden"></i>
