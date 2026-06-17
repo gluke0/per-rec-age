@@ -25,23 +25,25 @@ Un rendering 3D di alta qualità in stile "soft claymation" (pasta modellabile) 
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- Uova</li>
-                <li>- Olio EVO</li>
-                <li>- Sale</li>
-                <li>- Pepe</li>
+                <li>- </li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Prendere un pirottino di alluminio, spennellare fondo e pareti con olio di oliva e spolverare con sale e pepe.</li>
-                <li>> Rompere l'uovo all'interno, aggiungere pizzico di sale e pepe ed infornare.</li>
+                <li>> .</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
+              <div> 
+                <i class="ri-fridge-line"></i> .
+              </div>
               <div>
-                <i class="ri-fire-line"></i> Cuocere per 6/7 min a 160ºC.
+                <i class="ri-fire-line"></i> .
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> La Nutella può essere sostituita con una crema al pistacchio.
               </div>
             </div>
           </div>
