@@ -43,7 +43,7 @@ Un rendering 3D di alta qualità in stile "soft claymation" (pasta modellabile) 
                 <i class="ri-fire-line"></i> .
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> La Nutella può essere sostituita con una crema al pistacchio.
+                <i class="ri-lightbulb-ai-line"></i> .
               </div>
             </div>
           </div>
