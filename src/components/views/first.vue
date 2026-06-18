@@ -99,7 +99,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> .</li>
+                <li>> In una pentola mettere olio EVO e soffriggere l'aglio.</li>
+                <li>> Rimuovere aglio, spegnere il fuoco, aggiungere la bottarga grattuggiata e mescolare per qualche secondo.</li>
+                <li>> Cuocere la pasta, scolarla e versarla nella padella con il condimento, mescolare bene e servire.</li>
               </ul>
             </div>
             <div class="separator"></div>
