@@ -89,7 +89,11 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- </li>
+                <li>- Pasta</li>
+                <li>- Bottarga di muggine</li>
+                <li>- Aglio</li>
+                <li>- Olio EVO</li>
+                <li>- Sale</li>
               </ul>
             </div>
             <div class="separator"></div>
