@@ -71,6 +71,48 @@
           </div>
         </div>
 
+        <!-- pasta con bottarga -->
+         <div class="recipe-card" data-recipe="pasta con bottarga">
+          <div class="recipe-title">
+            <h3>Pasta Con Bottarga</h3>
+            <i class="ri-share-2-line hidden"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/first/pasta-bottarga.png" alt="Pasta Con Bottarga">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-f inf-r-mar">P</span>
+            </div>
+            <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
+              <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
+              <ul class="ingredients-list">
+                <li>- </li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> .</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="cook-details hidden">
+              <div>
+                <i class="ri-fire-line"></i> .
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> .
+              </div>
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
+
         <!-- pasta gbp -->
         <div class="recipe-card" data-recipe="pasta gbp grana formaggio pepe burro vegetariana">
           <div class="recipe-title">
