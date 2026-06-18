@@ -22,12 +22,9 @@ export default {
       searchRecipes(){
          let searchInput = document.getElementById('searchInput');
          let searchQuery = searchInput.value.toLowerCase().trim();
-
          let recipeCards = document.querySelectorAll('.recipe-card');
-
          recipeCards.forEach(card =>{
             let recipeData = (card.getAttribute('data-recipe') || "").toLowerCase();
-            
             if (recipeData.includes(searchQuery)){
                card.classList.remove('hidden');
             }else{
