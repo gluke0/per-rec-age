@@ -37,7 +37,14 @@
               <h4>Ingredienti:</h4>
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
-                <li>- </li>
+                <li>- Farro</li>
+                <li>- Pomodorini</li>
+                <li>- Tonno</li>
+                <li>- Mozzarella</li>
+                <li>- Capperi</li>
+                <li>- Olio EVO</li>
+                <li>- Sale</li> 
+                <li>- Pepe</li>
               </ul>
             </div>
             <div class="separator"></div>
