@@ -22,19 +22,15 @@
         <!-- insalata di farro -->
         <div class="recipe-card" data-recipe="farro insalata pomodorini tonno mozzarella">
           <div class="recipe-title">
-            <h3>Title</h3>
+            <h3>Insalata Di Farro</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/" alt="">
+              <img src="../../assets/food/first/insalata-farro.png" alt="Insalata Di Farro">
             </div>
             <div class="recipe-info-details">
-              <span class="leg-v inf-r-mar">V</span>
-              <span class="leg-af inf-r-mar">AF</span>
-              <span class="leg-m inf-r-mar">C</span>
               <span class="leg-f inf-r-mar">P</span>
-              <span class="leg-veg inf-r-mar">VEG</span>
             </div>
             <div class="recipe-ingredients">
               <div class="separator-ingredients"></div>
