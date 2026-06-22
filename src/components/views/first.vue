@@ -50,7 +50,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> .</li>
+                <li>> Cuocere il farro secondo indicazioni, scolare e stendere su un panno per raffreddarlo.</li>
+                <li>> Tagliare pomodorini e mozzarella a piacere, unire al farro in un contenitore e aggiungere olio EVO.</li>
+                <li>> Aggiungere tonno e capperi a piacere, salare, pepare e porre in frigorifero.</li>
               </ul>
             </div>
             <div class="separator"></div>
