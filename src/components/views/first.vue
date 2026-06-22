@@ -56,13 +56,10 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fridge-line"></i> .
+                <i class="ri-fridge-line"></i> Conservare in frigorifero.
               </div>
               <div>
-                <i class="ri-fire-line"></i> .
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> .
+                <i class="ri-lightbulb-ai-line"></i> Quantità e ingredienti possono variare a piacimento.
               </div>
             </div>
           </div>
