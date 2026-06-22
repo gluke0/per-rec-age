@@ -19,6 +19,55 @@
       </div>
       <div class="recipe-card-wrapper">
 
+        <!-- insalata di farro -->
+        <div class="recipe-card" data-recipe="">
+          <div class="recipe-title">
+            <h3>Title</h3>
+            <i class="ri-share-2-line hidden"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/" alt="">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-v inf-r-mar">V</span>
+              <span class="leg-af inf-r-mar">AF</span>
+              <span class="leg-m inf-r-mar">C</span>
+              <span class="leg-f inf-r-mar">P</span>
+              <span class="leg-veg inf-r-mar">VEG</span>
+            </div>
+            <div class="recipe-ingredients">
+              <div class="separator-ingredients"></div>
+              <h4>Ingredienti:</h4>
+              <div class="separator-ingredients"></div>
+              <ul class="ingredients-list">
+                <li>- </li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> .</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="cook-details hidden">
+              <div> 
+                <i class="ri-fridge-line"></i> .
+              </div>
+              <div>
+                <i class="ri-fire-line"></i> .
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> .
+              </div>
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
+
         <!-- lasagne al pesto -->
         <div class="recipe-card" data-recipe="lasagne al pesto">
           <div class="recipe-title">
@@ -72,7 +121,7 @@
         </div>
 
         <!-- pasta con bottarga -->
-         <div class="recipe-card" data-recipe="pasta con bottarga">
+        <div class="recipe-card" data-recipe="pasta con bottarga">
           <div class="recipe-title">
             <h3>Pasta Con Bottarga</h3>
             <i class="ri-share-2-line hidden"></i>
