@@ -20,7 +20,7 @@
       <div class="recipe-card-wrapper">
 
         <!-- insalata di farro -->
-        <div class="recipe-card" data-recipe="">
+        <div class="recipe-card" data-recipe="farro insalata pomodorini tonno mozzarella">
           <div class="recipe-title">
             <h3>Title</h3>
             <i class="ri-share-2-line hidden"></i>
