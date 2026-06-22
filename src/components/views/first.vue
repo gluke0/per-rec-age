@@ -41,11 +41,11 @@
                 <li>- Pomodorini</li>
                 <li>- Tonno</li>
                 <li>- Mozzarella</li>
-                <li>- Origano </li>
                 <li>- Capperi</li>
                 <li>- Olio EVO</li>
                 <li>- Sale</li> 
                 <li>- Pepe</li>
+                <li>- Origano </li>
               </ul>
             </div>
             <div class="separator"></div>
