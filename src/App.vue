@@ -9,11 +9,7 @@
       return{
       }
     },
-  components:{
-    Header,
-    Main,
-    Footer,
-  },
+  components:{ Header, Main, Footer },
 };
 </script>
 
