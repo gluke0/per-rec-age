@@ -10,13 +10,7 @@ export default {
    data() {
       return {}
    },
-   components: {
-      Starter,
-      First,
-      MainFood,
-      Side,
-      Dessert,
-   },
+   components: { Starter, First, MainFood, Side, Dessert },
    
    methods: {
       searchRecipes(){
