@@ -1,17 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 @import 'remixicon/fonts/remixicon.css';
 
-// Colors & Variables
-:root{
+// ==========================================
+// Variables & Design Tokens
+// ==========================================
+:root {
     --main-text: #000000;
     --main-background: #7a7878;
     --almost-main-background: #656464;
-    --darker-backgroud: #8a8989;
+    --darker-background: #8a8989;
     --almost-darker: #767575;
     --non-white: #dedada;
     --slightly-gray: #9c9999;
 
-    // Legend colors
+    // Food Legend Colors
     --meat: #7c400f;
     --fish: #0e2e96;
     --vegan: #cdcd2f;
@@ -19,152 +21,166 @@
     --airfryer: #950d0d;
 }
 
-// Global Reset
-*{
-    border: 0;
-    padding: 0;
+// Shared Hover Groups
+%interactive-hover {
+    cursor: pointer;
+    color: var(--non-white);
+}
+
+// ==========================================
+// Global Reset & Base Styles
+// ==========================================
+* {
     margin: 0;
+    padding: 0;
+    border: 0;
     box-sizing: border-box;
     font-family: 'Share Tech Mono', monospace;
     line-height: 1.3;
 }
 
-body{
+body {
     height: 100vh;
     width: 100%;
     background-color: var(--main-background);
 }
 
-section{
+section {
     width: 80%;
     margin: 0 auto;
 }
 
-a{
+a {
     text-decoration: none;
     color: var(--main-text);
 }
 
-.hidden{
+.hidden {
     display: none !important;
 }
 
 // Separators
-.separator, .separator-ingredients{
+.separator {
     height: 0.1rem;
-    background-color: var(--darker-backgroud);
-}
-
-.separator-ingredients{
-    margin: 0.3rem 0;
-}
-
-.separator{
+    background-color: var(--darker-background);
     margin: 1rem 0;
+
+    &-ingredients {
+        height: 0.1rem;
+        background-color: var(--darker-background);
+        margin: 0.3rem 0;
+    }
 }
 
-// Header & Navigation
-#logo{
+// ==========================================
+// Navigation & Header
+// ==========================================
+#logo {
     text-align: center;
     font-size: large;
 }
 
-.menu{
+.menu {
     background-color: var(--almost-main-background);
     display: flex;
     justify-content: space-around;
     font-size: x-large;
     padding: 2rem 1rem;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+    div a:hover, 
+    .inputsearch:hover, 
+    .info-nav:hover {
+        @extend %interactive-hover;
+    }
+
+    .inputsearch {
+        display: flex;
+        align-items: center;
+    }
+
+    input {
+        background-color: var(--main-background);
+        height: 100%;
+        margin-left: 3px;
+    }
 }
 
-.menu div a:hover, .menu .inputsearch:hover, .menu .info-nav:hover, .info-div button .ri-close-line:hover, .backtotop a .ri-arrow-up-box-fill:hover, .ri-share-2-line:hover, .open-recipe:hover{
-    cursor: pointer;
-    color: var(--non-white);
-}
-
-.menu .inputsearch{
-    display: flex;
-    align-items: center;
-}
-
-.menu input{
-    background-color: var(--main-background);
-    height: 100%;
-    margin-left: 3px;
-}
-
+// ==========================================
 // Info Dashboard / Legend
-.info-div{
+// ==========================================
+.info-div {
     width: 75%;
     padding: 0.5rem 1rem;
     margin: 2rem auto;
     background-color: var(--almost-main-background);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: relative;
+
+    .info-elements {
+        width: 75%;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+
+        div {
+            display: flex;
+            align-items: center;
+            background-color: var(--almost-darker);
+            padding: 0.2rem 2.3rem;
+        }
+    }
+
+    button {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-color: transparent;
+
+        .ri-close-line {
+            font-size: 2.5rem;
+            color: var(--main-background);
+
+            &:hover {
+                @extend %interactive-hover;
+            }
+        }
+    }
 }
 
-.info-div .info-elements{
-    width: 75%;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
+// Legend Category Modifiers
+%legend-base {
+    font-size: xx-large;
 }
 
-.info-div button{
-    position: absolute;
-    top: 0;
-    right: 0;
-    background-color: transparent;
+.leg {
+    &-m   { color: var(--meat); @extend %legend-base; }
+    &-f   { color: var(--fish); @extend %legend-base; }
+    &-veg { color: var(--vegan); @extend %legend-base; } 
+    &-v   { color: var(--vegetarian); @extend %legend-base; }
+    &-af  { color: var(--airfryer); @extend %legend-base; }
 }
 
-.info-div button .ri-close-line, .backtotop a .ri-arrow-up-box-fill{
-    font-size: 2.5rem;
-    color: var(--main-background);
-}
-
-.info-elements div{
-    display: flex;
-    align-items: center;
-    background-color: var(--almost-darker);
-    padding: 0.2rem 2.3rem;
-}
-
-// Category Legend Modifiers
-.leg-m{
-    color: var(--meat); font-size: xx-large;
-}
-.leg-f{
-    color: var(--fish); font-size: xx-large;
-}
-.leg-veg{
-    color: var(--vegan); font-size: xx-large;
-} 
-.leg-v{
-    color: var(--vegetarian); font-size: xx-large;
-}
-.leg-af{ color: var(--airfryer); font-size: xx-large;
-}
-
-// Main Search Input
-.inputsearch{
+// ==========================================
+// Search & Layout Containers
+// ==========================================
+.inputsearch {
     text-align: center;
     padding-top: 2rem;
+
+    i {
+        font-size: 1.5rem;
+    }
+
+    input {
+        height: 2rem;
+        width: 60%;
+        background: var(--slightly-gray) url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.65" y1="16.65" x2="21" y2="21"/></svg>') no-repeat 12px center / 20px;
+        padding-left: 40px;
+    }
 }
 
-.inputsearch i{
-    font-size: 1.5rem;
-}
-
-.inputsearch input{
-    height: 2rem;
-    width: 60%;
-    background: var(--slightly-gray) url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.65" y1="16.65" x2="21" y2="21"/></svg>') no-repeat 12px center / 20px;
-    padding-left: 40px;
-}
-
-// Layout Containers
-.part-container{
+.part-container {
     background-color: var(--almost-main-background);
     width: 100%;
     min-height: fit-content;
@@ -173,129 +189,148 @@ a{
     position: relative;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+    &-header {
+        font-size: larger;
+    }
+
+    .backtotop {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background-color: var(--almost-main-background);
+
+        a .ri-arrow-up-box-fill {
+            font-size: 2.5rem;
+            color: var(--main-background);
+
+            &:hover {
+                @extend %interactive-hover;
+            }
+        }
+    }
 }
 
-.part-container-header{
-    font-size: larger;
-}
-
-.part-container .backtotop{
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    background-color: var(--almost-main-background);
-}
-
+// ==========================================
 // Recipe Grid & Cards
-.recipe-card-wrapper{
+// ==========================================
+.recipe-card-wrapper {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
 
-.recipe-card{
+.recipe-card {
     width: calc((100% - 40px) / 4);
     height: 16rem;
     margin: 6px 3px;
     padding: 0.3rem 0.5rem;
     position: relative;
     overflow: hidden;
-    background-color: var(--darker-backgroud);
+    background-color: var(--darker-background);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
     transition: transform 0.3s ease, box-shadow 0.3s ease, height 0.3s ease;
+
+    &:hover {
+        transform: translateY(-5px);
+    }
+
+    &.expand {
+        height: fit-content;
+    }
+
+    .recipe-img {
+        width: 10rem;
+        height: 10rem;
+        margin: -1rem auto 0;
+
+        img {
+            width: 110%;
+            height: 110%;
+            object-fit: cover;
+        }
+    }
 }
 
-.recipe-card:hover{
-    transform: translateY(-5px);
-}
-
-.expand{
-    height: fit-content;
-}
-
-// Action Icons
-.ri-share-2-line{
-    margin-right: 1rem;
-    color: var(--slightly-gray);
-    font-size: 2.2rem;
-}
-
-.ri-arrow-down-wide-line, .ri-arrow-up-wide-line{
-    margin-right: 1rem;
-    color: var(--slightly-gray);
-    font-size: 1.5rem;
-}
-
-// Card Elements
-.recipe-card .recipe-img{
-    width: 10rem;
-    height: 10rem;
-    margin: -1rem auto 0;
-}
-
-.recipe-card .recipe-img img{
-    width: 110%;
-    height: 110%;
-    object-fit: cover;
-}
-
-.recipe-title{
+// Recipe Card Typography & Actions
+.recipe-title {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-top: 1.5rem;
+
+    h3 {
+        font-size: 1.5rem;
+        line-height: 1;
+    }
 }
 
-.recipe-title h3{
-    font-size: 1.5rem;
-    line-height: 1;
-}
-
-.open-recipe{
+.open-recipe {
     position: absolute;
     text-align: center;
     bottom: 2%;
     width: 100%;
     transition: transform 0.2s ease;
+
+    &:hover {
+        transform: scale(1.4);
+        @extend %interactive-hover;
+    }
 }
 
-.open-recipe:hover{
-    transform: scale(1.4);
+// Global Icon Actions
+.ri-share-2-line {
+    margin-right: 1rem;
+    color: var(--slightly-gray);
+    font-size: 2.2rem;
+
+    &:hover {
+        @extend %interactive-hover;
+    }
 }
 
-// Recipe Details
-.recipe-info-details span{
+.ri-arrow-down-wide-line, 
+.ri-arrow-up-wide-line {
+    margin-right: 1rem;
+    color: var(--slightly-gray);
+    font-size: 1.5rem;
+}
+
+// Recipe Details Block
+.recipe-info-details span {
     background-color: var(--slightly-gray);
     padding: 0.4rem 0.8rem;
 }
 
-.inf-r-mar{
+.inf-r-mar {
     margin-right: 0.5rem;
     font-size: large;
     background-color: var(--almost-darker);
     padding: 0.1rem 0.5rem;
 }
 
-.recipe-ingredients{
+.recipe-ingredients {
     margin: 0.5rem 0.5rem 0 0;
+
+    h4 {
+        margin: 0;
+    }
 }
 
-.recipe-ingredients h4{
-    margin: 0;
-}
-
-.cook-details{
+.cook-details {
     margin-bottom: 2rem;
 }
 
+// ==========================================
 // Footer
-footer{
+// ==========================================
+footer {
     display: flex;
     justify-content: center;
 }
 
-.credits{
+.credits {
     font-size: smaller;
-    color: var(--darker-backgroud);
+    color: var(--darker-background);
     margin-bottom: 0.5rem;
 }
