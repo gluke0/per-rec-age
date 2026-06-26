@@ -17,7 +17,6 @@
       <div class="part-container-header">
         <h2>Antipasti</h2>
       </div>
-      
       <div class="recipe-card-wrapper">
 
         <!-- antipasto rosso -->
@@ -215,7 +214,6 @@
         </div>
 
       </div>
-
       <button class="backtotop">
         <a href="#logo"><i class="ri-arrow-up-box-fill"></i></a>
       </button>
