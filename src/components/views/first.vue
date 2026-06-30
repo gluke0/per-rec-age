@@ -42,6 +42,7 @@
                 <li>- Tonno</li>
                 <li>- Mozzarella</li>
                 <li>- Capperi</li>
+                <li>- Olive</li>
                 <li>- Olio EVO</li>
                 <li>- Sale</li> 
                 <li>- Pepe</li>
@@ -52,7 +53,7 @@
             <div class="recipe-process hidden">
               <ul>
                 <li>> Cuocere il farro, scolare e stendere su un panno per raffreddarlo.</li>
-                <li>> Tagliare pomodorini e mozzarella a piacere, unire al farro in un contenitore e aggiungere olio EVO.</li>
+                <li>> Tagliare pomodorini, olive e mozzarella a piacere, unire al farro in un contenitore e aggiungere olio EVO.</li>
                 <li>> Aggiungere tonno e capperi a piacere, salare, pepare, una spruzzata di origano e porre in frigorifero.</li>
               </ul>
             </div>
