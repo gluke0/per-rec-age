@@ -220,9 +220,6 @@
         </div>
 
       </div>
-      <button class="backtotop">
-        <a href="#logo"><i class="ri-arrow-up-box-fill"></i></a>
-      </button>
     </div>
   </section>
 </template>

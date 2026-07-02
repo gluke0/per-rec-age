@@ -198,21 +198,32 @@ a {
     &-header {
         font-size: larger;
     }
+}
 
-    .backtotop {
-        position: absolute;
-        bottom: 0;
-        right: 0;
-        background-color: var(--almost-main-background);
+.scroll-to-top {
+    position: fixed;
+    right: 1.25rem;
+    bottom: 1.25rem;
+    z-index: 1000;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 3.5rem;
+    height: 3.5rem;
+    background-color: var(--almost-main-background);
+    border-radius: 50%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 
-        a .ri-arrow-up-box-fill {
-            font-size: 2.5rem;
-            color: var(--main-background);
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.22);
+    }
 
-            &:hover {
-                @extend %interactive-hover;
-            }
-        }
+    i {
+        font-size: 1.5rem;
+        color: var(--main-background);
     }
 }
 

@@ -4,13 +4,14 @@ import First from './views/first.vue';
 import MainFood from './views/mainFood.vue';
 import Side from './views/side.vue';
 import Starter from './views/starter.vue';
+import ScrollToTop from './ScrollToTop.vue';
 
 export default {
    name: "Main",
    data() {
       return {}
    },
-   components: { Starter, First, MainFood, Side, Dessert },
+   components: { Starter, First, MainFood, Side, Dessert, ScrollToTop },
    
    methods: {
       searchRecipes(){
@@ -40,6 +41,7 @@ export default {
       <MainFood></MainFood>
       <Side></Side>
       <Dessert></Dessert>
+      <ScrollToTop />
    </div>
 </template>
 
