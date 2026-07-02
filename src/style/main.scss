@@ -485,10 +485,15 @@ footer {
     }
 
     .recipe-card .recipe-info-details {
-        display: flex;
+        display: flex !important;
         flex-wrap: wrap;
         gap: 0.5rem;
         margin-top: 0.75rem;
+    }
+
+    .recipe-card .recipe-info-details span {
+        display: inline-flex;
+        align-items: center;
     }
 
     .recipe-card.expand .recipe-preview > :not(.recipe-img) {
