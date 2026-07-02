@@ -397,6 +397,17 @@ footer {
     .recipe-card {
         width: calc((100% - 24px) / 2);
     }
+
+    .recipe-card:not(.expand) .recipe-preview > :not(.recipe-img):not(.recipe-info-details) {
+        display: none !important;
+    }
+
+    .recipe-card:not(.expand) .recipe-preview > .recipe-ingredients,
+    .recipe-card:not(.expand) .recipe-preview > .recipe-process,
+    .recipe-card:not(.expand) .recipe-preview > .cook-details,
+    .recipe-card:not(.expand) .recipe-preview > .separator {
+        display: none !important;
+    }
 }
 
 @media (max-width: 768px) {
@@ -435,8 +446,15 @@ footer {
         height: auto;
     }
 
-    .recipe-card .recipe-preview > :not(.recipe-img):not(.recipe-info-details) {
-        display: none;
+    .recipe-card:not(.expand) .recipe-preview > :not(.recipe-img):not(.recipe-info-details) {
+        display: none !important;
+    }
+
+    .recipe-card:not(.expand) .recipe-preview > .recipe-ingredients,
+    .recipe-card:not(.expand) .recipe-preview > .recipe-process,
+    .recipe-card:not(.expand) .recipe-preview > .cook-details,
+    .recipe-card:not(.expand) .recipe-preview > .separator {
+        display: none !important;
     }
 
     .recipe-card .recipe-info-details {
@@ -492,8 +510,15 @@ footer {
         padding: 1rem 0.75rem;
     }
 
-    .recipe-card .recipe-preview > :not(.recipe-img):not(.recipe-info-details) {
-        display: none;
+    .recipe-card:not(.expand) .recipe-preview > :not(.recipe-img):not(.recipe-info-details) {
+        display: none !important;
+    }
+
+    .recipe-card:not(.expand) .recipe-preview > .recipe-ingredients,
+    .recipe-card:not(.expand) .recipe-preview > .recipe-process,
+    .recipe-card:not(.expand) .recipe-preview > .cook-details,
+    .recipe-card:not(.expand) .recipe-preview > .separator {
+        display: none !important;
     }
 
     .recipe-card .recipe-info-details {
@@ -536,3 +561,38 @@ footer {
         margin-top: 0.75rem;
     }
 }
+
+// ==========================================
+// Force collapsed-card visibility rules
+// Keep only title, image, legend (`.recipe-info-details`) and open arrow visible
+// Applies globally to any `.recipe-card` that does NOT have the `.expand` class
+// ==========================================
+
+.recipe-card:not(.expand) {
+    overflow: visible;
+}
+
+.recipe-card:not(.expand) .recipe-title,
+.recipe-card:not(.expand) .recipe-img,
+.recipe-card:not(.expand) .recipe-info-details {
+    display: block !important;
+}
+
+.recipe-card:not(.expand) .recipe-preview > :not(.recipe-img):not(.recipe-info-details) {
+    display: none !important;
+}
+
+.recipe-card:not(.expand) .recipe-preview > .recipe-ingredients,
+.recipe-card:not(.expand) .recipe-preview > .recipe-process,
+.recipe-card:not(.expand) .recipe-preview > .cook-details,
+.recipe-card:not(.expand) .recipe-preview > .separator,
+.recipe-card:not(.expand) .recipe-preview .ingredients-list,
+.recipe-card:not(.expand) .recipe-preview .separator-ingredients {
+    display: none !important;
+}
+
+/* Ensure the open arrow remains visible */
+.recipe-card .open-recipe {
+    display: block !important;
+}
+
