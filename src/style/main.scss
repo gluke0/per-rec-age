@@ -208,10 +208,9 @@ a {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 3.5rem;
-    height: 3.5rem;
-    background-color: var(--almost-main-background);
-    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+    background-color: var(--slightly-gray);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
     cursor: pointer;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -222,7 +221,7 @@ a {
     }
 
     i {
-        font-size: 1.5rem;
+        font-size: 3rem;
         color: var(--main-background);
     }
 }
