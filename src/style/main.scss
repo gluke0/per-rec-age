@@ -435,8 +435,20 @@ footer {
         height: auto;
     }
 
-    .recipe-card .recipe-preview > :not(.recipe-img) {
+    .recipe-card .recipe-preview > :not(.recipe-img):not(.recipe-info-details) {
         display: none;
+    }
+
+    .recipe-card .recipe-info-details {
+        display: flex !important;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        margin-top: 0.75rem;
+    }
+
+    .recipe-card .recipe-info-details span {
+        display: inline-flex;
+        align-items: center;
     }
 
     .recipe-card.expand .recipe-preview > :not(.recipe-img) {
