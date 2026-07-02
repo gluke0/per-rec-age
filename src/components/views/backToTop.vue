@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'ScrollToTop',
+  name: 'backToTop',
   methods: {
     scrollToTop() {
       window.scrollTo({ top: 0, behavior: 'smooth' });
