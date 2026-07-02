@@ -1,5 +1,5 @@
 <template>
-  <button class="scroll-to-top" @click="scrollToTop" aria-label="Torna su">
+  <button class="scroll-to-top" @click="backToTop" aria-label="Torna su">
     <i class="ri-arrow-up-box-fill"></i>
   </button>
 </template>
@@ -8,7 +8,7 @@
 export default {
   name: 'backToTop',
   methods: {
-    scrollToTop() {
+    backToTop() {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   }
