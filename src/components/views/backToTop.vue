@@ -1,5 +1,5 @@
 <template>
-  <button class="scroll-to-top" @click="backToTop" aria-label="Torna su">
+  <button class="back-to-top" @click="backToTop" aria-label="Torna su">
     <i class="ri-arrow-up-box-fill"></i>
   </button>
 </template>
