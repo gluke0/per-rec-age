@@ -250,8 +250,7 @@ a {
     justify-content: center;
     width: 4rem;
     height: 4rem;
-    border: 1rem solid #009246;
-    background-color: #ce2b37;
+    background-color: var(--slightly-gray);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
     cursor: pointer;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -263,7 +262,10 @@ a {
 
     i {
         font-size: 3rem;
-        color: #f5f5f5;
+        background: linear-gradient(90deg, #009246 0 33%, #f5f5f5 33% 66%, #ce2b37 66% 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
     }
 }
 
