@@ -250,7 +250,8 @@ a {
     justify-content: center;
     width: 4rem;
     height: 4rem;
-    background-color: var(--slightly-gray);
+    border: 0.2rem solid #009246;
+    background-color: #f5f5f5;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
     cursor: pointer;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -262,7 +263,7 @@ a {
 
     i {
         font-size: 3rem;
-        color: var(--main-background);
+        color: #ce2b37;
     }
 }
 
