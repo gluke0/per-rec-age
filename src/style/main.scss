@@ -93,6 +93,34 @@ a {
 #logo {
     text-align: center;
     font-size: large;
+    margin: 1rem 0;
+
+    h1 {
+        display: flex;
+        justify-content: center;
+        gap: 0.1rem;
+        font-size: clamp(2rem, 3vw, 3rem);
+        letter-spacing: 0.08em;
+        font-weight: 700;
+    }
+}
+
+.flag-letter {
+    display: inline-block;
+    padding: 0 0.05rem;
+
+    &--green {
+        color: #009246;
+    }
+
+    &--white {
+        color: #f5f5f5;
+        text-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
+    }
+
+    &--red {
+        color: #ce2b37;
+    }
 }
 
 .menu {
