@@ -16,7 +16,14 @@ export default{
    <section>
       <header>
          <div id="logo">
-            <h1>Cheffy</h1>
+            <h1>
+               <span class="flag-letter flag-letter--green">C</span>
+               <span class="flag-letter flag-letter--green">h</span>
+               <span class="flag-letter flag-letter--white">e</span>
+               <span class="flag-letter flag-letter--white">f</span>
+               <span class="flag-letter flag-letter--red">f</span>
+               <span class="flag-letter flag-letter--red">y</span>
+            </h1>
          </div>
          <div class="menu">
             <div class="starter">
