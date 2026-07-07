@@ -247,7 +247,7 @@
                 <i class="ri-fire-line"></i> I tempi di cottura viariano in base al grado di cottura desiderato.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i>È€ possibile scaldare ulteriore salsa teriyaki semi di sesamo da aggiungere in superficie.
+                <i class="ri-lightbulb-ai-line"></i>È possibile scaldare ulteriore salsa teriyaki semi di sesamo da aggiungere in superficie.
               </div>
             </div>
           </div>
