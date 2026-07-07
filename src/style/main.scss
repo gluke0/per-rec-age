@@ -636,12 +636,6 @@ footer {
     }
 }
 
-// ==========================================
-// Force collapsed-card visibility rules
-// Keep only title, image, legend (`.recipe-info-details`) and open arrow visible
-// Applies globally to any `.recipe-card` that does NOT have the `.expand` class
-// ==========================================
-
 .recipe-card:not(.expand) {
     overflow: visible;
 }
