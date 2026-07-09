@@ -125,10 +125,6 @@
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
-              <span class="leg-af inf-r-mar">AF</span>
-              <span class="leg-m inf-r-mar">C</span>
-              <span class="leg-f inf-r-mar">P</span>
-              <span class="leg-veg inf-r-mar">VEG</span>
             </div>
             <div class="recipe-ingredients">
               <div class="separator-ingredients"></div>
