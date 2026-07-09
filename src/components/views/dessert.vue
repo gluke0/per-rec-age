@@ -114,7 +114,7 @@
         </div>
 
         <!-- gelato datteri -->
-        <div class="recipe-card" data-recipe="">
+        <div class="recipe-card" data-recipe="gelato datteri latter shake milkshake">
           <div class="recipe-title">
             <h3>Title</h3>
             <i class="ri-share-2-line hidden"></i>
