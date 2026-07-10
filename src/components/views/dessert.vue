@@ -142,9 +142,6 @@
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
-              <div> 
-                <i class="ri-fridge-line"></i> .
-              </div>
               <div>
                 <i class="ri-lightbulb-ai-line"></i> Variare il dosaggio di latte e gelato per la consistenza desiderata.
               </div>
