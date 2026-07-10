@@ -132,8 +132,8 @@
               <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 130g gelato alla panna</li>
-                <li>- 35g datteri</li>
                 <li>- 100ml latte</li>
+                <li>- 35g datteri</li>
               </ul>
             </div>
             <div class="separator"></div>
