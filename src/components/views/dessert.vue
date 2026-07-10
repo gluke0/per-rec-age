@@ -149,7 +149,7 @@
                 <i class="ri-fire-line"></i> .
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> .
+                <i class="ri-lightbulb-ai-line"></i> Variare il dosaggio di latte e gelato per la consistenza desiderata.
               </div>
             </div>
           </div>
