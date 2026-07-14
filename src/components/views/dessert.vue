@@ -327,6 +327,55 @@
           </div>
         </div>
 
+        <!-- torta al cocco -->
+        <div class="recipe-card" data-recipe="torta al cocco dolce">
+          <div class="recipe-title">
+            <h3>Torta Al Cocco</h3>
+            <i class="ri-share-2-line hidden"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/dessert/torta-cocco.png" alt="Torta Al Cocco">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-v inf-r-mar">V</span>
+            </div>
+            <div class="recipe-ingredients">
+              <h4>Ingredienti:</h4>
+              <ul class="ingredients-list">
+                <li>- 200g farina di cocco</li>
+                <li>- 100g biscotti secchi</li>
+                <li>- 100g zucchero</li>
+                <li>- 100g cioccolato fondente</li>
+                <li>- 80g burro</li>
+                <li>- 2 uova</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> Sbattere le uova con zucchero ed aggiungere il burro sciolto e lasciato raffreddare.</li>
+                <li>> Aggiungere successivamente la farina di cocco, i biscotti precedentemente tritati al mixer e amalgamare il tutto.</li>
+                <li>> Stendere il composto in un piatto e mettere in frigorifero per 30 minuti.</li>
+                <li>> Sciogliere il cioccolato e spalparlo sulla base.</li>
+                <li>> Riporre in frigorifero per almeno 3 ore prima del consumo.</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="cook-details hidden">
+              <div> 
+                <i class="ri-fridge-line"></i> Lasciare in frigorifero per almeno 3 ore.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Spolverare con della farina di cocco.
+              </div>
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
+
         <!-- torta di cioccolato -->
         <div class="recipe-card" data-recipe="torta cioccolato fondente dolce">
           <div class="recipe-title">
@@ -415,55 +464,6 @@
             <div class="cook-details hidden">
               <div> 
                 <i class="ri-fire-line"></i> Cuocere per 50 minuti a 170°.
-              </div>
-            </div>
-          </div>
-          <div class="open-recipe">
-            <i class="ri-arrow-down-wide-line"></i>
-          </div>
-        </div>
-
-        <!-- torta al cocco -->
-        <div class="recipe-card" data-recipe="torta al cocco dolce">
-          <div class="recipe-title">
-            <h3>Torta Al Cocco</h3>
-            <i class="ri-share-2-line hidden"></i>
-          </div>
-          <div class="recipe-preview">
-            <div class="recipe-img">
-              <img src="../../assets/food/dessert/torta-cocco.png" alt="Torta Al Cocco">
-            </div>
-            <div class="recipe-info-details">
-              <span class="leg-v inf-r-mar">V</span>
-            </div>
-            <div class="recipe-ingredients">
-              <h4>Ingredienti:</h4>
-              <ul class="ingredients-list">
-                <li>- 200g farina di cocco</li>
-                <li>- 100g biscotti secchi</li>
-                <li>- 100g zucchero</li>
-                <li>- 100g cioccolato fondente</li>
-                <li>- 80g burro</li>
-                <li>- 2 uova</li>
-              </ul>
-            </div>
-            <div class="separator"></div>
-            <div class="recipe-process hidden">
-              <ul>
-                <li>> Sbattere le uova con zucchero ed aggiungere il burro sciolto e lasciato raffreddare.</li>
-                <li>> Aggiungere successivamente la farina di cocco, i biscotti precedentemente tritati al mixer e amalgamare il tutto.</li>
-                <li>> Stendere il composto in un piatto e mettere in frigorifero per 30 minuti.</li>
-                <li>> Sciogliere il cioccolato e spalparlo sulla base.</li>
-                <li>> Riporre in frigorifero per almeno 3 ore prima del consumo.</li>
-              </ul>
-            </div>
-            <div class="separator"></div>
-            <div class="cook-details hidden">
-              <div> 
-                <i class="ri-fridge-line"></i> Lasciare in frigorifero per almeno 3 ore.
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Spolverare con della farina di cocco.
               </div>
             </div>
           </div>
