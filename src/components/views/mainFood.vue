@@ -34,9 +34,7 @@
               <span class="leg-af inf-r-mar">AF</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Feta</li>
                 <li>- Pasta fillo</li>
@@ -83,9 +81,7 @@
               <span class="leg-m inf-r-mar">C</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Petto di pollo</li>
                 <li>- Olio EVO</li>
@@ -130,9 +126,7 @@
               <span class="leg-f inf-r-mar">P</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- </li>
                 <li>- </li>
@@ -176,9 +170,7 @@
               <span class="leg-f inf-r-mar">P</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Trancio di salmone</li>
                 <li>- Spezie</li>
@@ -225,9 +217,7 @@
               <span class="leg-f inf-r-mar">P</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Filetto di tonno a fette</li>
                 <li>- Salsa teriyaki</li>

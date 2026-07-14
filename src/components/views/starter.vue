@@ -33,9 +33,7 @@
               <span class="leg-f inf-r-mar">P</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Giardiniera</li>
                 <li>- Tonno in scatola </li>
@@ -75,9 +73,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Pasta sfoglia</li>
                 <li>- Cipolla di Tropea</li>
@@ -126,9 +122,7 @@
               <span class="leg-m inf-r-mar">C</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 200g carne di vitello</li>
                 <li>- 200g fegato di vitello</li>
@@ -184,9 +178,7 @@
               <span class="leg-af inf-r-mar">AF</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Uova</li>
                 <li>- Olio EVO</li>

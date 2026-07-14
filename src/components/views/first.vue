@@ -33,9 +33,7 @@
               <span class="leg-f inf-r-mar">P</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Farro</li>
                 <li>- Pomodorini</li>
@@ -86,9 +84,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Pasta per lasagne</li>
                 <li>- Pesto</li>
@@ -138,9 +134,7 @@
               <span class="leg-f inf-r-mar">P</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Pasta</li>
                 <li>- Bottarga di muggine</li>
@@ -186,9 +180,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Pasta</li>
                 <li>- Formaggio grattuggiato</li>

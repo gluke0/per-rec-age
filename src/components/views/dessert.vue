@@ -33,9 +33,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 400g farina</li>
                 <li>- 200g zucchero</li>
@@ -78,9 +76,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 300g farina</li>
                 <li>- 100g zucchero</li>
@@ -127,9 +123,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 130g gelato alla panna</li>
                 <li>- 100ml latte</li>
@@ -174,9 +168,7 @@
               <span class="leg-af inf-r-mar">AF</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Mele Renetta</li>
                 <li>- Zucchero di canna</li>
@@ -219,9 +211,7 @@
               <span class="leg-af inf-r-mar">AF</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Mele Renetta</li>
                 <li>- Frutta secca</li>
@@ -267,9 +257,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>> Pasta fillo</li>
                 <li>> Nutella</li>
@@ -316,9 +304,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- </li>
               </ul>
@@ -355,9 +341,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 200g cioccolato fondente</li>
                 <li>- 100g burro</li>
@@ -405,9 +389,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 500g farina</li>
                 <li>- 5 tuorli</li>
@@ -455,9 +437,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 200g farina di cocco</li>
                 <li>- 100g biscotti secchi</li>
@@ -506,9 +486,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- </li>
               </ul>
@@ -545,9 +523,7 @@
               <span class="leg-v inf-r-mar">V</span>
             </div>
             <div class="recipe-ingredients">
-              <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- 200g farina</li>
                 <li>- 100g zucchero</li>
