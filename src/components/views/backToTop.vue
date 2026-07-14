@@ -5,12 +5,12 @@
 </template>
 
 <script>
-export default {
-  name: 'backToTop',
-  methods: {
-    backToTop() {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+  export default {
+    name: 'backToTop',
+    methods: {
+      backToTop() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
     }
-  }
-};
+  };
 </script>
