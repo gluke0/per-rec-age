@@ -83,6 +83,12 @@ a {
         height: 0.1rem;
         background-color: var(--darker-background);
         margin: 0.3rem 0;
+
+        &--narrow {
+            width: 70%;
+            margin: 0.2rem 0;
+            display: block;
+        }
     }
 }
 
