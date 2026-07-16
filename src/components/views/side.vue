@@ -146,6 +146,9 @@
               <div>
                 <i class="ri-fire-line"></i> Cuocere per 10 minuti a 160ºC, poi 5 minuti a 180° e infine altri 5 minuti a 200°.
               </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Per un risultato più dolce, aggiungere un po' di zucchero di canna anche nella ciotola.
+              </div> 
             </div>
           </div>
           <div class="open-recipe">
