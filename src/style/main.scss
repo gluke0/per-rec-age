@@ -254,24 +254,27 @@ a {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 4rem;
-    height: 4rem;
-    background-color: var(--slightly-gray);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+    background: transparent;
+    padding: 0;
+    width: auto;
+    height: auto;
+    box-shadow: none;
+    border: none;
     cursor: pointer;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    transition: transform 0.15s ease, opacity 0.15s ease;
 
     &:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.22);
+        transform: none;
+        opacity: 0.9;
     }
 
     i {
-        font-size: 3rem;
-        background: linear-gradient(90deg, #009246 0 33%, #f5f5f5 33% 66%, #ce2b37 66% 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
+        font-size: 1.75rem;
+        color: var(--darker-background);
+        background: none;
+        -webkit-background-clip: initial;
+        -webkit-text-fill-color: initial;
+        background-clip: initial;
     }
 }
 
@@ -417,8 +420,6 @@ footer {
     }
 
     .back-to-top {
-        width: 3.5rem;
-        height: 3.5rem;
         right: 1rem;
         bottom: 1rem;
     }
@@ -482,8 +483,6 @@ footer {
     }
 
     .back-to-top {
-        width: 3rem;
-        height: 3rem;
         right: 0.75rem;
         bottom: 0.75rem;
     }
@@ -560,8 +559,6 @@ footer {
 
 @media (max-width: 540px) {
     .back-to-top {
-        width: 2.75rem;
-        height: 2.75rem;
         right: 0.5rem;
         bottom: 0.5rem;
     }

@@ -1,6 +1,6 @@
 <template>
   <button class="back-to-top" @click="backToTop" aria-label="Torna su">
-    <i class="ri-arrow-up-box-fill"></i>
+    <i class="ri-arrow-up-line" aria-hidden="true"></i>
   </button>
 </template>
 
