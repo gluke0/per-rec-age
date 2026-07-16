@@ -13,6 +13,7 @@
     --almost-darker: #767575;
     --non-white: #dedada;
     --slightly-gray: #9c9999;
+    --accent-green: #04552b;
 
     // Food Legend Colors
     --meat: #7c400f;
@@ -108,24 +109,7 @@ a {
         font-size: clamp(2rem, 3vw, 3rem);
         letter-spacing: 0.08em;
         font-weight: 700;
-    }
-}
-
-.flag-letter {
-    display: inline-block;
-    padding: 0 0.05rem;
-
-    &--green {
-        color: #009246;
-    }
-
-    &--white {
-        color: #f5f5f5;
-        text-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
-    }
-
-    &--red {
-        color: #ce2b37;
+        color: var(--accent-green);
     }
 }
 
@@ -269,8 +253,8 @@ a {
     }
 
     i {
-        font-size: 3rem;
-        color: green;
+        font-size: 1.75rem;
+        color: var(--accent-green);
         background: none;
         -webkit-background-clip: initial;
         -webkit-text-fill-color: initial;
