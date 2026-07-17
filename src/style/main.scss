@@ -248,7 +248,7 @@ a {
     transition: transform 0.15s ease, opacity 0.15s ease;
 
     &:hover {
-        transform: none;
+        transform: scale(1.3);
         opacity: 0.9;
     }
 
