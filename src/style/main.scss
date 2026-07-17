@@ -397,6 +397,12 @@ footer {
 // Responsive Media Queries
 // ==========================================
 
+@media (max-width: 1900px) {
+    .recipe-card {
+        width: calc((100% - 40px) / 3);
+    }
+}
+
 @media (max-width: 1500px) {
     .recipe-card {
         width: calc((100% - 24px) / 2);
