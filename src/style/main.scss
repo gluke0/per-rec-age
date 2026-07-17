@@ -466,41 +466,7 @@ footer {
     }
 }
 
-@media (max-width: 768px) {
-    section {
-        width: 95%;
-    }
-
-    .back-to-top {
-        right: 0.75rem;
-        bottom: 0.75rem;
-    }
-
-    .menu {
-        font-size: large;
-        padding: 1rem 0.75rem;
-    }
-
-    .menu > div {
-        flex: 1 1 45%;
-        text-align: center;
-    }
-
-    .inputsearch input {
-        width: 100%;
-        max-width: 100%;
-    }
-
-    .info-div {
-        width: 100%;
-        padding: 1rem;
-    }
-
-    .info-div .info-elements {
-        flex-direction: column;
-        align-items: stretch;
-    }
-
+@media (max-width: 840px) {
     .recipe-card {
         width: 100%;
         margin: 8px 0;
@@ -543,6 +509,42 @@ footer {
 
     .recipe-title h3 {
         font-size: 1.25rem;
+    }
+}
+
+@media (max-width: 768px) {
+    section {
+        width: 95%;
+    }
+
+    .back-to-top {
+        right: 0.75rem;
+        bottom: 0.75rem;
+    }
+
+    .menu {
+        font-size: large;
+        padding: 1rem 0.75rem;
+    }
+
+    .menu > div {
+        flex: 1 1 45%;
+        text-align: center;
+    }
+
+    .inputsearch input {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .info-div {
+        width: 100%;
+        padding: 1rem;
+    }
+
+    .info-div .info-elements {
+        flex-direction: column;
+        align-items: stretch;
     }
 }
 
