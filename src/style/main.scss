@@ -399,7 +399,7 @@ footer {
 
 @media (max-width: 1500px) {
     .recipe-card {
-        width: calc((100% - 40px) / 3);
+        width: calc((100% - 24px) / 2);
     }
 }
 
@@ -439,7 +439,7 @@ footer {
     }
 
     .recipe-card {
-        width: calc((100% - 32px) / 3);
+        width: calc((100% - 24px) / 2);
         height: 15rem;
     }
 
