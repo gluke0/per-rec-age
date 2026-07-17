@@ -308,12 +308,16 @@ a {
 .recipe-title {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
+    gap: 0.75rem;
     margin-top: 1.5rem;
+    flex-wrap: nowrap;
 
     h3 {
         font-size: 1.5rem;
-        line-height: 1;
+        line-height: 1.2;
+        margin: 0;
+        flex: 1 1 auto;
     }
 }
 
@@ -332,7 +336,8 @@ a {
 
 // Global Icon Actions
 .ri-share-2-line {
-    margin-right: 1rem;
+    margin-right: 0;
+    flex-shrink: 0;
     color: var(--darker-background);
     font-size: 2.2rem;
 
@@ -607,8 +612,8 @@ footer {
     }
 
     .recipe-title {
-        flex-direction: column;
-        align-items: flex-start;
+        flex-direction: row;
+        align-items: center;
         gap: 0.5rem;
     }
 
