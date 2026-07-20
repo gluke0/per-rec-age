@@ -97,9 +97,6 @@
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
-              <div> 
-                <i class="ri-fridge-line"></i> .
-              </div>
               <div>
                 <i class="ri-fire-line"></i> .
               </div>
