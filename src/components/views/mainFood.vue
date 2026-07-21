@@ -104,7 +104,7 @@
                 <i class="ri-fire-line"></i> Cuocere 4 minuti a 180°C, girare e cuocere per altri 3 minuti a 200°C.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> Consigliato uso della mozzarella in panetto.
+                <i class="ri-lightbulb-ai-line"></i> È consigliato l'uso del panetto di mozzarella.
               </div>
               <div>
                 <i class="ri-lightbulb-ai-line"></i> Possibilità di aggiungere un po' di farina di mais al pan grattato per una panatura più croccante.
