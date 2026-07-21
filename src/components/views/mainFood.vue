@@ -101,7 +101,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div>
-                <i class="ri-fire-line"></i> .
+                <i class="ri-fire-line"></i> Cuocere 4 minuti a 180°C, girare e cuocere per altri 3 minuti a 200°C.
               </div>
               <div>
                 <i class="ri-lightbulb-ai-line"></i> .
