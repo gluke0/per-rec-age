@@ -75,7 +75,7 @@
           </div>
           <div class="recipe-preview">
             <div class="recipe-img">
-              <img src="../../assets/food/" alt="Mozzarella In Carrozza">
+              <img src="../../assets/food/mainfood/mozzarella-carrozza.png" alt="Mozzarella In Carrozza">
             </div>
             <div class="recipe-info-details">
               <span class="leg-af inf-r-mar">AF</span>
