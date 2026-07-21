@@ -84,9 +84,12 @@
             <div class="recipe-ingredients">
               <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
-              <div class="separator-ingredients"></div>
               <ul class="ingredients-list">
                 <li>- Mozzarella</li>
+                <li>- Uova</li>
+                <li>- Pangrattato</li>
+                <li>- Farina</li>
+                <li>- Sale</li>
               </ul>
             </div>
             <div class="separator"></div>
