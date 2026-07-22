@@ -98,6 +98,8 @@
                 <li>> Tagliare a fette di circa 1cm la mozzarella.</li>
                 <li>> Preparare 3 piatti: uno con la farina, uno con le uova sbattute e uno con il pangrattato.</li>
                 <li>> Passare le fette di mozzarella prima nella farina, poi nell'uovo e infine nel pangrattato.</li>
+                <li>> Ripassare nell'uovo e nel pangrattato se si vuole una panatura più spessa.</li>
+                <li>> Mettere in friggitrice ad aria, con carta da forno apposita e cuocere.</li>
               </ul>
             </div>
             <div class="separator"></div>
