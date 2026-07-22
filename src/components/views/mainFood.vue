@@ -95,7 +95,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> .</li>
+                <li>> Tagliare a fette di circa 1cm la mozzarella.</li>
+                <li>> Preparare 3 piatti: uno con la farina, uno con le uova sbattute e uno con il pangrattato.</li>
+                <li>> Passare le fette di mozzarella prima nella farina, poi nell'uovo e infine nel pangrattato.</li>
               </ul>
             </div>
             <div class="separator"></div>
