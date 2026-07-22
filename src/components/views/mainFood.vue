@@ -68,9 +68,9 @@
         </div>
         
         <!-- mozzarella in carrozza ad aria -->
-        <div class="recipe-card" data-recipe="mozzarella in carrozza ad aria">
+        <div class="recipe-card" data-recipe="mozzarella in carrozza friggitrice aria">
           <div class="recipe-title">
-            <h3>Mozzarella In Carrozza Ad Aria</h3>
+            <h3>Mozzarella In CarrozzAria</h3>
             <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
