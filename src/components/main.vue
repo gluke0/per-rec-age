@@ -9,14 +9,16 @@ import BackToTop from './views/backToTop.vue';
 export default {
    name: "Main",
    data() {
-      return {}
+      return {
+         searchText: ''
+      }
    },
    components: { Starter, First, MainFood, Side, Dessert, BackToTop },
    
    methods: {
       searchRecipes(){
          let searchInput = document.getElementById('searchInput');
-         let searchQuery = searchInput.value.toLowerCase().trim();
+         let searchQuery = (searchInput?.value || this.searchText || '').toLowerCase().trim();
          let recipeCards = document.querySelectorAll('.recipe-card');
          recipeCards.forEach(card =>{
             let recipeData = (card.getAttribute('data-recipe') || "").toLowerCase();
@@ -26,6 +28,14 @@ export default {
                card.classList.add('hidden');
             }
          });
+      },
+      clearSearch(){
+         let searchInput = document.getElementById('searchInput');
+         if (searchInput) {
+            searchInput.value = '';
+         }
+         this.searchText = '';
+         this.searchRecipes();
       }
    }
 };
@@ -34,7 +44,10 @@ export default {
 <template>
    <div class="main-wrapper">
       <div class="inputsearch">
-         <input type="text" id="searchInput" placeholder="Cerca ricette..." @input="searchRecipes">
+         <div class="search-input-wrapper">
+            <input v-model="searchText" type="text" id="searchInput" placeholder="Cerca ricette..." @input="searchRecipes">
+            <button v-if="searchText" type="button" class="clear-search-btn" @click="clearSearch" aria-label="Cancella ricerca">✕</button>
+         </div>
       </div>
       <Starter></Starter>
       <First></First>
