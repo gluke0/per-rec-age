@@ -262,7 +262,7 @@
               <ul class="ingredients-list">
                 <li>- 200g farina</li>
                 <li>- 100g zucchero</li>
-                <li>- 100g burro</li>
+                <li>- 100g margarina</li>
                 <li>- 100g mandorle</li>
                 <li>- 1 pizzico di sale</li>
               </ul>
