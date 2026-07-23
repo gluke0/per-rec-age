@@ -243,8 +243,8 @@
           </div>
         </div>
 
-        <!-- torta sbrisolona -->
-        <div class="recipe-card" data-recipe="torta sbrisolona mandorle dolce">
+        <!-- sbrisolona vegana -->
+        <div class="recipe-card" data-recipe="torta sbrisolona mandorle vegana margarina dolce">
           <div class="recipe-title">
             <h3>Torta Sbrisolona</h3>
             <i class="ri-share-2-line hidden"></i>
