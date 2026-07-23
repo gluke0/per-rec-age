@@ -255,6 +255,7 @@
             </div>
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
+              <span class="leg-veg inf-r-mar">VEG</span>
             </div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
