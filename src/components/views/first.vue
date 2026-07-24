@@ -153,11 +153,11 @@
             </div>
             <div class="separator"></div>
             <div class="cook-details hidden">
-              <div>
-                <i class="ri-fire-line"></i> .
+              <div> 
+                <i class="ri-fire-line"></i> Cuocere la pasta secondo le indicazioni o a piacimento.
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> Possibilità di spolverare con bottarga e prezzemolo una volta impiattata.
+                <i class="ri-lightbulb-ai-line"></i> Possibilità di finire con bottarga, prezzemolo e un giro d'olio una volta impiattata.
               </div>
             </div>
           </div>
