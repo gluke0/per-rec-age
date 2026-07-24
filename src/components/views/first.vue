@@ -157,7 +157,7 @@
                 <i class="ri-fire-line"></i> .
               </div>
               <div>
-                <i class="ri-lightbulb-ai-line"></i> .
+                <i class="ri-lightbulb-ai-line"></i> Possibilità di spolverare con bottarga e prezzemolo una volta impiattata.
               </div>
             </div>
           </div>
