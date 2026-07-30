@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap');
 @import 'remixicon/fonts/remixicon.css';
 
-// ==========================================
 // Variables & Design Tokens
-// ==========================================
 
 :root {
     --main-text: #000000;
@@ -29,9 +27,7 @@
     color: var(--non-white);
 }
 
-// ==========================================
 // Global Reset & Base Styles
-// ==========================================
 
 * {
     margin: 0;
@@ -93,9 +89,7 @@ a {
     }
 }
 
-// ==========================================
 // Navigation & Header
-// ==========================================
 
 #logo {
     text-align: center;
@@ -140,9 +134,7 @@ a {
     }
 }
 
-// ==========================================
 // Info Dashboard / Legend
-// ==========================================
 
 .info-div {
     width: 75%;
@@ -196,9 +188,7 @@ a {
     &-af  { color: var(--airfryer); @extend %legend-base; }
 }
 
-// ==========================================
 // Search & Layout Containers
-// ==========================================
 
 .inputsearch {
     text-align: center;
@@ -283,9 +273,7 @@ a {
     }
 }
 
-// ==========================================
 // Recipe Grid & Cards
-// ==========================================
 
 .recipe-card-wrapper {
     display: flex;
@@ -399,9 +387,7 @@ a {
     margin-bottom: 2rem;
 }
 
-// ==========================================
 // Footer
-// ==========================================
 
 footer {
     display: flex;
@@ -414,9 +400,7 @@ footer {
     margin-bottom: 0.5rem;
 }
 
-// ==========================================
 // Responsive Media Queries
-// ==========================================
 
 @media (max-width: 1900px) {
     .recipe-card {
