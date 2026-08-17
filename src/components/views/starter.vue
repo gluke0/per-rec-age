@@ -59,55 +59,6 @@
           </div>
         </div>
 
-        <!-- dischi sfoglia cipolla -->
-        <div class="recipe-card" data-recipe="dischi tarte tatin sfoglia cipolla">
-          <div class="recipe-title">
-            <h3>Tarte Tatin Cipolla</h3>
-            <i class="ri-share-2-line hidden"></i>
-          </div>
-          <div class="recipe-preview">
-            <div class="recipe-img">
-              <img src="../../assets/food/starter/tartetatin-cipolla.png" alt="Tarte Tatin Cipolla">
-            </div>
-            <div class="recipe-info-details">
-              <span class="leg-v inf-r-mar">V</span>
-            </div>
-            <div class="recipe-ingredients">
-              <h4>Ingredienti:</h4>
-              <ul class="ingredients-list">
-                <li>- Pasta sfoglia</li>
-                <li>- Cipolla di Tropea</li>
-                <li>- Miele</li>
-                <li>- Olio EVO</li>
-                <li>- Aceto balsamico</li>
-                <li>- Sale</li>
-                <li>- Uovo</li>
-              </ul>
-            </div>
-            <div class="separator"></div>
-            <div class="recipe-process hidden">
-              <ul>
-                <li>> Tagliare a fette sottili la cipolla.</li>
-                <li>> Stendere un foglio di carta da forno in una teglia e creare delle macchie con un filo di olio, 4 gocce di aceto balsamico, un cucchiaino di miele e un pizzico di sale.</li>
-                <li>> Disporre le fette di cipolla in modo da coprire la macchia appena creata e, successivamente, disporre un cerchio di pasta sfoglia a coprire la cipolla.</li>
-                <li>> Bucare con una forchetta la pasta soglia, spennellare con uovo e infornare.</li>
-              </ul>
-            </div>
-            <div class="separator"></div>
-            <div class="cook-details hidden">
-              <div>
-                <i class="ri-fire-line"></i> Circa 15 minuti a 180°C.
-              </div>
-              <div>
-                <i class="ri-lightbulb-ai-line"></i> Possibilità di aggiungere un cucchiaio di stracciatella in uscita dal forno.
-              </div>
-            </div>
-          </div>
-          <div class="open-recipe">
-            <i class="ri-arrow-down-wide-line"></i>
-          </div>
-        </div>
-
         <!-- patè di vitello -->
         <div class="recipe-card" data-recipe="patè pate di vitello carne">
           <div class="recipe-title">
@@ -156,6 +107,55 @@
                 <br>
                 <i class="ri-lightbulb-ai-line"></i> Togliere dal frigorifero 30 minuti prima del consumo per facilitare l'estrazione dallo stampo.
               </div> 
+            </div>
+          </div>
+          <div class="open-recipe">
+            <i class="ri-arrow-down-wide-line"></i>
+          </div>
+        </div>
+
+        <!-- dischi sfoglia cipolla -->
+        <div class="recipe-card" data-recipe="dischi tarte tatin sfoglia cipolla">
+          <div class="recipe-title">
+            <h3>Tarte Tatin Cipolla</h3>
+            <i class="ri-share-2-line hidden"></i>
+          </div>
+          <div class="recipe-preview">
+            <div class="recipe-img">
+              <img src="../../assets/food/starter/tartetatin-cipolla.png" alt="Tarte Tatin Cipolla">
+            </div>
+            <div class="recipe-info-details">
+              <span class="leg-v inf-r-mar">V</span>
+            </div>
+            <div class="recipe-ingredients">
+              <h4>Ingredienti:</h4>
+              <ul class="ingredients-list">
+                <li>- Pasta sfoglia</li>
+                <li>- Cipolla di Tropea</li>
+                <li>- Miele</li>
+                <li>- Olio EVO</li>
+                <li>- Aceto balsamico</li>
+                <li>- Sale</li>
+                <li>- Uovo</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="recipe-process hidden">
+              <ul>
+                <li>> Tagliare a fette sottili la cipolla.</li>
+                <li>> Stendere un foglio di carta da forno in una teglia e creare delle macchie con un filo di olio, 4 gocce di aceto balsamico, un cucchiaino di miele e un pizzico di sale.</li>
+                <li>> Disporre le fette di cipolla in modo da coprire la macchia appena creata e, successivamente, disporre un cerchio di pasta sfoglia a coprire la cipolla.</li>
+                <li>> Bucare con una forchetta la pasta soglia, spennellare con uovo e infornare.</li>
+              </ul>
+            </div>
+            <div class="separator"></div>
+            <div class="cook-details hidden">
+              <div>
+                <i class="ri-fire-line"></i> Circa 15 minuti a 180°C.
+              </div>
+              <div>
+                <i class="ri-lightbulb-ai-line"></i> Possibilità di aggiungere un cucchiaio di stracciatella in uscita dal forno.
+              </div>
             </div>
           </div>
           <div class="open-recipe">
