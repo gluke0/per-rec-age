@@ -549,7 +549,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> </li>
+                <li>> Sminuzzare i Mars e aggiungerli al burro già sciolto in padella.</li>
+                <li>> Aggiungere i Coco Pops e mescolare il tutto.</li>
+                <li>> Versare il composto in una teglia o piatto della pizza coperto con carta da forno, schiacchiare e porre in frigorifero.</li>
               </ul>
             </div>
             <div class="separator"></div>
