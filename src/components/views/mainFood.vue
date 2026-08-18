@@ -167,7 +167,7 @@
         </div>
 
         <!-- salame di tonno -->
-        <div class="recipe-card" data-recipe="salame di tonno tonno capperi limone pesce">
+        <!-- <div class="recipe-card" data-recipe="salame di tonno tonno capperi limone pesce">
           <div class="recipe-title">
             <h3>Salame Di Tonno</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -208,7 +208,7 @@
           <div class="open-recipe">
             <i class="ri-arrow-down-wide-line"></i>
           </div>
-        </div>
+        </div> -->
 
         <!-- salmone saporito in padella -->
         <div class="recipe-card" data-recipe="salmone saporito in padella spezie pesce">
