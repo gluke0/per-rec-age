@@ -20,7 +20,7 @@
       <div class="recipe-card-wrapper">
 
         <!-- crostata -->
-        <div class="recipe-card" data-recipe="crostata frolla marmellata dolce torta">
+        <!-- <div class="recipe-card" data-recipe="crostata frolla marmellata dolce torta">
           <div class="recipe-title">
             <h3>Crostata</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -60,10 +60,10 @@
           <div class="open-recipe">
             <i class="ri-arrow-down-wide-line"></i>
           </div>
-        </div>
+        </div> -->
 
         <!-- crostata fausta -->
-        <div class="recipe-card" data-recipe="crostata frolla marmellata dolce torta">
+        <!-- <div class="recipe-card" data-recipe="crostata frolla marmellata dolce torta">
           <div class="recipe-title">
             <h3>Crostata</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -107,7 +107,7 @@
           <div class="open-recipe">
             <i class="ri-arrow-down-wide-line"></i>
           </div>
-        </div>
+        </div> -->
 
         <!-- gelato datteri -->
         <div class="recipe-card" data-recipe="gelato datteri latter shake milkshake">
