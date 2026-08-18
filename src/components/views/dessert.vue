@@ -344,7 +344,7 @@
         </div>
 
         <!-- tiramisu -->
-        <div class="recipe-card" data-recipe="tiramisu tiramisù dolce torta">
+        <!-- <div class="recipe-card" data-recipe="tiramisu tiramisù dolce torta">
           <div class="recipe-title">
             <h3>Tiramisù</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -378,7 +378,7 @@
           <div class="open-recipe">
             <i class="ri-arrow-down-wide-line"></i>
           </div>
-        </div>
+        </div> -->
 
         <!-- torta al cocco -->
         <div class="recipe-card" data-recipe="torta al cocco dolce">
