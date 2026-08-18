@@ -557,7 +557,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fridge-line"></i> 
+                <i class="ri-fridge-line"></i> Conservare in luogo fresco o in frigorifero.
               </div>
             </div>
           </div>
