@@ -478,7 +478,7 @@
         </div>
 
         <!-- torta di rose -->
-        <div class="recipe-card" data-recipe="torta di rose dolce">
+        <!-- <div class="recipe-card" data-recipe="torta di rose dolce">
           <div class="recipe-title">
             <h3>Torta Di Rose</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -523,10 +523,10 @@
           <div class="open-recipe">
             <i class="ri-arrow-down-wide-line"></i>
           </div>
-        </div>
+        </div> -->
          
         <!-- torta mars -->
-        <div class="recipe-card" data-recipe="torta mars dolce">
+        <!-- <div class="recipe-card" data-recipe="torta mars dolce">
           <div class="recipe-title">
             <h3>Torta Mars</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -560,7 +560,7 @@
           <div class="open-recipe">
             <i class="ri-arrow-down-wide-line"></i>
           </div>
-        </div>
+        </div> -->
 
         <!-- torta sbrisolona -->
         <div class="recipe-card" data-recipe="torta sbrisolona mandorle dolce">
