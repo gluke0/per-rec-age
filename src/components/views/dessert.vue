@@ -526,7 +526,7 @@
         </div> -->
          
         <!-- torta mars -->
-        <!-- <div class="recipe-card" data-recipe="torta mars dolce">
+        <div class="recipe-card" data-recipe="torta mars dolce">
           <div class="recipe-title">
             <h3>Torta Mars</h3>
             <i class="ri-share-2-line hidden"></i>
@@ -541,7 +541,9 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- </li>
+                <li>- Mars</li>
+                <li>- Coco Pops</li>
+                <li>- 100g burro</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -560,7 +562,7 @@
           <div class="open-recipe">
             <i class="ri-arrow-down-wide-line"></i>
           </div>
-        </div> -->
+        </div>
 
         <!-- torta sbrisolona -->
         <div class="recipe-card" data-recipe="torta sbrisolona mandorle dolce">
