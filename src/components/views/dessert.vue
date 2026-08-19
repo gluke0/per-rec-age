@@ -541,9 +541,9 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Mars</li>
+                <li>- 3 Mars (135 gr)</li>
                 <li>- Coco Pops</li>
-                <li>- 100g burro</li>
+                <li>- 20g burro</li>
               </ul>
             </div>
             <div class="separator"></div>
