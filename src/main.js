@@ -45,7 +45,7 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
         }
     });
 
-    // closing with arrows - prevent to close if i want to copy the text
+    // closing with arrows - prevent to close when copying text
     card.querySelector('.open-recipe').addEventListener('click', () =>{
         card.classList.toggle('expand');
         let arrowExpand = card.querySelector('.open-recipe i');
