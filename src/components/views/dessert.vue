@@ -550,8 +550,8 @@
             <div class="recipe-process hidden">
               <ul>
                 <li>> Mettere il burro e i Mars in padella, far sciogliere fino ad ottenere un composto omogeneo e togliere dal fuoco.</li>
-                <li>> Aggiungere i Coco Pops a pioggia incorporando man mano.</li>
-                <li>> Versare il composto in una teglia o piatto della pizza coperto con carta da forno, schiacchiare a piacimentoe porre in frigorifero.</li>
+                <li>> Aggiungere i Coco Pops o riso soffiato a pioggia incorporando man mano fino alla consistenza desiderata.</li>
+                <li>> Versare il composto su carta da forno, schiacchiare a piacimento e lasciare raffreddare a temperatura ambiente.</li>
               </ul>
             </div>
             <div class="separator"></div>
