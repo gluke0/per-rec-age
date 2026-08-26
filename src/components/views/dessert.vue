@@ -557,7 +557,7 @@
             <div class="separator"></div>
             <div class="cook-details hidden">
               <div> 
-                <i class="ri-fridge-line"></i> Conservare in luogo fresco o in frigorifero.
+                <i class="ri-fridge-line"></i> Conservare a temperatura ambiente.
               </div>
             </div>
           </div>
@@ -626,9 +626,3 @@
 <style lang="scss">
   @use '../../style/main.scss';
 </style>
-
-
-torta mars 
-
-5/4 mars a scelta con 30/40 gr di burro
-sciogli sul fuoco, togli e mischia - peso riso klg variabie
