@@ -541,15 +541,15 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 3 Mars (135 gr)</li>
-                <li>- Coco Pops</li>
+                <li>- 4/5 Mars</li>
+                <li>- Coco Pops o riso soffiato</li>
                 <li>- 20g burro</li>
               </ul>
             </div>
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Sminuzzare i Mars e aggiungerli al burro già sciolto in padella.</li>
+                <li>> Mettere il burro e i Mars in padella, far sciogliere fino ad ottenere un composto omogeneo e togliere dal fuoco.</li>
                 <li>> Aggiungere i Coco Pops a pioggia incorporando man mano.</li>
                 <li>> Versare il composto in una teglia o piatto della pizza coperto con carta da forno, schiacchiare a piacimentoe porre in frigorifero.</li>
               </ul>
@@ -626,3 +626,9 @@
 <style lang="scss">
   @use '../../style/main.scss';
 </style>
+
+
+torta mars 
+
+5/4 mars a scelta con 30/40 gr di burro
+sciogli sul fuoco, togli e mischia - peso riso klg variabie
