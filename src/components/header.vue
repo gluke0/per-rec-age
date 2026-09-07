@@ -37,14 +37,15 @@ export default{
             <div class="dessert">
                <a href="#dessert">Dolci</a>
             </div>
-            <div class="info-nav">
-               <i class="ri-information-2-line"></i>
-            </div>
+            <button class="info-nav" type="button" aria-label="Apri legenda alimentare" title="Legenda alimentare">
+               <i class="ri-information-2-line" aria-hidden="true"></i>
+               <span>Legenda</span>
+            </button>
          </nav>
          <div class="info-div hidden">
-            <h3>Info:</h3>
-            <button class="close-x">
-               <i class="ri-close-line"></i>
+            <h3>Legenda alimentare</h3>
+            <button class="close-x" type="button" aria-label="Chiudi legenda">
+               <i class="ri-close-line" aria-hidden="true"></i>
             </button>
             <div class="info-elements">
                <div>
