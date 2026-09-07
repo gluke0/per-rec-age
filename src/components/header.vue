@@ -12,20 +12,16 @@ export default{
 </script>
 
 <template>
-
-   <section>
-      <header>
-         <div id="logo">
-            <h1>
-               <span class="flag-letter flag-letter--green">C</span>
-               <span class="flag-letter flag-letter--green">h</span>
-               <span class="flag-letter flag-letter--white">e</span>
-               <span class="flag-letter flag-letter--white">f</span>
-               <span class="flag-letter flag-letter--red">f</span>
-               <span class="flag-letter flag-letter--red">y</span>
-            </h1>
-         </div>
-         <div class="menu">
+   <header class="site-header">
+      <div class="header-inner">
+         <a class="brand" href="#top" aria-label="Torna all'inizio">
+            <span class="brand-mark">C</span>
+            <span>
+               <strong>Cheffy</strong>
+               <small>ricette senza complicazioni</small>
+            </span>
+         </a>
+         <nav class="menu" aria-label="Categorie ricette">
             <div class="starter">
                <a href="#starter">Antipasti</a>
             </div>
@@ -44,7 +40,7 @@ export default{
             <div class="info-nav">
                <i class="ri-information-2-line"></i>
             </div>
-         </div>
+         </nav>
          <div class="info-div hidden">
             <h3>Info:</h3>
             <button class="close-x">
@@ -68,8 +64,8 @@ export default{
                </div>
             </div>
          </div>
-      </header>
-   </section>
+         </div>
+   </header>
     
 </template>
 
