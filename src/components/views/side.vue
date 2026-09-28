@@ -25,7 +25,7 @@
             <h3>Pane Pita Libanese</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
+            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
             <div class="recipe-img">
               <img src="../../assets/food/side/pane-pita-libanese.png" alt="Pane Pita Libanese">
             </div>
@@ -75,7 +75,7 @@
             <h3>Polenta Croccante</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
+            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
             <div class="recipe-img">
               <img src="../../assets/food/side/polenta-croccante.png" alt="Polenta Croccante">
             </div>
@@ -114,7 +114,7 @@
             <h3>Pomodorini Confit</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
+            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
             <div class="recipe-img">
               <img src="../../assets/food/side/pomodorini-confit.png" alt="Pomodorini Confit">
             </div>
@@ -162,7 +162,7 @@
             <h3>Radicchio Al Forno</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
+            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
             <div class="recipe-img">
               <img src="../../assets/food/side/radicchio-forno.png" alt="Radicchio Forno">
             </div>
