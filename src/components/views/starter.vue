@@ -23,9 +23,9 @@
         <div class="recipe-card" data-recipe="antipasto rosso tonno">
           <div class="recipe-title">
             <h3>Antipasto Rosso</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/starter/antipasto-rosso.png" alt="Antipasto Rosso">
             </div>
@@ -63,9 +63,9 @@
         <div class="recipe-card" data-recipe="patè pate di vitello carne">
           <div class="recipe-title">
             <h3>Patè Di Vitello</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/starter/pate-vitello.png" alt="Patè Di Vitello">
             </div>
@@ -118,9 +118,9 @@
         <div class="recipe-card" data-recipe="dischi tarte tatin sfoglia cipolla">
           <div class="recipe-title">
             <h3>Tarte Tatin Cipolla</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/starter/tartetatin-cipolla.png" alt="Tarte Tatin Cipolla">
             </div>
@@ -167,9 +167,9 @@
         <div class="recipe-card" data-recipe="uovo fondente uova vegetariana">
           <div class="recipe-title">
             <h3>Uovo Fondente</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/starter/uovo-fondente.png" alt="Uovo Fondente">
             </div>

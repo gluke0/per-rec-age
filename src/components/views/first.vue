@@ -23,9 +23,9 @@
         <div class="recipe-card" data-recipe="farro insalata pomodorini tonno mozzarella">
           <div class="recipe-title">
             <h3>Insalata Di Farro</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/first/insalata-farro.png" alt="Insalata Di Farro">
             </div>
@@ -74,9 +74,9 @@
         <div class="recipe-card" data-recipe="lasagne al pesto">
           <div class="recipe-title">
             <h3>Lasagne Al Pesto</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/first/lasagne-pesto.png" alt="Lasagne Al Pesto">
             </div>
@@ -124,9 +124,9 @@
         <div class="recipe-card" data-recipe="pasta con bottarga">
           <div class="recipe-title">
             <h3>Pasta Con Bottarga</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/first/pasta-bottarga.png" alt="Pasta Con Bottarga">
             </div>
@@ -170,9 +170,9 @@
         <div class="recipe-card" data-recipe="pasta gbp grana formaggio pepe burro vegetariana">
           <div class="recipe-title">
             <h3>Pasta GBP</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/first/pasta-gbp.png" alt="Pasta GBP">
             </div>

@@ -23,9 +23,9 @@
         <div class="recipe-card" data-recipe="feta pasta fillo miele sesamo formaggio vegetariana">
           <div class="recipe-title">
             <h3>Feta In Pasta Fillo</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/feta-pastafillo.png" alt="Feta Con Pasta Fillo">
             </div>
@@ -71,9 +71,9 @@
         <div class="recipe-card" data-recipe="mozzarella in carrozza fritto friggitrice aria">
           <div class="recipe-title">
             <h3>Mozzarella In CarrozzAria</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/mozzarella-carrozza.png" alt="Mozzarella In Carrozza">
             </div>
@@ -124,9 +124,9 @@
         <div class="recipe-card" data-recipe="pollo saporito paz carne">
           <div class="recipe-title">
             <h3>Pollo Saporito PAZ</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/pollo-paz.png" alt="Pollo Saporito PAZ">
             </div>
@@ -170,9 +170,9 @@
         <!-- <div class="recipe-card" data-recipe="salame di tonno tonno capperi limone pesce">
           <div class="recipe-title">
             <h3>Salame Di Tonno</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/salame-tonno.png" alt="Salame Di Tonno">
             </div>
@@ -214,9 +214,9 @@
         <div class="recipe-card" data-recipe="salmone saporito in padella spezie pesce">
           <div class="recipe-title">
             <h3>Salmone Saporito In Padella</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/salmone-saporito.png" alt="Salmone Saporito In Padella">
             </div>
@@ -261,9 +261,9 @@
         <div class="recipe-card" data-recipe="tonno teriyaki pesce">
           <div class="recipe-title">
             <h3>Tonno Teriyaki</h3>
-            <i class="ri-share-2-line hidden"></i>
           </div>
           <div class="recipe-preview">
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-2-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/tonno-teriyaki.png" alt="Tonno Teriyaki">
             </div>
