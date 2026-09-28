@@ -25,7 +25,7 @@
             <h3>Crostata</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/crostata.png" alt="Crostata">
             </div>
@@ -68,7 +68,7 @@
             <h3>Crostata</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/crostata-2.png" alt="Crostata-2">
             </div>
@@ -115,7 +115,7 @@
             <h3>Gelato Ai Datteri</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/gelato-datteri.png" alt="Gelato Ai Datteri">
             </div>
@@ -158,7 +158,7 @@
             <h3>Mela CC</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/mela-cc.png" alt="Mela CC">
             </div>
@@ -201,7 +201,7 @@
             <h3>Mela Ripiena Di Frutta Secca</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/mela-frutta-secca.png" alt="Mela Ripiena Di Frutta Secca">
             </div>
@@ -249,7 +249,7 @@
             <h3>Sbrisolona Vegana</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/sbrisolona-vegana.png" alt="Sbrisolona Vegana">
             </div>
@@ -302,7 +302,7 @@
             <h3>Sigari Di Pasta Fillo</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/sigari-pasta-fillo.png" alt="Sigari di Pasta Fillo">
             </div>
@@ -349,7 +349,7 @@
             <h3>Tiramisù</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/tiramisu.png" alt="Tiramisu">
             </div>
@@ -386,7 +386,7 @@
             <h3>Torta Al Cocco</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/torta-cocco.png" alt="Torta Al Cocco">
             </div>
@@ -435,7 +435,7 @@
             <h3>Torta Al Cioccolato</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/torta-cioccolato.png" alt="Torta Al Cioccolato">
             </div>
@@ -483,7 +483,7 @@
             <h3>Torta Di Rose</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/torta-rose.png" alt="Torta Di Rose">
             </div>
@@ -531,7 +531,7 @@
             <h3>Torta Mars</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/torta-mars.png" alt="Torta Mars">
             </div>
@@ -572,7 +572,7 @@
             <h3>Torta Sbrisolona</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/dessert/torta-sbrisolona.png" alt="Torta Sbrisolona">
             </div>

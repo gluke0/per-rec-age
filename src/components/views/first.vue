@@ -25,7 +25,7 @@
             <h3>Insalata Di Farro</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/first/insalata-farro.png" alt="Insalata Di Farro">
             </div>
@@ -76,7 +76,7 @@
             <h3>Lasagne Al Pesto</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/first/lasagne-pesto.png" alt="Lasagne Al Pesto">
             </div>
@@ -126,7 +126,7 @@
             <h3>Pasta Con Bottarga</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/first/pasta-bottarga.png" alt="Pasta Con Bottarga">
             </div>
@@ -172,7 +172,7 @@
             <h3>Pasta GBP</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/first/pasta-gbp.png" alt="Pasta GBP">
             </div>

@@ -25,7 +25,7 @@
             <h3>Feta In Pasta Fillo</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/feta-pastafillo.png" alt="Feta Con Pasta Fillo">
             </div>
@@ -73,7 +73,7 @@
             <h3>Mozzarella In CarrozzAria</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/mozzarella-carrozza.png" alt="Mozzarella In Carrozza">
             </div>
@@ -126,7 +126,7 @@
             <h3>Pollo Saporito PAZ</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/pollo-paz.png" alt="Pollo Saporito PAZ">
             </div>
@@ -172,7 +172,7 @@
             <h3>Salame Di Tonno</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/salame-tonno.png" alt="Salame Di Tonno">
             </div>
@@ -216,7 +216,7 @@
             <h3>Salmone Saporito In Padella</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/salmone-saporito.png" alt="Salmone Saporito In Padella">
             </div>
@@ -263,7 +263,7 @@
             <h3>Tonno Teriyaki</h3>
           </div>
           <div class="recipe-preview">
-            <button class="share-btn" type="button"><i class="ri-share-2-line" aria-hidden="true"></i><span>Condividi</span></button>
+            <button class="share-btn" type="button" aria-label="Condividi la ricetta come immagine"><i class="ri-share-line" aria-hidden="true"></i></button>
             <div class="recipe-img">
               <img src="../../assets/food/mainfood/tonno-teriyaki.png" alt="Tonno Teriyaki">
             </div>
