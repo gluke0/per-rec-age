@@ -1,5 +1,6 @@
 import { createApp } from 'vue'
 import html2canvas from 'html2canvas';
+import 'remixicon/fonts/remixicon.css';
 import App from './App.vue'
 createApp(App).mount('#app')
 
