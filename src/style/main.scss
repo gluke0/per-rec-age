@@ -93,16 +93,6 @@ button,input { font:inherit; }
 .intro h1 { margin:14px 0; font:700 clamp(44px,6vw,80px)/1 'Fraunces',serif; letter-spacing:-.025em; }
 .intro h1 em { color:var(--green); }
 .intro-copy { max-width:400px; margin-bottom:0; color:var(--muted); font-size:16px; line-height:1.7; }
-.intro-note {
-  display:flex; align-items:center; gap:14px; padding:16px 22px;
-  background:var(--paper); border:1.5px dashed var(--orange); border-radius:18px;
-  color:var(--green); font-size:13px; line-height:1.4;
-  box-shadow:var(--shadow); transform:rotate(1.6deg);
-  transition:transform .25s ease;
-}
-.intro-note:hover { transform:rotate(0deg) scale(1.02); }
-.intro-note strong { color:var(--ink); }
-.note-icon { display:grid; place-items:center; width:42px; height:42px; border-radius:50%; background:linear-gradient(135deg, var(--orange), var(--green)); color:var(--paper); font-size:22px; flex:none; }
 
 /* ---------- search ---------- */
 .inputsearch { padding:0 28px 64px; }
@@ -186,9 +176,9 @@ section { scroll-margin-top:96px; }
 .cook-details>div+div { margin-top:10px; }
 .cook-details i { color:var(--green); font-size:16px; margin-top:1px; }
 .open-recipe {
-  display:flex; align-items:center; justify-content:center; gap:8px;
-  height:42px; margin:8px 14px 14px; border-radius:999px;
-  background:var(--sage); color:var(--green); font-size:20px;
+  display:flex; align-items:center; justify-content:center; gap:6px;
+  height:32px; margin:4px 14px 12px; border-radius:999px;
+  background:var(--sage); color:var(--green); font-size:15px;
   transition:background .2s ease, color .2s ease, transform .2s ease;
 }
 .open-recipe:hover { background:var(--green); color:var(--paper); transform:scale(1.02); }
@@ -226,7 +216,6 @@ footer .tagline { margin:0; color:var(--muted); font-size:12px; letter-spacing:.
   .menu .info-nav span { display:none; }
   .info-div { right:18px; top:118px; max-width:calc(100vw - 36px); }
   .intro { display:block; padding:52px 18px 34px; }
-  .intro-note { margin-top:30px; width:fit-content; }
   .inputsearch { padding:0 18px 50px; }
   .part-container { padding:0 18px 54px; }
   .recipe-card-wrapper { grid-template-columns:1fr; }

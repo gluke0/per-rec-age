@@ -49,10 +49,6 @@ export default {
             <h1 id="page-title">Cosa portiamo<br><em>in tavola?</em></h1>
             <p class="intro-copy">Idee buone, ingredienti semplici e quel pizzico di creatività che cambia tutto.</p>
          </div>
-         <div class="intro-note">
-            <span class="note-icon"><i class="ri-sparkling-2-line" aria-hidden="true"></i></span>
-            <span><strong>Scelto per te</strong><br>Ricette da preparare oggi</span>
-         </div>
       </section>
       <div class="inputsearch">
          <label for="searchInput">Cerca nel ricettario</label>
