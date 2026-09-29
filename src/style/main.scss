@@ -203,7 +203,7 @@ section { scroll-margin-top:96px; }
 }
 .back-to-top:hover { transform:translateY(-4px) scale(1.06); }
 footer { padding:36px 28px 30px; border-top:1px solid var(--line); text-align:center; background:color-mix(in srgb, var(--paper) 60%, transparent); }
-footer .credits { font:700 18px 'Fraunces',serif; letter-spacing:.01em; margin-bottom:6px; }
+footer .credits { font:700 18px 'Fraunces',serif; letter-spacing:.01em; margin-bottom:6px; padding: 0.8rem }
 footer .tagline { margin:0; color:var(--muted); font-size:12px; letter-spacing:.1em; text-transform:uppercase; }
 
 /* ---------- responsive ---------- */

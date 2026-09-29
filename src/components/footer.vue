@@ -13,8 +13,7 @@ export default{
 
 <template>
    <footer>
-      <div class="credits">Cheffy</div>
-      <p class="tagline">Ricette di casa, senza complicazioni · 2026</p>
+      <div class="credits"></div>
    </footer>
 </template>
 
