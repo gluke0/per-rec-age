@@ -13,7 +13,9 @@ export default{
 
 <template>
    <footer>
-      <div class="credits"></div>
+      <div class="credits">
+         
+      </div>
    </footer>
 </template>
 
