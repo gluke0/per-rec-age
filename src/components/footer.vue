@@ -12,10 +12,7 @@ export default{
 </script>
 
 <template>
-   <footer>
-      <div class="credits">Cheffy · il ricettario di casa</div>
-      <p class="tagline">Ricette semplici e genuine</p>
-   </footer>
+   
 </template>
 
 <style lang="scss">
