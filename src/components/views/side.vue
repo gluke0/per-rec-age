@@ -47,11 +47,11 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Sciogliere il lievito in acqua tiepida e poi unire a farina, olio e zucchero.</li>
-                <li>> Cominciare ad impastare aggiungendo l'acqua rimanente poco alla volta.</li>
-                <li>> Aggiungere il sale e continuare a lavorare per qualche minuto una volta completato l'impasto.</li>
-                <li>> Porre impasto in una ciotola e lasciare lievitare fino a raddoppio, circa 2 ore.</li>
-                <li>> Dividere l'impasto in 8 porzioni, stenderlo in sfoglie di circa 20cm di diametro e procedere con la cottura.</li>
+                <li> Sciogliere il lievito in acqua tiepida e poi unire a farina, olio e zucchero.</li>
+                <li> Cominciare ad impastare aggiungendo l'acqua rimanente poco alla volta.</li>
+                <li> Aggiungere il sale e continuare a lavorare per qualche minuto una volta completato l'impasto.</li>
+                <li> Porre impasto in una ciotola e lasciare lievitare fino a raddoppio, circa 2 ore.</li>
+                <li> Dividere l'impasto in 8 porzioni, stenderlo in sfoglie di circa 20cm di diametro e procedere con la cottura.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -92,8 +92,8 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Tagliare la polenta fredda, o un panetto già pronto, a fette di circa mezzo centimetro.</li>
-                <li>> Disporre le fette nella teglia della friggitrice ad aria.</li>
+                <li> Tagliare la polenta fredda, o un panetto già pronto, a fette di circa mezzo centimetro.</li>
+                <li> Disporre le fette nella teglia della friggitrice ad aria.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -136,9 +136,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Lavare i pomodorini, tagliarli a metà e metterli in una ciotola con olio EVO, un pizzico di sale e origano.</li>
-                <li>> Una volta mescolato delicatamente, adagiare i pomodirini, uno ad uno, sulla teglia della friggitrice ad aria con la polpa rivolta verso l'alto.</li>
-                <li>> Aggiungere qualche granello di zucchero di canna per aiutare la caramelizzazione e cuocere.</li>
+                <li> Lavare i pomodorini, tagliarli a metà e metterli in una ciotola con olio EVO, un pizzico di sale e origano.</li>
+                <li> Una volta mescolato delicatamente, adagiare i pomodirini, uno ad uno, sulla teglia della friggitrice ad aria con la polpa rivolta verso l'alto.</li>
+                <li> Aggiungere qualche granello di zucchero di canna per aiutare la caramelizzazione e cuocere.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -181,8 +181,8 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Lavare il radicchio, tagliarlo in quarti per il lungo e metterlo in una teglia con carta da forno.</li>
-                <li>> Cospargere con olio EVO, salare e infornare.</li>
+                <li> Lavare il radicchio, tagliarlo in quarti per il lungo e metterlo in una teglia con carta da forno.</li>
+                <li> Cospargere con olio EVO, salare e infornare.</li>
               </ul>
             </div>
             <div class="separator"></div>
