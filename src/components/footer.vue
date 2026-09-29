@@ -13,9 +13,8 @@ export default{
 
 <template>
    <footer>
-      <div class="credits">
-         
-      </div>
+      <div class="credits">Cheffy · il ricettario di casa</div>
+      <p class="tagline">Ricette semplici e genuine</p>
    </footer>
 </template>
 
