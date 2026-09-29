@@ -38,7 +38,6 @@ export default{
                <a href="#dessert">Dolci</a>
             </div>
             <button class="info-nav" type="button" aria-label="Apri legenda alimentare" title="Legenda alimentare">
-               <i class="ri-information-2-line" aria-hidden="true"></i>
                <span>Legenda</span>
             </button>
          </nav>
