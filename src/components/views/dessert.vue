@@ -178,9 +178,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Lavare la mela, tagliarla a metà, togliere il torsolo e un po' della polpa centrale.</li>
-                <li>> Spolverare con cannella e zucchero di canna.</li>
-                <li>> Porre le cestello della friggitrice ad aria.</li>
+                <li> Lavare la mela, tagliarla a metà, togliere il torsolo e un po' della polpa centrale.</li>
+                <li> Spolverare con cannella e zucchero di canna.</li>
+                <li> Porre le cestello della friggitrice ad aria.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -223,9 +223,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Lavare le mele, tagliarle a metà, togliere il torsolo e un po' della polpa centrale.</li>
-                <li>> Tritare la frutta secca e metterla in una ciotola con un po' di miele, cannella, zucchero di canna e mischiare il tutto.</li>
-                <li>> Riempire le mele e porre le cestello della friggitrice senza carta.</li>
+                <li> Lavare le mele, tagliarle a metà, togliere il torsolo e un po' della polpa centrale.</li>
+                <li> Tritare la frutta secca e metterla in una ciotola con un po' di miele, cannella, zucchero di canna e mischiare il tutto.</li>
+                <li> Riempire le mele e porre le cestello della friggitrice senza carta.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -270,9 +270,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Tritare grossolanamente le mandorle con la pelle.</li>
-                <li>> Unire in una ciotola farina, zucchero, margarina, mandorle, sale e amalgamare il tutto.</li>
-                <li>> Ottenuto un composto omogeneo stenderlo in una teglia con carta da forno ed infornare.</li>
+                <li> Tritare grossolanamente le mandorle con la pelle.</li>
+                <li> Unire in una ciotola farina, zucchero, margarina, mandorle, sale e amalgamare il tutto.</li>
+                <li> Ottenuto un composto omogeneo stenderlo in una teglia con carta da forno ed infornare.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -312,10 +312,10 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>> Pasta fillo</li>
-                <li>> Nutella</li>
-                <li>> Burro</li>
-                <li>> Zucchero a velo</li>
+                <li> Pasta fillo</li>
+                <li> Nutella</li>
+                <li> Burro</li>
+                <li> Zucchero a velo</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -407,11 +407,11 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Sbattere le uova con zucchero ed aggiungere il burro sciolto e lasciato raffreddare.</li>
-                <li>> Aggiungere successivamente la farina di cocco, i biscotti precedentemente tritati al mixer e amalgamare il tutto.</li>
-                <li>> Stendere il composto in un piatto e mettere in frigorifero per 30 minuti.</li>
-                <li>> Sciogliere il cioccolato e spalparlo sulla base.</li>
-                <li>> Riporre in frigorifero per almeno 3 ore prima del consumo.</li>
+                <li> Sbattere le uova con zucchero ed aggiungere il burro sciolto e lasciato raffreddare.</li>
+                <li> Aggiungere successivamente la farina di cocco, i biscotti precedentemente tritati al mixer e amalgamare il tutto.</li>
+                <li> Stendere il composto in un piatto e mettere in frigorifero per 30 minuti.</li>
+                <li> Sciogliere il cioccolato e spalparlo sulla base.</li>
+                <li> Riporre in frigorifero per almeno 3 ore prima del consumo.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -456,10 +456,10 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Tritare finemente il cioccolato e metterlo in una terrina con zucchero, burro, farina e vanillina.</li>
-                <li>> Sciogliere a bagnomaria e una volta freddo, aggiungere 3 tuorli.</li>
-                <li>> Montare gli albumi a neve ed incorporarli successivamente nel composto di cioccolato.</li>
-                <li>> Versare l'impasto in una teglia precedentemente imburrata e infornare.</li>
+                <li> Tritare finemente il cioccolato e metterlo in una terrina con zucchero, burro, farina e vanillina.</li>
+                <li> Sciogliere a bagnomaria e una volta freddo, aggiungere 3 tuorli.</li>
+                <li> Montare gli albumi a neve ed incorporarli successivamente nel composto di cioccolato.</li>
+                <li> Versare l'impasto in una teglia precedentemente imburrata e infornare.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -549,9 +549,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Mettere il burro e i Mars in padella, far sciogliere fino ad ottenere un composto omogeneo e togliere dal fuoco.</li>
-                <li>> Aggiungere i Coco Pops o riso soffiato a pioggia incorporando man mano fino alla consistenza desiderata.</li>
-                <li>> Versare il composto su carta da forno, schiacchiare a piacimento e lasciare raffreddare a temperatura ambiente.</li>
+                <li> Mettere il burro e i Mars in padella, far sciogliere fino ad ottenere un composto omogeneo e togliere dal fuoco.</li>
+                <li> Aggiungere i Coco Pops o riso soffiato a pioggia incorporando man mano fino alla consistenza desiderata.</li>
+                <li> Versare il composto su carta da forno, schiacchiare a piacimento e lasciare raffreddare a temperatura ambiente.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -592,9 +592,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Tritare grossolanamente le mandorle con la pelle.</li>
-                <li>> Unire in una ciotola farina, zucchero, burro sciolto e raffreddato, mandorle, sale e amalgamare il tutto.</li>
-                <li>> Ottenuto un composto omogeneo stenderlo in una teglia con carta da forno ed infornare.</li>
+                <li> Tritare grossolanamente le mandorle con la pelle.</li>
+                <li> Unire in una ciotola farina, zucchero, burro sciolto e raffreddato, mandorle, sale e amalgamare il tutto.</li>
+                <li> Ottenuto un composto omogeneo stenderlo in una teglia con carta da forno ed infornare.</li>
               </ul>
             </div>
             <div class="separator"></div>
