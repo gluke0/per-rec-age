@@ -95,7 +95,7 @@ button,input { font:inherit; }
 .intro-copy { max-width:400px; margin-bottom:0; color:var(--muted); font-size:16px; line-height:1.7; }
 
 /* ---------- search ---------- */
-.inputsearch { padding:0 28px 64px; }
+.inputsearch { padding:0 28px 64px; margin-top: 1.5rem; }
 .inputsearch label { display:block; margin:0 0 10px; color:var(--muted); font-size:12px; font-weight:700; letter-spacing:.1em; text-transform:uppercase; }
 .search-input-wrapper { position:relative; }
 .search-input-wrapper>i { position:absolute; top:19px; left:20px; color:var(--green); font-size:20px; pointer-events:none; }
