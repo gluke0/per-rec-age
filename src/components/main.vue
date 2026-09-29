@@ -43,13 +43,6 @@ export default {
 
 <template>
    <main class="main-wrapper" id="top">
-      <section class="intro" aria-labelledby="page-title">
-         <div>
-            <p class="eyebrow">IL RICETTARIO DI CASA</p>
-            <h1 id="page-title">Cosa portiamo<br><em>in tavola?</em></h1>
-            <p class="intro-copy">Idee buone, ingredienti semplici e quel pizzico di creatività che cambia tutto.</p>
-         </div>
-      </section>
       <div class="inputsearch">
          <label for="searchInput">Cerca nel ricettario</label>
          <div class="search-input-wrapper">
