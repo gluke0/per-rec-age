@@ -18,7 +18,6 @@ export default{
             <span class="brand-mark">C</span>
             <span>
                <strong>Cheffy</strong>
-               <small>ricette senza complicazioni</small>
             </span>
          </a>
          <nav class="menu" aria-label="Categorie ricette">
