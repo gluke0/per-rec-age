@@ -312,10 +312,10 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li> Pasta fillo</li>
-                <li> Nutella</li>
-                <li> Burro</li>
-                <li> Zucchero a velo</li>
+                <li> -Pasta fillo</li>
+                <li> - Nutella</li>
+                <li> - Burro</li>
+                <li> - Zucchero a velo</li>
               </ul>
             </div>
             <div class="separator"></div>
