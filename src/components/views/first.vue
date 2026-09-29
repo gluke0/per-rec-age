@@ -50,9 +50,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Cuocere il farro, scolare e stendere su un panno per raffreddarlo.</li>
-                <li>> Tagliare pomodorini, olive e mozzarella a piacere, unire al farro in un contenitore e aggiungere olio EVO.</li>
-                <li>> Aggiungere tonno e capperi a piacere, salare, pepare, una spruzzata di origano e porre in frigorifero.</li>
+                <li> Cuocere il farro, scolare e stendere su un panno per raffreddarlo.</li>
+                <li> Tagliare pomodorini, olive e mozzarella a piacere, unire al farro in un contenitore e aggiungere olio EVO.</li>
+                <li> Aggiungere tonno e capperi a piacere, salare, pepare, una spruzzata di origano e porre in frigorifero.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -94,9 +94,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Rivestire il fondo della teglia con besciamella. </li>
-                <li>> Adagiare uno strato di pasta e coprire con besciamella e pesto.</li>
-                <li>> Ripetere l'operazione fino a raggiungere il numero di strati desiderati.</li>
+                <li> Rivestire il fondo della teglia con besciamella. </li>
+                <li> Adagiare uno strato di pasta e coprire con besciamella e pesto.</li>
+                <li> Ripetere l'operazione fino a raggiungere il numero di strati desiderati.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -146,9 +146,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> In una pentola mettere olio EVO e soffriggere l'aglio.</li>
-                <li>> Rimuovere aglio, spegnere il fuoco, aggiungere la bottarga grattuggiata e mescolare per qualche secondo.</li>
-                <li>> Cuocere la pasta, scolarla e versarla nella padella con il condimento, mescolare bene e servire.</li>
+                <li> In una pentola mettere olio EVO e soffriggere l'aglio.</li>
+                <li> Rimuovere aglio, spegnere il fuoco, aggiungere la bottarga grattuggiata e mescolare per qualche secondo.</li>
+                <li> Cuocere la pasta, scolarla e versarla nella padella con il condimento, mescolare bene e servire.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -191,9 +191,9 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Mettere burro a temperatura ambiente, formaggio grattuggiato e pepe in un contenitore.</li>
-                <li>> Mischiare e versare la pasta, non scolata completamente, una volta cotta.</li>
-                <li>> Mescolare la pasta.</li>
+                <li> Mettere burro a temperatura ambiente, formaggio grattuggiato e pepe in un contenitore.</li>
+                <li> Mischiare e versare la pasta, non scolata completamente, una volta cotta.</li>
+                <li> Mescolare la pasta.</li>
               </ul>
             </div>
             <div class="separator"></div>

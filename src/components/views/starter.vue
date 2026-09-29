@@ -43,8 +43,8 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Scolare, risciacquare e sminuzzare la giardiniera.</li>
-                <li>> Unire tonno, giardiniera e concentrato di pomodoro a piacimento.</li>
+                <li> Scolare, risciacquare e sminuzzare la giardiniera.</li>
+                <li> Unire tonno, giardiniera e concentrato di pomodoro a piacimento.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -88,11 +88,11 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Tagliare il vitello, il fegato e il prosciutto a pezzetti e coprire il tutto per 2 ore con del latte.</li>
-                <li>> Sgocciolare dal latte, che deve essere conservato, e far rosolare con un pezzetto di burro per 15 minuti.</li>
-                <li>> Aggiungere il latte con foglie di salvia e marsala e lasciare cuocere per 20 minuti.</li>
-                <li>> Frullare tutti gli ingredienti, aggiungendo i 100g di burro fino ad ottenere un composto omogeneo.</li>
-                <li>> Mettere la gelatina sul fondo di uno stampo e, una volta solidificata, versare il patè.</li>
+                <li> Tagliare il vitello, il fegato e il prosciutto a pezzetti e coprire il tutto per 2 ore con del latte.</li>
+                <li> Sgocciolare dal latte, che deve essere conservato, e far rosolare con un pezzetto di burro per 15 minuti.</li>
+                <li> Aggiungere il latte con foglie di salvia e marsala e lasciare cuocere per 20 minuti.</li>
+                <li> Frullare tutti gli ingredienti, aggiungendo i 100g di burro fino ad ottenere un composto omogeneo.</li>
+                <li> Mettere la gelatina sul fondo di uno stampo e, una volta solidificata, versare il patè.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -142,10 +142,10 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Tagliare a fette sottili la cipolla.</li>
-                <li>> Stendere un foglio di carta da forno in una teglia e creare delle macchie con un filo di olio, 4 gocce di aceto balsamico, un cucchiaino di miele e un pizzico di sale.</li>
-                <li>> Disporre le fette di cipolla in modo da coprire la macchia appena creata e, successivamente, disporre un cerchio di pasta sfoglia a coprire la cipolla.</li>
-                <li>> Bucare con una forchetta la pasta soglia, spennellare con uovo e infornare.</li>
+                <li> Tagliare a fette sottili la cipolla.</li>
+                <li> Stendere un foglio di carta da forno in una teglia e creare delle macchie con un filo di olio, 4 gocce di aceto balsamico, un cucchiaino di miele e un pizzico di sale.</li>
+                <li> Disporre le fette di cipolla in modo da coprire la macchia appena creata e, successivamente, disporre un cerchio di pasta sfoglia a coprire la cipolla.</li>
+                <li> Bucare con una forchetta la pasta soglia, spennellare con uovo e infornare.</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -189,8 +189,8 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Prendere un pirottino di alluminio, spennellare fondo e pareti con olio di oliva e spolverare con sale e pepe.</li>
-                <li>> Rompere l'uovo all'interno, aggiungere pizzico di sale e pepe ed infornare.</li>
+                <li> Prendere un pirottino di alluminio, spennellare fondo e pareti con olio di oliva e spolverare con sale e pepe.</li>
+                <li> Rompere l'uovo all'interno, aggiungere pizzico di sale e pepe ed infornare.</li>
               </ul>
             </div>
             <div class="separator"></div>
