@@ -32,6 +32,7 @@
             <div class="recipe-info-details">
               <span class="leg-f inf-r-mar">P</span>
             </div>
+            <div class="separator"></div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
@@ -72,6 +73,7 @@
             <div class="recipe-info-details">
               <span class="leg-m inf-r-mar">C</span>
             </div>
+            <div class="separator"></div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
@@ -127,6 +129,7 @@
             <div class="recipe-info-details">
               <span class="leg-v inf-r-mar">V</span>
             </div>
+            <div class="separator"></div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
@@ -177,6 +180,7 @@
               <span class="leg-v inf-r-mar">V</span>
               <span class="leg-af inf-r-mar">AF</span>
             </div>
+            <div class="separator"></div>
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
