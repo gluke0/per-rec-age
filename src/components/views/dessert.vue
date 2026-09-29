@@ -133,8 +133,8 @@
             <div class="separator"></div>
             <div class="recipe-process hidden">
               <ul>
-                <li>> Mettere nel frullatore il gelato, il latte e i datteri sminuzzati.</li>
-                <li>> Frullare il tutto fino ad ottenere un composto omogeneo.</li>
+                <li> Mettere nel frullatore il gelato, il latte e i datteri sminuzzati.</li>
+                <li> Frullare il tutto fino ad ottenere un composto omogeneo.</li>
               </ul>
             </div>
             <div class="separator"></div>
