@@ -36,13 +36,13 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 400g farina</li>
-                <li>- 200g zucchero</li>
-                <li>- 200g burro</li>
-                <li>- 5 tuorli</li>
-                <li>- Pizzico di sale</li>
-                <li>- 2 bustine di vanilina</li>
-                <li>- 1 lievito Bertolini</li>
+                <li>400g farina</li>
+                <li>200g zucchero</li>
+                <li>200g burro</li>
+                <li>5 tuorli</li>
+                <li>Pizzico di sale</li>
+                <li>2 bustine di vanilina</li>
+                <li>1 lievito Bertolini</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -80,14 +80,14 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 300g farina</li>
-                <li>- 100g zucchero</li>
-                <li>- 150g burro</li>
-                <li>- 2 tuorli</li>
-                <li>- Pizzico di sale</li>
-                <li>- 1 cucchiaio di marsala</li>
-                <li>- 1/2 bustina di lievito Bertolini</li>
-                <li>- Scorza di limone</li>
+                <li>300g farina</li>
+                <li>100g zucchero</li>
+                <li>150g burro</li>
+                <li>2 tuorli</li>
+                <li>Pizzico di sale</li>
+                <li>1 cucchiaio di marsala</li>
+                <li>1/2 bustina di lievito Bertolini</li>
+                <li>Scorza di limone</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -128,9 +128,9 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 130g gelato alla panna</li>
-                <li>- 100ml latte</li>
-                <li>- 35g datteri</li>
+                <li>130g gelato alla panna</li>
+                <li>100ml latte</li>
+                <li>35g datteri</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -174,9 +174,9 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Mele Renetta</li>
-                <li>- Zucchero di canna</li>
-                <li>- Cannella</li>
+                <li>Mele Renetta</li>
+                <li>Zucchero di canna</li>
+                <li>Cannella</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -218,11 +218,11 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Mele Renetta</li>
-                <li>- Frutta secca</li>
-                <li>- Miele</li>
-                <li>- Zucchero di canna</li>
-                <li>- Cannella</li>
+                <li>Mele Renetta</li>
+                <li>Frutta secca</li>
+                <li>Miele</li>
+                <li>Zucchero di canna</li>
+                <li>Cannella</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -266,11 +266,11 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 200g farina</li>
-                <li>- 100g zucchero</li>
-                <li>- 100g margarina</li>
-                <li>- 100g mandorle</li>
-                <li>- 1 pizzico di sale</li>
+                <li>200g farina</li>
+                <li>100g zucchero</li>
+                <li>100g margarina</li>
+                <li>100g mandorle</li>
+                <li>1 pizzico di sale</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -319,10 +319,10 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li> -Pasta fillo</li>
-                <li> - Nutella</li>
-                <li> - Burro</li>
-                <li> - Zucchero a velo</li>
+                <li>Pasta fillo</li>
+                <li>Nutella</li>
+                <li>Burro</li>
+                <li>Zucchero a velo</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -367,7 +367,7 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- </li>
+                <li></li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -405,12 +405,12 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 200g farina di cocco</li>
-                <li>- 100g biscotti secchi</li>
-                <li>- 100g zucchero</li>
-                <li>- 100g cioccolato fondente</li>
-                <li>- 80g burro</li>
-                <li>- 2 uova</li>
+                <li>200g farina di cocco</li>
+                <li>100g biscotti secchi</li>
+                <li>100g zucchero</li>
+                <li>100g cioccolato fondente</li>
+                <li>80g burro</li>
+                <li>2 uova</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -455,12 +455,12 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 200g cioccolato fondente</li>
-                <li>- 100g burro</li>
-                <li>- 3 cucchiai di farina</li>
-                <li>- 6 cucchiai di zucchero</li>
-                <li>- 3 uova</li>
-                <li>- 1 bustina di vanilina</li>
+                <li>200g cioccolato fondente</li>
+                <li>100g burro</li>
+                <li>3 cucchiai di farina</li>
+                <li>6 cucchiai di zucchero</li>
+                <li>3 uova</li>
+                <li>1 bustina di vanilina</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -504,18 +504,18 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 500g farina</li>
-                <li>- 5 tuorli</li>
-                <li>- 3 cucchiai di zucchero</li>
-                <li>- 4 cucchiai di olio d'oliva</li>
-                <li>- 1 pizzico di sale</li>
-                <li>- 1/2 cucchiaino di bicarbonato</li>
-                <li>- 50g lievito</li>
-                <li>- 1/2 bicchiere latte</li>
+                <li>500g farina</li>
+                <li>5 tuorli</li>
+                <li>3 cucchiai di zucchero</li>
+                <li>4 cucchiai di olio d'oliva</li>
+                <li>1 pizzico di sale</li>
+                <li>1/2 cucchiaino di bicarbonato</li>
+                <li>50g lievito</li>
+                <li>1/2 bicchiere latte</li>
                 <div class="separator-ingredients separator-ingredients--narrow"></div>
-                <li>- 200g burro</li>
-                <li>- 200g zucchero</li>
-                <li>- uvetta</li>
+                <li>200g burro</li>
+                <li>200g zucchero</li>
+                <li>uvetta</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -553,9 +553,9 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 4/5 Mars</li>
-                <li>- Coco Pops o riso soffiato</li>
-                <li>- 20g burro</li>
+                <li>4/5 Mars</li>
+                <li>Coco Pops o riso soffiato</li>
+                <li>20g burro</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -595,11 +595,11 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 200g farina</li>
-                <li>- 100g zucchero</li>
-                <li>- 100g burro</li>
-                <li>- 100g mandorle</li>
-                <li>- 1 pizzico di sale</li>
+                <li>200g farina</li>
+                <li>100g zucchero</li>
+                <li>100g burro</li>
+                <li>100g mandorle</li>
+                <li>1 pizzico di sale</li>
               </ul>
             </div>
             <div class="separator"></div>

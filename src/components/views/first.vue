@@ -36,16 +36,16 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Farro</li>
-                <li>- Pomodorini</li>
-                <li>- Tonno</li>
-                <li>- Mozzarella</li>
-                <li>- Capperi</li>
-                <li>- Olive</li>
-                <li>- Olio EVO</li>
-                <li>- Sale</li> 
-                <li>- Pepe</li>
-                <li>- Origano </li>
+                <li>Farro</li>
+                <li>Pomodorini</li>
+                <li>Tonno</li>
+                <li>Mozzarella</li>
+                <li>Capperi</li>
+                <li>Olive</li>
+                <li>Olio EVO</li>
+                <li>Sale</li> 
+                <li>Pepe</li>
+                <li>Origano </li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -88,9 +88,9 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Pasta per lasagne</li>
-                <li>- Pesto</li>
-                <li>- Besciamella</li>
+                <li>Pasta per lasagne</li>
+                <li>Pesto</li>
+                <li>Besciamella</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -139,11 +139,11 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Pasta</li>
-                <li>- Bottarga di muggine</li>
-                <li>- Aglio</li>
-                <li>- Olio EVO</li>
-                <li>- Sale</li>
+                <li>Pasta</li>
+                <li>Bottarga di muggine</li>
+                <li>Aglio</li>
+                <li>Olio EVO</li>
+                <li>Sale</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -186,10 +186,10 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Pasta</li>
-                <li>- Formaggio grattuggiato</li>
-                <li>- Pepe nero</li>
-                <li>- Burro</li>
+                <li>Pasta</li>
+                <li>Formaggio grattuggiato</li>
+                <li>Pepe nero</li>
+                <li>Burro</li>
               </ul>
             </div>
             <div class="separator"></div>

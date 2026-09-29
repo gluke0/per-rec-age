@@ -36,9 +36,9 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Giardiniera</li>
-                <li>- Tonno in scatola </li>
-                <li>- Concentrato di pomodoro</li>
+                <li>Giardiniera</li>
+                <li>Tonno in scatola </li>
+                <li>Concentrato di pomodoro</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -77,14 +77,14 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 200g carne di vitello</li>
-                <li>- 200g fegato di vitello</li>
-                <li>- 200g prosciutto crudo</li>
-                <li>- Latte</li>
-                <li>- 4 foglie di erba salvia</li>
-                <li>- 1/2 bicchiere di marsala secco</li>
-                <li>- 100g burro</li>
-                <li>- Gelatina</li>
+                <li>200g carne di vitello</li>
+                <li>200g fegato di vitello</li>
+                <li>200g prosciutto crudo</li>
+                <li>Latte</li>
+                <li>4 foglie di erba salvia</li>
+                <li>1/2 bicchiere di marsala secco</li>
+                <li>100g burro</li>
+                <li>Gelatina</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -133,13 +133,13 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Pasta sfoglia</li>
-                <li>- Cipolla di Tropea</li>
-                <li>- Miele</li>
-                <li>- Olio EVO</li>
-                <li>- Aceto balsamico</li>
-                <li>- Sale</li>
-                <li>- Uovo</li>
+                <li>Pasta sfoglia</li>
+                <li>Cipolla di Tropea</li>
+                <li>Miele</li>
+                <li>Olio EVO</li>
+                <li>Aceto balsamico</li>
+                <li>Sale</li>
+                <li>Uovo</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -184,10 +184,10 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Uova</li>
-                <li>- Olio EVO</li>
-                <li>- Sale</li>
-                <li>- Pepe</li>
+                <li>Uova</li>
+                <li>Olio EVO</li>
+                <li>Sale</li>
+                <li>Pepe</li>
               </ul>
             </div>
             <div class="separator"></div>

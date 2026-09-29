@@ -36,13 +36,13 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- 500g farina</li>
-                <li>- 300ml acqua</li>
-                <li>- 150ml latte</li>
-                <li>- 1 cucchiaino di zucchero</li>
-                <li>- 10g sale</li>
-                <li>- 1 cucchiaio olio EVO</li>
-                <li>- 12g lievito di birra fresco</li>
+                <li>500g farina</li>
+                <li>300ml acqua</li>
+                <li>150ml latte</li>
+                <li>1 cucchiaino di zucchero</li>
+                <li>10g sale</li>
+                <li>1 cucchiaio olio EVO</li>
+                <li>12g lievito di birra fresco</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -88,7 +88,7 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Polenta</li>
+                <li>Polenta</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -129,11 +129,11 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Pomodorini ciliegino</li>
-                <li>- Olio EVO</li>
-                <li>- Sale</li>
-                <li>- Origano</li>
-                <li>- Zucchero di canna</li>
+                <li>Pomodorini ciliegino</li>
+                <li>Olio EVO</li>
+                <li>Sale</li>
+                <li>Origano</li>
+                <li>Zucchero di canna</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -177,9 +177,9 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Radicchio</li>
-                <li>- Olio EVO</li>
-                <li>- Sale</li>
+                <li>Radicchio</li>
+                <li>Olio EVO</li>
+                <li>Sale</li>
               </ul>
             </div>
             <div class="separator"></div>

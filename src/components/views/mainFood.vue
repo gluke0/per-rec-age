@@ -37,11 +37,11 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Feta</li>
-                <li>- Pasta fillo</li>
-                <li>- Olio EVO</li>
-                <li>- Semi di sesamo</li>
-                <li>- Miele</li>
+                <li>Feta</li>
+                <li>Pasta fillo</li>
+                <li>Olio EVO</li>
+                <li>Semi di sesamo</li>
+                <li>Miele</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -87,11 +87,11 @@
               <div class="separator-ingredients"></div>
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Mozzarella</li>
-                <li>- Uova</li>
-                <li>- Pangrattato</li>
-                <li>- Farina</li>
-                <li>- Sale</li>
+                <li>Mozzarella</li>
+                <li>Uova</li>
+                <li>Pangrattato</li>
+                <li>Farina</li>
+                <li>Sale</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -139,12 +139,12 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Petto di pollo</li>
-                <li>- Olio EVO</li>
-                <li>- Mix di erbe</li>
-                <li>- Sale</li>
-                <li>- Paprika</li>
-                <li>- Zenzero in polvere</li>
+                <li>Petto di pollo</li>
+                <li>Olio EVO</li>
+                <li>Mix di erbe</li>
+                <li>Sale</li>
+                <li>Paprika</li>
+                <li>Zenzero in polvere</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -186,11 +186,11 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- </li>
-                <li>- </li>
-                <li>- </li>
-                <li>- </li>
-                <li>- </li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -231,8 +231,8 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Trancio di salmone</li>
-                <li>- Spezie</li>
+                <li>Trancio di salmone</li>
+                <li>Spezie</li>
               </ul>
             </div>
             <div class="separator"></div>
@@ -279,8 +279,8 @@
             <div class="recipe-ingredients">
               <h4>Ingredienti:</h4>
               <ul class="ingredients-list">
-                <li>- Filetto di tonno a fette</li>
-                <li>- Salsa teriyaki</li>
+                <li>Filetto di tonno a fette</li>
+                <li>Salsa teriyaki</li>
               </ul>
             </div>
             <div class="separator"></div>

@@ -274,8 +274,8 @@ section { scroll-margin-top:110px; }
 .ingredients-list,.recipe-process ul { margin:0; padding:0; list-style:none; color:var(--ink-soft); font-size:13.5px; line-height:1.65; }
 .separator { border-top:1px solid rgba(35,26,17,.1); margin:2px 20px; }
 .recipe-process,.cook-details { padding:14px 20px; color:var(--ink-soft); font-size:13.5px; line-height:1.65; }
-.recipe-process ul li { padding-left:18px; position:relative; margin-bottom:6px; }
-.recipe-process ul li::before {
+.ingredients-list li,.recipe-process ul li { padding-left:18px; position:relative; margin-bottom:6px; }
+.ingredients-list li::before,.recipe-process ul li::before {
   content:""; position:absolute; left:2px; top:8px; width:7px; height:7px; border-radius:50%;
   background:linear-gradient(135deg, var(--saffron), var(--tomato));
   box-shadow:0 1px 4px rgba(200,69,31,.5);
