@@ -315,7 +315,7 @@ section { scroll-margin-top:110px; }
 .back-to-top {
   position:fixed; right:24px; bottom:24px; z-index:15;
   display:grid; place-items:center; width:52px; height:52px; border-radius:50%;
-  border:1px solid rgba(255,255,255,.6); cursor:pointer; font-size:20px; color:#fff;
+  border:1px solid rgba(255,255,255,.6); cursor:pointer; font-size:20px; color: white;
   background:linear-gradient(135deg, #d8552a, var(--tomato-deep));
   -webkit-backdrop-filter:blur(10px); backdrop-filter:blur(10px);
   box-shadow:
