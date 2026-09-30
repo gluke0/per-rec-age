@@ -232,7 +232,7 @@ section { scroll-margin-top:110px; }
     inset 0 -6px 18px rgba(var(--warm),.12),
     0 10px 28px rgba(var(--warm),.16);
 }
-.recipe-img img { width:100%; height:100%; display:block; object-fit:cover; transition:transform .5s cubic-bezier(.2,.7,.3,1); }
+.recipe-img img { width:90%; height:90%; display:block; object-fit:fill; transition:transform .5s cubic-bezier(.2,.7,.3,1); margin:auto; }
 .recipe-card:hover .recipe-img img { transform:scale(1.07); }
 .recipe-img::after {
   content:""; position:absolute; inset:0; border-radius:inherit; pointer-events:none;
