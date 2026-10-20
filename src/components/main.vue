@@ -18,15 +18,17 @@ export default {
    methods: {
       searchRecipes(){
          let searchInput = document.getElementById('searchInput');
-         let searchQuery = (searchInput?.value || this.searchText || '').toLowerCase().trim();
+         let normalize = (str) => (str || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+         let tokens = normalize(searchInput?.value || this.searchText || '').split(/\s+/).filter(Boolean);
          let recipeCards = document.querySelectorAll('.recipe-card');
          recipeCards.forEach(card =>{
-            let recipeData = (card.getAttribute('data-recipe') || "").toLowerCase();
-            if (recipeData.includes(searchQuery)){
+            if (!tokens.length){
                card.classList.remove('hidden');
-            }else{
-               card.classList.add('hidden');
+               return;
             }
+            let title = card.querySelector('.recipe-title h3')?.textContent || '';
+            let haystack = normalize(title + ' ' + (card.getAttribute('data-recipe') || ''));
+            card.classList.toggle('hidden', !tokens.every(token => haystack.includes(token)));
          });
       },
       clearSearch(){
