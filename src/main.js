@@ -10,11 +10,12 @@ let infoDiv = document.querySelector('.info-div');
 let closeX = document.querySelector('.close-x');
 let autoClose;
 
+if (infoNavDiv && infoDiv && closeX){
 infoNavDiv.addEventListener('click', function(){
     infoDiv.classList.toggle('hidden');
 
     clearTimeout(autoClose);
-    
+
     if (!infoDiv.classList.contains('hidden')){
         autoClose = setTimeout(function(){
             infoDiv.classList.add('hidden');
@@ -24,11 +25,12 @@ infoNavDiv.addEventListener('click', function(){
 
 closeX.addEventListener('click', function(){
     clearTimeout(autoClose);
-    
+
     if (!infoDiv.classList.contains('hidden')){
         infoDiv.classList.add('hidden');
     }
 });
+}
 
 // open and close a recipe
 document.querySelectorAll('.recipe-card').forEach(card =>{
@@ -47,7 +49,8 @@ document.querySelectorAll('.recipe-card').forEach(card =>{
     });
 
     // closing with arrows - prevent to close when copying text
-    card.querySelector('.open-recipe').addEventListener('click', () =>{
+    let openRecipeBtn = card.querySelector('.open-recipe');
+    if (openRecipeBtn) openRecipeBtn.addEventListener('click', () =>{
         card.classList.toggle('expand');
         let arrowExpand = card.querySelector('.open-recipe i');
         if (arrowExpand){
